@@ -1,0 +1,1741 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Seguridad\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### XSS",
+   "x": 520,
+   "y": -1159,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[XSS]]",
+   "x": 960,
+   "y": -1700,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[XSS - qué es y por qué ocurre]]",
+   "x": 960,
+   "y": -1628,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[XSS - reflejado]]",
+   "x": 960,
+   "y": -1556,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[XSS - almacenado]]",
+   "x": 960,
+   "y": -1484,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[XSS - basado en DOM]]",
+   "x": 960,
+   "y": -1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[XSS - contextos de salida (HTML, atributo, JavaScript y URL)]]",
+   "x": 960,
+   "y": -1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[XSS - impacto real]]",
+   "x": 960,
+   "y": -1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[XSS - codificación de salida según el contexto]]",
+   "x": 960,
+   "y": -1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[XSS - textContent vs innerHTML]]",
+   "x": 960,
+   "y": -1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t9",
+   "type": "text",
+   "text": "[[XSS - escape de datos del API en templates de JS]]",
+   "x": 960,
+   "y": -1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t10",
+   "type": "text",
+   "text": "[[XSS - sanitización de HTML (DOMPurify)]]",
+   "x": 960,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t11",
+   "type": "text",
+   "text": "[[XSS - protección por defecto de React y dangerouslySetInnerHTML]]",
+   "x": 960,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t12",
+   "type": "text",
+   "text": "[[XSS - Razor y HtmlEncoder en ASP.NET Core]]",
+   "x": 960,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t13",
+   "type": "text",
+   "text": "[[Content Security Policy]]",
+   "x": 960,
+   "y": -764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t14",
+   "type": "text",
+   "text": "[[Trusted Types]]",
+   "x": 960,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t15",
+   "type": "text",
+   "text": "[[XSS - cómo detectarlo]]",
+   "x": 960,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Otras vulnerabilidades web",
+   "x": 520,
+   "y": 181,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[CSRF]]",
+   "x": 960,
+   "y": -468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[CORS]]",
+   "x": 960,
+   "y": -396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Control de acceso roto e IDOR]]",
+   "x": 960,
+   "y": -324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Autenticación rota]]",
+   "x": 960,
+   "y": -252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Ataques a JWT y cómo evitarlos]]",
+   "x": 960,
+   "y": -180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[SSRF]]",
+   "x": 960,
+   "y": -108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[Path traversal]]",
+   "x": 960,
+   "y": -36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7",
+   "type": "text",
+   "text": "[[Subida de archivos insegura]]",
+   "x": 960,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t8",
+   "type": "text",
+   "text": "[[Deserialización insegura]]",
+   "x": 960,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t9",
+   "type": "text",
+   "text": "[[XXE]]",
+   "x": 960,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t10",
+   "type": "text",
+   "text": "[[Clickjacking]]",
+   "x": 960,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t11",
+   "type": "text",
+   "text": "[[postMessage seguro (validar origen)]]",
+   "x": 960,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t12",
+   "type": "text",
+   "text": "[[Open redirect]]",
+   "x": 960,
+   "y": 396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t13",
+   "type": "text",
+   "text": "[[Exposición de datos sensibles]]",
+   "x": 960,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t14",
+   "type": "text",
+   "text": "[[Componentes y dependencias vulnerables]]",
+   "x": 960,
+   "y": 540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t15",
+   "type": "text",
+   "text": "[[Configuración insegura]]",
+   "x": 960,
+   "y": 612,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t16",
+   "type": "text",
+   "text": "[[Secretos en repositorios]]",
+   "x": 960,
+   "y": 684,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t17",
+   "type": "text",
+   "text": "[[Condiciones de carrera]]",
+   "x": 960,
+   "y": 756,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t18",
+   "type": "text",
+   "text": "[[Seguridad de APIs]]",
+   "x": 960,
+   "y": 828,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Hacking ético",
+   "x": 520,
+   "y": 1305,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Qué es el hacking ético]]",
+   "x": 960,
+   "y": 980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Marco legal y autorización por escrito]]",
+   "x": 960,
+   "y": 1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Alcance (scope) de una prueba de seguridad]]",
+   "x": 960,
+   "y": 1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[Qué nunca hacer]]",
+   "x": 960,
+   "y": 1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4",
+   "type": "text",
+   "text": "[[Divulgación responsable]]",
+   "x": 960,
+   "y": 1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t5",
+   "type": "text",
+   "text": "[[Programas de bug bounty]]",
+   "x": 960,
+   "y": 1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t6",
+   "type": "text",
+   "text": "[[CVE y CVSS]]",
+   "x": 960,
+   "y": 1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t7",
+   "type": "text",
+   "text": "[[Cómo escribir un reporte de vulnerabilidad]]",
+   "x": 960,
+   "y": 1484,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t8",
+   "type": "text",
+   "text": "[[Metodología de pruebas web (OWASP WSTG)]]",
+   "x": 960,
+   "y": 1556,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t9",
+   "type": "text",
+   "text": "[[Pentesting vs red team]]",
+   "x": 960,
+   "y": 1628,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Fundamentos de seguridad",
+   "x": -820,
+   "y": -979,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[OWASP Top 10]]",
+   "x": -1260,
+   "y": -1592,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Mentalidad de seguridad y modelado de amenazas]]",
+   "x": -1260,
+   "y": -1520,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Tríada CIA (confidencialidad, integridad y disponibilidad)]]",
+   "x": -1260,
+   "y": -1448,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Superficie de ataque]]",
+   "x": -1260,
+   "y": -1376,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Defensa en profundidad]]",
+   "x": -1260,
+   "y": -1304,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Principio de mínimo privilegio]]",
+   "x": -1260,
+   "y": -1232,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[Validación de entrada, codificación de salida y listas blancas]]",
+   "x": -1260,
+   "y": -1160,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[Same-origin policy]]",
+   "x": -1260,
+   "y": -1088,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[Cifrado simétrico y asimétrico]]",
+   "x": -1260,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8c0",
+   "type": "text",
+   "text": "[[Cifrado simétrico (AES)]]",
+   "x": -1680,
+   "y": -1016,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t8c1",
+   "type": "text",
+   "text": "[[Cifrado asimétrico (RSA y ECC)]]",
+   "x": -1680,
+   "y": -944,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Cifrado en reposo y en tránsito]]",
+   "x": -1260,
+   "y": -872,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[Firmas digitales]]",
+   "x": -1260,
+   "y": -800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[Manejo de secretos]]",
+   "x": -1260,
+   "y": -728,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t12",
+   "type": "text",
+   "text": "[[Logs y datos sensibles]]",
+   "x": -1260,
+   "y": -656,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t13",
+   "type": "text",
+   "text": "[[Ciclo de desarrollo seguro (SSDLC)]]",
+   "x": -1260,
+   "y": -584,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t14",
+   "type": "text",
+   "text": "[[Seguridad de la cadena de suministro (SBOM y firmas)]]",
+   "x": -1260,
+   "y": -512,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t15",
+   "type": "text",
+   "text": "[[Privacidad y protección de datos (ley mexicana y GDPR)]]",
+   "x": -1260,
+   "y": -404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t15c0",
+   "type": "text",
+   "text": "[[Privacidad - ley mexicana de datos personales (LFPDPPP)]]",
+   "x": -1680,
+   "y": -440,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t15c1",
+   "type": "text",
+   "text": "[[Privacidad - GDPR para desarrolladores]]",
+   "x": -1680,
+   "y": -368,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Inyección SQL",
+   "x": -820,
+   "y": 397,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[SQL injection]]",
+   "x": -1260,
+   "y": -216,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[SQL injection - qué es y por qué ocurre]]",
+   "x": -1260,
+   "y": -144,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[SQL injection - concatenación de cadenas, la causa raíz]]",
+   "x": -1260,
+   "y": -72,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[SQL injection - cómo funciona un ataque (conceptual)]]",
+   "x": -1260,
+   "y": 0,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[SQL injection - tipos (basada en errores, UNION, ciega y de segundo orden)]]",
+   "x": -1260,
+   "y": 72,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[SQL injection - impacto real]]",
+   "x": -1260,
+   "y": 144,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[SQL injection - consultas parametrizadas]]",
+   "x": -1260,
+   "y": 216,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[SQL injection - Dapper y parámetros]]",
+   "x": -1260,
+   "y": 288,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[SQL injection - EF Core (FromSqlRaw vs FromSqlInterpolated)]]",
+   "x": -1260,
+   "y": 360,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[SQL injection - stored procedures y SQL dinámico seguro (sp_executesql y QUOTENAME)]]",
+   "x": -1260,
+   "y": 432,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[SQL injection - listas blancas para ORDER BY y nombres de columnas]]",
+   "x": -1260,
+   "y": 504,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t11",
+   "type": "text",
+   "text": "[[SQL injection - mínimo privilegio en la cuenta de base de datos]]",
+   "x": -1260,
+   "y": 576,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t12",
+   "type": "text",
+   "text": "[[SQL injection - manejo de errores sin filtrar detalles]]",
+   "x": -1260,
+   "y": 648,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t13",
+   "type": "text",
+   "text": "[[SQL injection - cómo detectarla (revisión de código, SAST y DAST)]]",
+   "x": -1260,
+   "y": 720,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t14",
+   "type": "text",
+   "text": "[[SQL injection - WAF como capa adicional]]",
+   "x": -1260,
+   "y": 792,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t15",
+   "type": "text",
+   "text": "[[Inyección NoSQL]]",
+   "x": -1260,
+   "y": 864,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t16",
+   "type": "text",
+   "text": "[[Inyección de comandos del sistema operativo]]",
+   "x": -1260,
+   "y": 936,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t17",
+   "type": "text",
+   "text": "[[Otras inyecciones (LDAP y XPath)]]",
+   "x": -1260,
+   "y": 1008,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Herramientas defensivas",
+   "x": -820,
+   "y": 1341,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[SAST, DAST y SCA]]",
+   "x": -1260,
+   "y": 1160,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Escaneo de dependencias y de secretos]]",
+   "x": -1260,
+   "y": 1232,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[OWASP ZAP]]",
+   "x": -1260,
+   "y": 1304,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[Burp Suite Community]]",
+   "x": -1260,
+   "y": 1376,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[Pruebas de seguridad en el pipeline]]",
+   "x": -1260,
+   "y": 1448,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5",
+   "type": "text",
+   "text": "[[WAF]]",
+   "x": -1260,
+   "y": 1520,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t3",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t4",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t5",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t6",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t7",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t8",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t9",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t10",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t11",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t12",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t13",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t14",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t15",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t5",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t6",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t7",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t8",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t9",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t10",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t11",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t12",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t13",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t14",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t15",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t16",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t17",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t18",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s5",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t1",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t2",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t3",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t4",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t5",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t6",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t7",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t8",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t9",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t4",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t5",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t6",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t7",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t8",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "g0t8",
+   "fromSide": "left",
+   "toNode": "g0t8c0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "g0t8",
+   "fromSide": "left",
+   "toNode": "g0t8c1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t9",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t10",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t11",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t12",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t13",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t14",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t15",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "g0t15",
+   "fromSide": "left",
+   "toNode": "g0t15c0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "g0t15",
+   "fromSide": "left",
+   "toNode": "g0t15c1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t3",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t4",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t5",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t6",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t7",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t8",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t9",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t10",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t11",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e82",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t12",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e83",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t13",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e84",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t14",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e85",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t15",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e86",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t16",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e87",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t17",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e88",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e89",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e90",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e91",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t2",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e92",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t3",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e93",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e94",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t5",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  }
+ ]
+}

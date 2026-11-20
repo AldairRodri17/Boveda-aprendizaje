@@ -1,0 +1,766 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Angular\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Intermedio",
+   "x": 520,
+   "y": -35,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Servicios e inyección de dependencias en Angular]]",
+   "x": 960,
+   "y": -540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Signals]]",
+   "x": 960,
+   "y": -468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[computed y effect]]",
+   "x": 960,
+   "y": -396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[RxJS - Observables]]",
+   "x": 960,
+   "y": -324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[RxJS - operadores más usados]]",
+   "x": 960,
+   "y": -252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Signals vs RxJS]]",
+   "x": 960,
+   "y": -180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[HttpClient en Angular]]",
+   "x": 960,
+   "y": -108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Interceptores HTTP]]",
+   "x": 960,
+   "y": -36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[Router de Angular]]",
+   "x": 960,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[Guards y resolvers]]",
+   "x": 960,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[Lazy loading de rutas]]",
+   "x": 960,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t11",
+   "type": "text",
+   "text": "[[Formularios template-driven]]",
+   "x": 960,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t12",
+   "type": "text",
+   "text": "[[Formularios reactivos]]",
+   "x": 960,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t13",
+   "type": "text",
+   "text": "[[Validaciones personalizadas]]",
+   "x": 960,
+   "y": 396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t14",
+   "type": "text",
+   "text": "[[Manejo de errores en Angular]]",
+   "x": 960,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Básico",
+   "x": -820,
+   "y": -471,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Qué es Angular y en qué se diferencia de React]]",
+   "x": -1260,
+   "y": -868,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Angular CLI y estructura de un proyecto]]",
+   "x": -1260,
+   "y": -796,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[TypeScript para Angular]]",
+   "x": -1260,
+   "y": -724,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Componentes en Angular]]",
+   "x": -1260,
+   "y": -652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Componentes standalone]]",
+   "x": -1260,
+   "y": -580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Templates y data binding (interpolación, propiedades y eventos)]]",
+   "x": -1260,
+   "y": -508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[Two-way binding]]",
+   "x": -1260,
+   "y": -436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[Control flow (@if, @for y @switch)]]",
+   "x": -1260,
+   "y": -364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[Input y Output]]",
+   "x": -1260,
+   "y": -292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Ciclo de vida de componentes]]",
+   "x": -1260,
+   "y": -220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[Directivas]]",
+   "x": -1260,
+   "y": -148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[Pipes]]",
+   "x": -1260,
+   "y": -76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Avanzado",
+   "x": -820,
+   "y": 437,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Detección de cambios y zoneless]]",
+   "x": -1260,
+   "y": 76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[OnPush y rendimiento]]",
+   "x": -1260,
+   "y": 148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Estado global (NgRx y Signal Store)]]",
+   "x": -1260,
+   "y": 220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[SSR e hidratación en Angular]]",
+   "x": -1260,
+   "y": 292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Deferrable views (@defer)]]",
+   "x": -1260,
+   "y": 364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[Angular Material y CDK]]",
+   "x": -1260,
+   "y": 436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[Internacionalización en Angular]]",
+   "x": -1260,
+   "y": 508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[Pruebas en Angular (unitarias y de componentes)]]",
+   "x": -1260,
+   "y": 580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[Estructura de carpetas por feature en Angular]]",
+   "x": -1260,
+   "y": 652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t9",
+   "type": "text",
+   "text": "[[Angular con un API .NET (autenticación y CORS)]]",
+   "x": -1260,
+   "y": 724,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t10",
+   "type": "text",
+   "text": "[[Proyecto práctico en Angular]]",
+   "x": -1260,
+   "y": 796,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t4",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t5",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t6",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t7",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t8",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t9",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t10",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t11",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t12",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t13",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t14",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t4",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t5",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t6",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t7",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t8",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t9",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t10",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t11",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t4",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t5",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t6",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t7",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t8",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t9",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t10",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  }
+ ]
+}

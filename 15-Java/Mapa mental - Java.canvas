@@ -1,0 +1,259 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Java\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Java - sintaxis básica]]",
+   "x": 520,
+   "y": -336,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Java - Maven y Gradle]]",
+   "x": 520,
+   "y": -184,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Spring Boot]]",
+   "x": 520,
+   "y": 40,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t0c0",
+   "type": "text",
+   "text": "[[Spring Boot - inyección de dependencias y beans]]",
+   "x": 960,
+   "y": -32,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t0c1",
+   "type": "text",
+   "text": "[[Spring Boot - controladores REST]]",
+   "x": 960,
+   "y": 40,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t0c2",
+   "type": "text",
+   "text": "[[Spring Boot - configuración y perfiles]]",
+   "x": 960,
+   "y": 112,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[Java vs CSharp (comparativa)]]",
+   "x": 520,
+   "y": 264,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Java - JVM, JDK y JRE]]",
+   "x": -820,
+   "y": -300,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Java - clases, interfaces y records]]",
+   "x": -820,
+   "y": -148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Java - colecciones y streams]]",
+   "x": -820,
+   "y": 40,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t0c0",
+   "type": "text",
+   "text": "[[Colecciones en Java (List, Set y Map)]]",
+   "x": -1240,
+   "y": 4,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t0c1",
+   "type": "text",
+   "text": "[[Streams en Java (map, filter y collect)]]",
+   "x": -1240,
+   "y": 76,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[JPA e Hibernate]]",
+   "x": -820,
+   "y": 228,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g5t0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "g5t0",
+   "fromSide": "right",
+   "toNode": "g5t0c0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "g5t0",
+   "fromSide": "right",
+   "toNode": "g5t0c1",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "g5t0",
+   "fromSide": "right",
+   "toNode": "g5t0c2",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g7t0",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g3t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "g3t0",
+   "fromSide": "left",
+   "toNode": "g3t0c0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "g3t0",
+   "fromSide": "left",
+   "toNode": "g3t0c1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g6t0",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  }
+ ]
+}

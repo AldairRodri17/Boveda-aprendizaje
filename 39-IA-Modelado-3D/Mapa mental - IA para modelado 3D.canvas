@@ -1,0 +1,715 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# IA para modelado 3D\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Conceptos",
+   "x": 520,
+   "y": -403,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Texto a 3D e imagen a 3D]]",
+   "x": 960,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Representaciones 3D (malla, NeRF, Gaussian splatting y campos implícitos)]]",
+   "x": 960,
+   "y": -440,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1c0",
+   "type": "text",
+   "text": "[[Mallas poligonales en IA 3D]]",
+   "x": 1400,
+   "y": -548,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t1c1",
+   "type": "text",
+   "text": "[[NeRF (campos de radiancia neuronal)]]",
+   "x": 1400,
+   "y": -476,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t1c2",
+   "type": "text",
+   "text": "[[Gaussian splatting en IA 3D]]",
+   "x": 1400,
+   "y": -404,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t1c3",
+   "type": "text",
+   "text": "[[Campos implícitos (SDF y ocupación)]]",
+   "x": 1400,
+   "y": -332,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Cómo funciona un modelo de imagen a 3D]]",
+   "x": 960,
+   "y": -260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Servicios comerciales de IA 3D (Tripo y similares)]]",
+   "x": 960,
+   "y": -188,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Modelos",
+   "x": 520,
+   "y": 109,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[TripoSR]]",
+   "x": 960,
+   "y": -36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Hunyuan3D-2mini]]",
+   "x": 960,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Stable Fast 3D]]",
+   "x": 960,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[TRELLIS]]",
+   "x": 960,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Modelos de imagen a 3D en la nube gratuita (Hugging Face y Colab)]]",
+   "x": 960,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Calidad y criterio",
+   "x": 520,
+   "y": 477,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Qué imágenes funcionan mejor para IA 3D]]",
+   "x": 960,
+   "y": 404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Errores típicos de los modelos generados por IA]]",
+   "x": 960,
+   "y": 476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[IA vs CAD vs escaneo (cuándo usar cada uno)]]",
+   "x": 960,
+   "y": 548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Entorno local",
+   "x": -820,
+   "y": -475,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Python, CUDA y PyTorch para IA 3D en Windows]]",
+   "x": -1260,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[VRAM - medirla y qué hacer cuando no alcanza]]",
+   "x": -1260,
+   "y": -548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Tarjetas GTX 16 y media precisión (FP16)]]",
+   "x": -1260,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[ComfyUI para generación 3D]]",
+   "x": -1260,
+   "y": -404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Interfaces Gradio de los modelos 3D]]",
+   "x": -1260,
+   "y": -332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Flujo completo",
+   "x": -820,
+   "y": 1,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Crear la imagen de entrada para IA 3D]]",
+   "x": -1260,
+   "y": -180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Stable Diffusion en 6 GB de VRAM]]",
+   "x": -1260,
+   "y": -108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Quitar el fondo de una imagen]]",
+   "x": -1260,
+   "y": -36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Limpiar un modelo generado por IA en Blender]]",
+   "x": -1260,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Separar un modelo por colores para CANVAS]]",
+   "x": -1260,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[De la IA a la impresora (flujo completo)]]",
+   "x": -1260,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Licencias y ética",
+   "x": -820,
+   "y": 441,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Licencias de modelos de IA 3D]]",
+   "x": -1260,
+   "y": 404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t0c0",
+   "type": "text",
+   "text": "[[Licencia MIT en modelos de IA 3D]]",
+   "x": -1680,
+   "y": 332,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t0c1",
+   "type": "text",
+   "text": "[[Licencia Stability AI Community]]",
+   "x": -1680,
+   "y": 404,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t0c2",
+   "type": "text",
+   "text": "[[Licencia Tencent Hunyuan 3D Community]]",
+   "x": -1680,
+   "y": 476,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Propiedad y uso comercial de modelos generados por IA]]",
+   "x": -1260,
+   "y": 548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "g0t1",
+   "fromSide": "right",
+   "toNode": "g0t1c0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "g0t1",
+   "fromSide": "right",
+   "toNode": "g0t1c1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "g0t1",
+   "fromSide": "right",
+   "toNode": "g0t1c2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "g0t1",
+   "fromSide": "right",
+   "toNode": "g0t1c3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t3",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t4",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t2",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t3",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t4",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t2",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t4",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t5",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "g5t0",
+   "fromSide": "left",
+   "toNode": "g5t0c0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "g5t0",
+   "fromSide": "left",
+   "toNode": "g5t0c1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "g5t0",
+   "fromSide": "left",
+   "toNode": "g5t0c2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  }
+ ]
+}

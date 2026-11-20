@@ -1,0 +1,1939 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# JavaScript y Web\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Básico de JavaScript",
+   "x": 520,
+   "y": -727,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Cómo se ejecuta JavaScript (navegador y Node)]]",
+   "x": 960,
+   "y": -1880,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[var, let y const]]",
+   "x": 960,
+   "y": -1808,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Tipos de datos en JS]]",
+   "x": 960,
+   "y": -1736,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Coerción de tipos]]",
+   "x": 960,
+   "y": -1664,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[== vs ===]]",
+   "x": 960,
+   "y": -1592,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Valores truthy y falsy]]",
+   "x": 960,
+   "y": -1520,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[Operadores de null y lógicos en JS]]",
+   "x": 960,
+   "y": -1448,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Condicionales y bucles en JS]]",
+   "x": 960,
+   "y": -1376,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[Funciones (declaración, expresión y flecha)]]",
+   "x": 960,
+   "y": -1304,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[Alcance (scope)]]",
+   "x": 960,
+   "y": -1232,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[Hoisting]]",
+   "x": 960,
+   "y": -1160,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t11",
+   "type": "text",
+   "text": "[[Closures]]",
+   "x": 960,
+   "y": -1088,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t12",
+   "type": "text",
+   "text": "[[this en JavaScript]]",
+   "x": 960,
+   "y": -1016,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t13",
+   "type": "text",
+   "text": "[[call, apply y bind]]",
+   "x": 960,
+   "y": -944,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t14",
+   "type": "text",
+   "text": "[[Objetos]]",
+   "x": 960,
+   "y": -872,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t15",
+   "type": "text",
+   "text": "[[Prototipos y herencia prototípica]]",
+   "x": 960,
+   "y": -800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t16",
+   "type": "text",
+   "text": "[[Clases en JS]]",
+   "x": 960,
+   "y": -728,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t17",
+   "type": "text",
+   "text": "[[Campos privados en clases JS]]",
+   "x": 960,
+   "y": -656,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t18",
+   "type": "text",
+   "text": "[[Destructuring]]",
+   "x": 960,
+   "y": -584,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t19",
+   "type": "text",
+   "text": "[[Spread y rest]]",
+   "x": 960,
+   "y": -512,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t20",
+   "type": "text",
+   "text": "[[Template literals]]",
+   "x": 960,
+   "y": -440,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t21",
+   "type": "text",
+   "text": "[[Arrays y sus métodos]]",
+   "x": 960,
+   "y": -368,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t22",
+   "type": "text",
+   "text": "[[map, filter y reduce]]",
+   "x": 960,
+   "y": -296,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t23",
+   "type": "text",
+   "text": "[[find, some, every y flatMap]]",
+   "x": 960,
+   "y": -224,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t24",
+   "type": "text",
+   "text": "[[sort]]",
+   "x": 960,
+   "y": -152,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t25",
+   "type": "text",
+   "text": "[[Map y Set]]",
+   "x": 960,
+   "y": -80,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t26",
+   "type": "text",
+   "text": "[[WeakMap y WeakSet]]",
+   "x": 960,
+   "y": -8,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t27",
+   "type": "text",
+   "text": "[[JSON.stringify y JSON.parse]]",
+   "x": 960,
+   "y": 64,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t28",
+   "type": "text",
+   "text": "[[Fechas en JS]]",
+   "x": 960,
+   "y": 136,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t29",
+   "type": "text",
+   "text": "[[Intl (formato de números y fechas)]]",
+   "x": 960,
+   "y": 208,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t30",
+   "type": "text",
+   "text": "[[ES Modules e import maps]]",
+   "x": 960,
+   "y": 280,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t31",
+   "type": "text",
+   "text": "[[Manejo de errores en JS]]",
+   "x": 960,
+   "y": 352,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t32",
+   "type": "text",
+   "text": "[[structuredClone y copia profunda]]",
+   "x": 960,
+   "y": 424,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### El navegador",
+   "x": 520,
+   "y": 1081,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[DOM - selección y creación]]",
+   "x": 960,
+   "y": 576,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[DOM - eventos]]",
+   "x": 960,
+   "y": 648,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Propagación de eventos (bubbling y capturing)]]",
+   "x": 960,
+   "y": 720,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Delegación de eventos]]",
+   "x": 960,
+   "y": 792,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Formularios y FormData]]",
+   "x": 960,
+   "y": 864,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[localStorage]]",
+   "x": 960,
+   "y": 936,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[History API y navegación]]",
+   "x": 960,
+   "y": 1008,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7",
+   "type": "text",
+   "text": "[[SPA y router por hash]]",
+   "x": 960,
+   "y": 1080,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t8",
+   "type": "text",
+   "text": "[[postMessage e iframes]]",
+   "x": 960,
+   "y": 1152,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t9",
+   "type": "text",
+   "text": "[[IntersectionObserver y MutationObserver]]",
+   "x": 960,
+   "y": 1224,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t10",
+   "type": "text",
+   "text": "[[Web Components]]",
+   "x": 960,
+   "y": 1296,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t11",
+   "type": "text",
+   "text": "[[Shadow DOM]]",
+   "x": 960,
+   "y": 1368,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t12",
+   "type": "text",
+   "text": "[[Service Workers y PWA]]",
+   "x": 960,
+   "y": 1440,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t13",
+   "type": "text",
+   "text": "[[Seguridad del DOM (innerHTML y escape de datos)]]",
+   "x": 960,
+   "y": 1512,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t14",
+   "type": "text",
+   "text": "[[Pipeline de renderizado del navegador]]",
+   "x": 960,
+   "y": 1584,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Front sin bundler",
+   "x": 520,
+   "y": 1773,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Molde Service-View-Handlers-Events]]",
+   "x": 960,
+   "y": 1736,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[lit-html]]",
+   "x": 960,
+   "y": 1808,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### HTML y CSS",
+   "x": -820,
+   "y": -1303,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[HTML semántico]]",
+   "x": -1260,
+   "y": -1808,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Formularios HTML]]",
+   "x": -1260,
+   "y": -1736,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Elemento dialog]]",
+   "x": -1260,
+   "y": -1664,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Accesibilidad web]]",
+   "x": -1260,
+   "y": -1520,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3c0",
+   "type": "text",
+   "text": "[[Roles y atributos ARIA]]",
+   "x": -1680,
+   "y": -1592,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t3c1",
+   "type": "text",
+   "text": "[[Navegación con teclado y foco]]",
+   "x": -1680,
+   "y": -1520,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t3c2",
+   "type": "text",
+   "text": "[[Contraste y texto alternativo]]",
+   "x": -1680,
+   "y": -1448,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[CSS - selectores y especificidad]]",
+   "x": -1260,
+   "y": -1376,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[CSS - box model]]",
+   "x": -1260,
+   "y": -1304,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[CSS - flexbox]]",
+   "x": -1260,
+   "y": -1232,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[CSS - grid]]",
+   "x": -1260,
+   "y": -1160,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[CSS - diseño responsivo]]",
+   "x": -1260,
+   "y": -1088,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Imágenes responsive]]",
+   "x": -1260,
+   "y": -1016,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[CSS - variables]]",
+   "x": -1260,
+   "y": -944,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[CSS - animaciones y transiciones]]",
+   "x": -1260,
+   "y": -872,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t12",
+   "type": "text",
+   "text": "[[CSS - metodologías (BEM)]]",
+   "x": -1260,
+   "y": -800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Asincronía en JS",
+   "x": -820,
+   "y": -323,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Callbacks]]",
+   "x": -1260,
+   "y": -648,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Promesas]]",
+   "x": -1260,
+   "y": -576,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[async y await]]",
+   "x": -1260,
+   "y": -504,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Promise.all, allSettled y race]]",
+   "x": -1260,
+   "y": -432,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Event loop]]",
+   "x": -1260,
+   "y": -360,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[Microtareas y macrotareas]]",
+   "x": -1260,
+   "y": -288,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[Timers]]",
+   "x": -1260,
+   "y": -216,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[fetch]]",
+   "x": -1260,
+   "y": -144,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[AbortController]]",
+   "x": -1260,
+   "y": -72,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t9",
+   "type": "text",
+   "text": "[[Generadores e iteradores]]",
+   "x": -1260,
+   "y": 0,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Avanzado",
+   "x": -820,
+   "y": 945,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Proxy y Reflect]]",
+   "x": -1260,
+   "y": 152,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Symbol]]",
+   "x": -1260,
+   "y": 224,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Debounce y throttle]]",
+   "x": -1260,
+   "y": 296,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[Fugas de memoria]]",
+   "x": -1260,
+   "y": 368,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4",
+   "type": "text",
+   "text": "[[Rendimiento web y Core Web Vitals]]",
+   "x": -1260,
+   "y": 512,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4c0",
+   "type": "text",
+   "text": "[[LCP (Largest Contentful Paint)]]",
+   "x": -1680,
+   "y": 440,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t4c1",
+   "type": "text",
+   "text": "[[INP (Interaction to Next Paint)]]",
+   "x": -1680,
+   "y": 512,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t4c2",
+   "type": "text",
+   "text": "[[CLS (Cumulative Layout Shift)]]",
+   "x": -1680,
+   "y": 584,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t5",
+   "type": "text",
+   "text": "[[SEO y Open Graph]]",
+   "x": -1260,
+   "y": 656,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t6",
+   "type": "text",
+   "text": "[[Depuración con DevTools]]",
+   "x": -1260,
+   "y": 728,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t7",
+   "type": "text",
+   "text": "[[npm y package.json]]",
+   "x": -1260,
+   "y": 800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t8",
+   "type": "text",
+   "text": "[[pnpm workspaces]]",
+   "x": -1260,
+   "y": 872,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t9",
+   "type": "text",
+   "text": "[[Vite]]",
+   "x": -1260,
+   "y": 944,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t10",
+   "type": "text",
+   "text": "[[ESLint y Prettier]]",
+   "x": -1260,
+   "y": 1016,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t11",
+   "type": "text",
+   "text": "[[TypeScript]]",
+   "x": -1260,
+   "y": 1088,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t12",
+   "type": "text",
+   "text": "[[TypeScript - tipos básicos]]",
+   "x": -1260,
+   "y": 1160,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t13",
+   "type": "text",
+   "text": "[[TypeScript - interfaces y types]]",
+   "x": -1260,
+   "y": 1232,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t14",
+   "type": "text",
+   "text": "[[TypeScript - genéricos]]",
+   "x": -1260,
+   "y": 1304,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t15",
+   "type": "text",
+   "text": "[[TypeScript - uniones y narrowing]]",
+   "x": -1260,
+   "y": 1376,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t16",
+   "type": "text",
+   "text": "[[Node.js básico]]",
+   "x": -1260,
+   "y": 1448,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t17",
+   "type": "text",
+   "text": "[[Pruebas con Vitest y Jest]]",
+   "x": -1260,
+   "y": 1520,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t18",
+   "type": "text",
+   "text": "[[Librería de componentes propia en JS plano]]",
+   "x": -1260,
+   "y": 1592,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t19",
+   "type": "text",
+   "text": "[[Design systems]]",
+   "x": -1260,
+   "y": 1664,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t20",
+   "type": "text",
+   "text": "[[Micro-frontends (conceptos)]]",
+   "x": -1260,
+   "y": 1736,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t4",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t5",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t6",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t7",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t8",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t9",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t10",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t11",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t12",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t13",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t14",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t15",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t16",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t17",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t18",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t19",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t20",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t21",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t22",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t23",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t24",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t25",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t26",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t27",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t28",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t29",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t30",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t31",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t32",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t5",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t6",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t7",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t8",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t9",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t10",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t11",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t12",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t13",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t14",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "g0t3",
+   "fromSide": "left",
+   "toNode": "g0t3c0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "g0t3",
+   "fromSide": "left",
+   "toNode": "g0t3c1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "g0t3",
+   "fromSide": "left",
+   "toNode": "g0t3c2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t4",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t5",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t6",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t7",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t8",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t9",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t10",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t11",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t12",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t4",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t5",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t6",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t7",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t8",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t9",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e82",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e83",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e84",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e85",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t3",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e86",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t4",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e87",
+   "fromNode": "g5t4",
+   "fromSide": "left",
+   "toNode": "g5t4c0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e88",
+   "fromNode": "g5t4",
+   "fromSide": "left",
+   "toNode": "g5t4c1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e89",
+   "fromNode": "g5t4",
+   "fromSide": "left",
+   "toNode": "g5t4c2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e90",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e91",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t6",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e92",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t7",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e93",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t8",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e94",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t9",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e95",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t10",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e96",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t11",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e97",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t12",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e98",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t13",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e99",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t14",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e100",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t15",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e101",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t16",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e102",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t17",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e103",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t18",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e104",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t19",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e105",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t20",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  }
+ ]
+}

@@ -1,0 +1,1149 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Laboratorios y práctica\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Laboratorios de seguridad",
+   "x": 520,
+   "y": -547,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[PortSwigger Web Security Academy]]",
+   "x": 960,
+   "y": -1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[PortSwigger - ruta recomendada (Apprentice, Practitioner y Expert)]]",
+   "x": 960,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[PortSwigger - laboratorios de SQL injection]]",
+   "x": 960,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[PortSwigger - laboratorios de XSS]]",
+   "x": 960,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[OWASP Juice Shop]]",
+   "x": 960,
+   "y": -764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[DVWA]]",
+   "x": 960,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[OWASP WebGoat]]",
+   "x": 960,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[Hacker101]]",
+   "x": 960,
+   "y": -548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[TryHackMe]]",
+   "x": 960,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Hack The Box]]",
+   "x": 960,
+   "y": -404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[PentesterLab]]",
+   "x": 960,
+   "y": -332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[picoCTF y retos CTF]]",
+   "x": 960,
+   "y": -260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t12",
+   "type": "text",
+   "text": "[[OverTheWire]]",
+   "x": 960,
+   "y": -188,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t13",
+   "type": "text",
+   "text": "[[Cómo montar un laboratorio propio con Docker y red aislada]]",
+   "x": 960,
+   "y": -116,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t14",
+   "type": "text",
+   "text": "[[Cómo llevar una bitácora de laboratorios resueltos]]",
+   "x": 960,
+   "y": -44,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Otras nubes para probar servicios de pago",
+   "x": 520,
+   "y": 325,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[AWS Free Tier - plan gratuito, créditos y servicios siempre gratuitos]]",
+   "x": 960,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[AWS - plan gratuito vs plan de pago (qué pasa cuando se acaban los créditos)]]",
+   "x": 960,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Google Cloud - prueba gratuita (crédito por 90 días) y Free Tier]]",
+   "x": 960,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Google Cloud Skills Boost (laboratorios con credenciales temporales)]]",
+   "x": 960,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Google Cloud Shell]]",
+   "x": 960,
+   "y": 396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[Oracle Cloud - Always Free]]",
+   "x": 960,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[Comparativa de capas gratuitas de nubes (AWS, Azure, Google Cloud y Oracle)]]",
+   "x": 960,
+   "y": 540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s7",
+   "type": "text",
+   "text": "### Práctica de otras áreas",
+   "x": 520,
+   "y": 837,
+   "width": 300,
+   "height": 70,
+   "color": "#C0CA33"
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[Microsoft Learn - rutas gratuitas de Azure]]",
+   "x": 960,
+   "y": 692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t1",
+   "type": "text",
+   "text": "[[Retos de SQL (plataformas de práctica)]]",
+   "x": 960,
+   "y": 764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t2",
+   "type": "text",
+   "text": "[[Retos de JavaScript y CSharp (plataformas de práctica)]]",
+   "x": 960,
+   "y": 836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t3",
+   "type": "text",
+   "text": "[[Retos de diseño de sistemas]]",
+   "x": 960,
+   "y": 908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t4",
+   "type": "text",
+   "text": "[[Proyectos propios como laboratorio de aprendizaje]]",
+   "x": 960,
+   "y": 980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Laboratorios de redes",
+   "x": -820,
+   "y": -1095,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[GNS3 y EVE-NG]]",
+   "x": -1260,
+   "y": -1132,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Laboratorio de redes en casa]]",
+   "x": -1260,
+   "y": -1060,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Laboratorios de IA y datos",
+   "x": -820,
+   "y": -799,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Google Colab]]",
+   "x": -1260,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Kaggle]]",
+   "x": -1260,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Hugging Face]]",
+   "x": -1260,
+   "y": -764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Modelos locales con Ollama]]",
+   "x": -1260,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Laboratorios temporales en el navegador",
+   "x": -820,
+   "y": -395,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Killercoda]]",
+   "x": -1260,
+   "y": -540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Play with Docker]]",
+   "x": -1260,
+   "y": -468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Play with Kubernetes]]",
+   "x": -1260,
+   "y": -396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[GitHub Codespaces]]",
+   "x": -1260,
+   "y": -324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[Learn Git Branching]]",
+   "x": -1260,
+   "y": -252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Plataformas de despliegue con plan gratuito",
+   "x": -820,
+   "y": 153,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Cloudflare (Pages y Workers)]]",
+   "x": -1260,
+   "y": -100,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Cloudflare R2]]",
+   "x": -1260,
+   "y": -28,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Vercel]]",
+   "x": -1260,
+   "y": 44,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[Netlify]]",
+   "x": -1260,
+   "y": 116,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4",
+   "type": "text",
+   "text": "[[Render]]",
+   "x": -1260,
+   "y": 188,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t5",
+   "type": "text",
+   "text": "[[Neon (PostgreSQL)]]",
+   "x": -1260,
+   "y": 260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t6",
+   "type": "text",
+   "text": "[[Supabase]]",
+   "x": -1260,
+   "y": 332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t7",
+   "type": "text",
+   "text": "[[Firebase]]",
+   "x": -1260,
+   "y": 404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s6",
+   "type": "text",
+   "text": "### Herramientas de pago con plan gratuito o prueba",
+   "x": -820,
+   "y": 809,
+   "width": 300,
+   "height": 70,
+   "color": "#F4511E"
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[Grafana Cloud - plan gratuito]]",
+   "x": -1260,
+   "y": 556,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t1",
+   "type": "text",
+   "text": "[[New Relic - plan gratuito]]",
+   "x": -1260,
+   "y": 628,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2",
+   "type": "text",
+   "text": "[[Datadog - prueba gratuita]]",
+   "x": -1260,
+   "y": 700,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t3",
+   "type": "text",
+   "text": "[[SonarCloud]]",
+   "x": -1260,
+   "y": 772,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t4",
+   "type": "text",
+   "text": "[[Snyk - plan gratuito]]",
+   "x": -1260,
+   "y": 844,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t5",
+   "type": "text",
+   "text": "[[Postman - plan gratuito]]",
+   "x": -1260,
+   "y": 916,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t6",
+   "type": "text",
+   "text": "[[JetBrains - licencias para estudiantes y proyectos de código abierto]]",
+   "x": -1260,
+   "y": 988,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t7",
+   "type": "text",
+   "text": "[[Cómo aprovechar una prueba gratuita sin olvidar cancelarla]]",
+   "x": -1260,
+   "y": 1060,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t5",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t6",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t7",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t8",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t9",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t10",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t11",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t12",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t13",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t14",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t5",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t6",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s7",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t0",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t1",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t2",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t3",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t4",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t2",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t3",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t3",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t4",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t6",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t7",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s6",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t0",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t1",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t2",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t3",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t4",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t5",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t6",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t7",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  }
+ ]
+}

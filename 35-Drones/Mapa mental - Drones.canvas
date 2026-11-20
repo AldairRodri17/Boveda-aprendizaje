@@ -1,0 +1,533 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Drones\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Pilotaje",
+   "x": 520,
+   "y": -147,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Controles y modos de vuelo (Cine, Normal y Sport)]]",
+   "x": 960,
+   "y": -472,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[GPS, calibración y sensores del dron]]",
+   "x": 960,
+   "y": -400,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Simuladores de vuelo de drones]]",
+   "x": 960,
+   "y": -328,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Maniobras básicas con dron]]",
+   "x": 960,
+   "y": -76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3c0",
+   "type": "text",
+   "text": "[[Despegue, vuelo estacionario y aterrizaje con dron]]",
+   "x": 1400,
+   "y": -256,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t3c1",
+   "type": "text",
+   "text": "[[Vuelo en cuadrado con dron]]",
+   "x": 1400,
+   "y": -184,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t3c2",
+   "type": "text",
+   "text": "[[Vuelo lineal de ida y vuelta con dron]]",
+   "x": 1400,
+   "y": -112,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t3c3",
+   "type": "text",
+   "text": "[[Órbita alrededor de un punto con dron]]",
+   "x": 1400,
+   "y": -40,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t3c4",
+   "type": "text",
+   "text": "[[Ocho horizontal con dron]]",
+   "x": 1400,
+   "y": 32,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t3c5",
+   "type": "text",
+   "text": "[[Ascenso con inclinación de cámara con dron]]",
+   "x": 1400,
+   "y": 104,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[QuickShots y modos automáticos]]",
+   "x": 960,
+   "y": 176,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Edición y mantenimiento",
+   "x": 520,
+   "y": 365,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Edición de material aéreo]]",
+   "x": 960,
+   "y": 328,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Mantenimiento del dron (firmware y hélices)]]",
+   "x": 960,
+   "y": 400,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Normativa y seguridad",
+   "x": -820,
+   "y": -255,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[NOM-107-SCT3-2019 y registro ante la AFAC]]",
+   "x": -1260,
+   "y": -436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Categorías de uso de drones (recreativo, privado y comercial)]]",
+   "x": -1260,
+   "y": -364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Zonas restringidas y privacidad al volar]]",
+   "x": -1260,
+   "y": -292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Revisión antes de despegar (checklist)]]",
+   "x": -1260,
+   "y": -220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Viento, clima y retorno automático (RTH)]]",
+   "x": -1260,
+   "y": -148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Baterías de dron (cuidado y viajes)]]",
+   "x": -1260,
+   "y": -76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Foto y video aéreo",
+   "x": -820,
+   "y": 221,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Composición aérea y cenital]]",
+   "x": -1260,
+   "y": 76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Panorámicas y HDR con dron]]",
+   "x": -1260,
+   "y": 148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Hyperlapse con dron]]",
+   "x": -1260,
+   "y": 220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Exposición en video aéreo (ND y 180 grados)]]",
+   "x": -1260,
+   "y": 292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Movimientos cinematográficos con dron]]",
+   "x": -1260,
+   "y": 364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "g1t3",
+   "fromSide": "right",
+   "toNode": "g1t3c0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "g1t3",
+   "fromSide": "right",
+   "toNode": "g1t3c1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "g1t3",
+   "fromSide": "right",
+   "toNode": "g1t3c2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "g1t3",
+   "fromSide": "right",
+   "toNode": "g1t3c3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "g1t3",
+   "fromSide": "right",
+   "toNode": "g1t3c4",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "g1t3",
+   "fromSide": "right",
+   "toNode": "g1t3c5",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t4",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t4",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t5",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t4",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  }
+ ]
+}

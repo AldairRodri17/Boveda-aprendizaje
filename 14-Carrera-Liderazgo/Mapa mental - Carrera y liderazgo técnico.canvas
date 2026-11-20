@@ -1,0 +1,859 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Carrera y liderazgo técnico\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Liderazgo y comunicación",
+   "x": 520,
+   "y": -255,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Cómo hacer un buen code review]]",
+   "x": 960,
+   "y": -724,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Cómo documentar una decisión técnica]]",
+   "x": 960,
+   "y": -652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Cómo explicar un tema técnico]]",
+   "x": 960,
+   "y": -580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Comunicación con personas no técnicas]]",
+   "x": 960,
+   "y": -508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Influir sin autoridad]]",
+   "x": 960,
+   "y": -436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Negociar alcance y plazos con negocio]]",
+   "x": 960,
+   "y": -364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[Priorizar y saber decir que no]]",
+   "x": 960,
+   "y": -292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Pensamiento de producto]]",
+   "x": 960,
+   "y": -220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[Dar y recibir feedback]]",
+   "x": 960,
+   "y": -148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[Manejo de conflictos]]",
+   "x": 960,
+   "y": -76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[Estimación de tareas]]",
+   "x": 960,
+   "y": -4,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t11",
+   "type": "text",
+   "text": "[[Mentoría a otros desarrolladores]]",
+   "x": 960,
+   "y": 68,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t12",
+   "type": "text",
+   "text": "[[Presentaciones técnicas]]",
+   "x": 960,
+   "y": 140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t13",
+   "type": "text",
+   "text": "[[Escribir artículos técnicos]]",
+   "x": 960,
+   "y": 212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Inglés técnico",
+   "x": 520,
+   "y": 509,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Inglés técnico - plan de estudio]]",
+   "x": 960,
+   "y": 364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Inglés técnico - leer documentación y RFCs]]",
+   "x": 960,
+   "y": 436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Inglés técnico - escribir PRs, issues y design docs]]",
+   "x": 960,
+   "y": 508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[Inglés técnico - hablar en reuniones y entrevistas]]",
+   "x": 960,
+   "y": 580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[Vocabulario técnico en inglés]]",
+   "x": 960,
+   "y": 652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Qué es ser senior",
+   "x": -820,
+   "y": -659,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Qué significa ser senior (alcance, autonomía, impacto y ownership)]]",
+   "x": -1260,
+   "y": -840,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Escalera de carrera (junior, semi senior, senior, staff)]]",
+   "x": -1260,
+   "y": -660,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1c0",
+   "type": "text",
+   "text": "[[Desarrollador junior - expectativas]]",
+   "x": -1680,
+   "y": -768,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t1c1",
+   "type": "text",
+   "text": "[[Desarrollador semi senior - expectativas]]",
+   "x": -1680,
+   "y": -696,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t1c2",
+   "type": "text",
+   "text": "[[Desarrollador senior - expectativas]]",
+   "x": -1680,
+   "y": -624,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t1c3",
+   "type": "text",
+   "text": "[[Staff engineer - expectativas]]",
+   "x": -1680,
+   "y": -552,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Plan personal hacia senior]]",
+   "x": -1260,
+   "y": -480,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Proceso de trabajo",
+   "x": -820,
+   "y": -183,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Scrum en la práctica]]",
+   "x": -1260,
+   "y": -328,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Kanban]]",
+   "x": -1260,
+   "y": -256,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Historias de usuario y criterios de aceptación]]",
+   "x": -1260,
+   "y": -184,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Definition of done]]",
+   "x": -1260,
+   "y": -112,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Levantamiento de requisitos]]",
+   "x": -1260,
+   "y": -40,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Búsqueda de trabajo",
+   "x": -820,
+   "y": 257,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Portafolio y GitHub]]",
+   "x": -1260,
+   "y": 112,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Preparación para entrevistas técnicas]]",
+   "x": -1260,
+   "y": 184,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Entrevistas de comportamiento (método STAR)]]",
+   "x": -1260,
+   "y": 256,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Entrevistas de diseño de sistemas]]",
+   "x": -1260,
+   "y": 328,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Negociación salarial]]",
+   "x": -1260,
+   "y": 400,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Hábitos",
+   "x": -820,
+   "y": 661,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Diario de aprendizaje]]",
+   "x": -1260,
+   "y": 552,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Práctica deliberada (katas de código y de diseño)]]",
+   "x": -1260,
+   "y": 624,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Leer código de otros]]",
+   "x": -1260,
+   "y": 696,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[Contribuir a open source]]",
+   "x": -1260,
+   "y": 768,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t4",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t5",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t6",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t7",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t8",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t9",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t10",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t11",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t12",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t13",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t2",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t3",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "g0t1",
+   "fromSide": "left",
+   "toNode": "g0t1c0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "g0t1",
+   "fromSide": "left",
+   "toNode": "g0t1c1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "g0t1",
+   "fromSide": "left",
+   "toNode": "g0t1c2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "g0t1",
+   "fromSide": "left",
+   "toNode": "g0t1c3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t4",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t2",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t4",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t3",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  }
+ ]
+}

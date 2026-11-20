@@ -1,0 +1,1149 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Certificaciones\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Azure ruta hasta arquitecto",
+   "x": 520,
+   "y": -659,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Mapa de certificaciones de Azure y cómo elegir]]",
+   "x": 960,
+   "y": -1164,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[AZ-900 Azure Fundamentals (opcional)]]",
+   "x": 960,
+   "y": -1092,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[AZ-104 Azure Administrator Associate]]",
+   "x": 960,
+   "y": -1020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[AZ-204 Azure Developer Associate (retirado el 31 de julio de 2026)]]",
+   "x": 960,
+   "y": -948,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[AI-200 Azure AI Cloud Developer Associate (sucesor de AZ-204)]]",
+   "x": 960,
+   "y": -876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[AZ-400 DevOps Engineer Expert]]",
+   "x": 960,
+   "y": -804,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[AZ-305 Azure Solutions Architect Expert]]",
+   "x": 960,
+   "y": -732,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[Requisitos y orden recomendado hasta Azure Solutions Architect]]",
+   "x": 960,
+   "y": -660,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[AZ-500 y SC-500 (seguridad en Azure)]]",
+   "x": 960,
+   "y": -588,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[DP-300 Azure Database Administrator]]",
+   "x": 960,
+   "y": -516,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[SC-900 Security, Compliance and Identity Fundamentals]]",
+   "x": 960,
+   "y": -444,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[SC-100 Cybersecurity Architect Expert]]",
+   "x": 960,
+   "y": -372,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t12",
+   "type": "text",
+   "text": "[[Renovación anual de certificaciones de Microsoft]]",
+   "x": 960,
+   "y": -300,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t13",
+   "type": "text",
+   "text": "[[Cómo estudiar con Microsoft Learn y evaluaciones de práctica]]",
+   "x": 960,
+   "y": -228,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t14",
+   "type": "text",
+   "text": "[[Cómo prepararse para los casos de estudio de AZ-305]]",
+   "x": 960,
+   "y": -156,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### IA y datos",
+   "x": 520,
+   "y": 105,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[AI-900 Azure AI Fundamentals]]",
+   "x": 960,
+   "y": -4,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[AI-102 Azure AI Engineer Associate]]",
+   "x": 960,
+   "y": 68,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Certificaciones de machine learning (Azure, AWS y Google)]]",
+   "x": 960,
+   "y": 140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[TensorFlow y PyTorch - certificados y cursos reconocidos]]",
+   "x": 960,
+   "y": 212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Power BI y datos",
+   "x": 520,
+   "y": 437,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[PL-300 Power BI Data Analyst Associate]]",
+   "x": 960,
+   "y": 364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[DP-600 Fabric Analytics Engineer Associate]]",
+   "x": 960,
+   "y": 436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[DP-900 Azure Data Fundamentals]]",
+   "x": 960,
+   "y": 508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s6",
+   "type": "text",
+   "text": "### Desarrollo",
+   "x": 520,
+   "y": 877,
+   "width": 300,
+   "height": 70,
+   "color": "#F4511E"
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[Certificaciones de CSharp y .NET]]",
+   "x": 960,
+   "y": 660,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t1",
+   "type": "text",
+   "text": "[[Certificaciones de JavaScript y Node.js]]",
+   "x": 960,
+   "y": 732,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2",
+   "type": "text",
+   "text": "[[React - por qué no hay certificación oficial y qué hacer en su lugar]]",
+   "x": 960,
+   "y": 804,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t3",
+   "type": "text",
+   "text": "[[Angular - certificaciones y cómo demostrar el nivel]]",
+   "x": 960,
+   "y": 876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t4",
+   "type": "text",
+   "text": "[[Certificaciones de SQL y bases de datos]]",
+   "x": 960,
+   "y": 948,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t5",
+   "type": "text",
+   "text": "[[Oracle Certified Professional Java SE]]",
+   "x": 960,
+   "y": 1020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t6",
+   "type": "text",
+   "text": "[[Spring Professional]]",
+   "x": 960,
+   "y": 1092,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Redes",
+   "x": -820,
+   "y": -875,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Cisco Networking Academy (cursos y Packet Tracer)]]",
+   "x": -1260,
+   "y": -1020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Cisco CCST Networking]]",
+   "x": -1260,
+   "y": -948,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[CCNA]]",
+   "x": -1260,
+   "y": -876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[CCNP Enterprise]]",
+   "x": -1260,
+   "y": -804,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[CompTIA Network+]]",
+   "x": -1260,
+   "y": -732,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### DevOps, contenedores y nube en general",
+   "x": -820,
+   "y": -363,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[GH-900 GitHub Foundations]]",
+   "x": -1260,
+   "y": -580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[GH-200 GitHub Actions]]",
+   "x": -1260,
+   "y": -508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Terraform Associate]]",
+   "x": -1260,
+   "y": -436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[Kubernetes (KCNA, CKAD y CKA)]]",
+   "x": -1260,
+   "y": -364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[AWS Cloud Practitioner]]",
+   "x": -1260,
+   "y": -292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5",
+   "type": "text",
+   "text": "[[AWS Solutions Architect Associate]]",
+   "x": -1260,
+   "y": -220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t6",
+   "type": "text",
+   "text": "[[Google Cloud Professional Cloud Architect]]",
+   "x": -1260,
+   "y": -148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Seguridad",
+   "x": -820,
+   "y": 221,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Burp Suite Certified Practitioner (PortSwigger)]]",
+   "x": -1260,
+   "y": 4,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[CompTIA Security+]]",
+   "x": -1260,
+   "y": 76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[eJPT]]",
+   "x": -1260,
+   "y": 148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[CEH]]",
+   "x": -1260,
+   "y": 220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4",
+   "type": "text",
+   "text": "[[OSCP]]",
+   "x": -1260,
+   "y": 292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t5",
+   "type": "text",
+   "text": "[[Certified in Cybersecurity (ISC2)]]",
+   "x": -1260,
+   "y": 364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t6",
+   "type": "text",
+   "text": "[[SC-200 Security Operations Analyst]]",
+   "x": -1260,
+   "y": 436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s7",
+   "type": "text",
+   "text": "### Arquitectura, gestión y liderazgo",
+   "x": -820,
+   "y": 769,
+   "width": 300,
+   "height": 70,
+   "color": "#C0CA33"
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[TOGAF]]",
+   "x": -1260,
+   "y": 588,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t1",
+   "type": "text",
+   "text": "[[Scrum (PSM y PSPO)]]",
+   "x": -1260,
+   "y": 660,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t2",
+   "type": "text",
+   "text": "[[Certificaciones de inglés (TOEFL, IELTS, Cambridge y EF SET)]]",
+   "x": -1260,
+   "y": 732,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t3",
+   "type": "text",
+   "text": "[[Cómo decidir qué certificación vale la pena]]",
+   "x": -1260,
+   "y": 804,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t4",
+   "type": "text",
+   "text": "[[Plan de certificaciones (calendario y presupuesto)]]",
+   "x": -1260,
+   "y": 876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t5",
+   "type": "text",
+   "text": "[[Vouchers y descuentos de examen]]",
+   "x": -1260,
+   "y": 948,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t5",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t6",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t7",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t8",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t9",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t10",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t11",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t12",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t13",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t14",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s6",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t1",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t2",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t3",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t4",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t5",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t6",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t2",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t4",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t2",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t3",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t5",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t6",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t3",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t4",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t6",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s7",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t0",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t1",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t2",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t3",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t4",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t5",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  }
+ ]
+}

@@ -1,0 +1,1907 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# IA y Machine Learning\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Matemáticas necesarias",
+   "x": 520,
+   "y": -1707,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Álgebra lineal para ML (vectores, matrices y producto punto)]]",
+   "x": 960,
+   "y": -1816,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Cálculo para ML (derivadas y gradiente)]]",
+   "x": 960,
+   "y": -1744,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Probabilidad para ML]]",
+   "x": 960,
+   "y": -1672,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Estadística para ML (distribuciones, media, varianza)]]",
+   "x": 960,
+   "y": -1600,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Machine learning clásico",
+   "x": 520,
+   "y": -763,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Qué es el machine learning]]",
+   "x": 960,
+   "y": -1448,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Aprendizaje supervisado, no supervisado y por refuerzo]]",
+   "x": 960,
+   "y": -1304,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1c0",
+   "type": "text",
+   "text": "[[Aprendizaje supervisado]]",
+   "x": 1400,
+   "y": -1376,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t1c1",
+   "type": "text",
+   "text": "[[Aprendizaje no supervisado]]",
+   "x": 1400,
+   "y": -1304,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t1c2",
+   "type": "text",
+   "text": "[[Aprendizaje por refuerzo]]",
+   "x": 1400,
+   "y": -1232,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Datos de entrenamiento, validación y prueba]]",
+   "x": 960,
+   "y": -1160,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Regresión lineal]]",
+   "x": 960,
+   "y": -1088,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Regresión logística]]",
+   "x": 960,
+   "y": -1016,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[Árboles de decisión y random forest]]",
+   "x": 960,
+   "y": -944,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[Gradient boosting (XGBoost y LightGBM)]]",
+   "x": 960,
+   "y": -872,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[k-NN y SVM]]",
+   "x": 960,
+   "y": -800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[Clustering (k-means)]]",
+   "x": 960,
+   "y": -728,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t9",
+   "type": "text",
+   "text": "[[Reducción de dimensionalidad (PCA)]]",
+   "x": 960,
+   "y": -656,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t10",
+   "type": "text",
+   "text": "[[Overfitting, underfitting y sesgo-varianza]]",
+   "x": 960,
+   "y": -584,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t11",
+   "type": "text",
+   "text": "[[Validación cruzada]]",
+   "x": 960,
+   "y": -512,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t12",
+   "type": "text",
+   "text": "[[Métricas de clasificación y regresión]]",
+   "x": 960,
+   "y": -332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t12c0",
+   "type": "text",
+   "text": "[[Matriz de confusión]]",
+   "x": 1400,
+   "y": -440,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t12c1",
+   "type": "text",
+   "text": "[[Precisión, recall y F1]]",
+   "x": 1400,
+   "y": -368,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t12c2",
+   "type": "text",
+   "text": "[[Curva ROC y AUC]]",
+   "x": 1400,
+   "y": -296,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t12c3",
+   "type": "text",
+   "text": "[[Métricas de regresión (MAE, RMSE y R²)]]",
+   "x": 1400,
+   "y": -224,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t13",
+   "type": "text",
+   "text": "[[Feature engineering]]",
+   "x": 960,
+   "y": -152,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t14",
+   "type": "text",
+   "text": "[[scikit-learn]]",
+   "x": 960,
+   "y": -80,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Agentes de IA",
+   "x": 520,
+   "y": 469,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Qué es un agente de IA]]",
+   "x": 960,
+   "y": 72,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[El ciclo de un agente (razonar, actuar, observar)]]",
+   "x": 960,
+   "y": 144,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Herramientas y MCP (Model Context Protocol)]]",
+   "x": 960,
+   "y": 216,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[Memoria de agentes (corto y largo plazo)]]",
+   "x": 960,
+   "y": 288,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4",
+   "type": "text",
+   "text": "[[Planificación y descomposición de tareas]]",
+   "x": 960,
+   "y": 360,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t5",
+   "type": "text",
+   "text": "[[Sistemas multi-agente y orquestación]]",
+   "x": 960,
+   "y": 432,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t6",
+   "type": "text",
+   "text": "[[Humano en el ciclo (aprobaciones)]]",
+   "x": 960,
+   "y": 504,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t7",
+   "type": "text",
+   "text": "[[Guardrails y límites de un agente]]",
+   "x": 960,
+   "y": 576,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t8",
+   "type": "text",
+   "text": "[[Evaluación de agentes]]",
+   "x": 960,
+   "y": 648,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t9",
+   "type": "text",
+   "text": "[[Frameworks de agentes (comparativa)]]",
+   "x": 960,
+   "y": 720,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t10",
+   "type": "text",
+   "text": "[[Agentes de código (asistentes de programación)]]",
+   "x": 960,
+   "y": 792,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t11",
+   "type": "text",
+   "text": "[[Computer use y agentes de navegador]]",
+   "x": 960,
+   "y": 864,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s7",
+   "type": "text",
+   "text": "### MLOps y producción",
+   "x": 520,
+   "y": 1197,
+   "width": 300,
+   "height": 70,
+   "color": "#C0CA33"
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[MLOps - conceptos]]",
+   "x": 960,
+   "y": 1016,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t1",
+   "type": "text",
+   "text": "[[Versionado de datos y modelos]]",
+   "x": 960,
+   "y": 1088,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t2",
+   "type": "text",
+   "text": "[[MLflow]]",
+   "x": 960,
+   "y": 1160,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t3",
+   "type": "text",
+   "text": "[[Desplegar un modelo como API]]",
+   "x": 960,
+   "y": 1232,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t4",
+   "type": "text",
+   "text": "[[Monitoreo de modelos y drift]]",
+   "x": 960,
+   "y": 1304,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t5",
+   "type": "text",
+   "text": "[[Azure Machine Learning]]",
+   "x": 960,
+   "y": 1376,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s8",
+   "type": "text",
+   "text": "### Responsabilidad y seguridad",
+   "x": 520,
+   "y": 1637,
+   "width": 300,
+   "height": 70,
+   "color": "#6D4C41"
+  },
+  {
+   "id": "g8t0",
+   "type": "text",
+   "text": "[[IA responsable (sesgo, equidad y transparencia)]]",
+   "x": 960,
+   "y": 1528,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t1",
+   "type": "text",
+   "text": "[[Prompt injection]]",
+   "x": 960,
+   "y": 1600,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t2",
+   "type": "text",
+   "text": "[[OWASP Top 10 para LLMs]]",
+   "x": 960,
+   "y": 1672,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t3",
+   "type": "text",
+   "text": "[[Privacidad de datos al usar IA]]",
+   "x": 960,
+   "y": 1744,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Python para datos",
+   "x": -820,
+   "y": -1599,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Python - básico]]",
+   "x": -1260,
+   "y": -1780,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Python - entornos virtuales y pip]]",
+   "x": -1260,
+   "y": -1708,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Jupyter notebooks]]",
+   "x": -1260,
+   "y": -1636,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[NumPy]]",
+   "x": -1260,
+   "y": -1564,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[pandas]]",
+   "x": -1260,
+   "y": -1492,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Visualización con matplotlib y seaborn]]",
+   "x": -1260,
+   "y": -1420,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Redes neuronales y deep learning",
+   "x": -820,
+   "y": -691,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Neurona artificial y perceptrón]]",
+   "x": -1260,
+   "y": -1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Funciones de activación]]",
+   "x": -1260,
+   "y": -1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1c0",
+   "type": "text",
+   "text": "[[ReLU y sus variantes]]",
+   "x": -1680,
+   "y": -1196,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t1c1",
+   "type": "text",
+   "text": "[[Sigmoide y tanh]]",
+   "x": -1680,
+   "y": -1124,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t1c2",
+   "type": "text",
+   "text": "[[Softmax]]",
+   "x": -1680,
+   "y": -1052,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Redes neuronales multicapa]]",
+   "x": -1260,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Función de pérdida]]",
+   "x": -1260,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Descenso de gradiente y backpropagation]]",
+   "x": -1260,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[Optimizadores (SGD y Adam)]]",
+   "x": -1260,
+   "y": -764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[Regularización y dropout]]",
+   "x": -1260,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7",
+   "type": "text",
+   "text": "[[Redes convolucionales (CNN)]]",
+   "x": -1260,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t8",
+   "type": "text",
+   "text": "[[Redes recurrentes (RNN y LSTM)]]",
+   "x": -1260,
+   "y": -548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t9",
+   "type": "text",
+   "text": "[[Embeddings]]",
+   "x": -1260,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t10",
+   "type": "text",
+   "text": "[[Mecanismo de atención]]",
+   "x": -1260,
+   "y": -404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t11",
+   "type": "text",
+   "text": "[[Transformers]]",
+   "x": -1260,
+   "y": -332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t12",
+   "type": "text",
+   "text": "[[Transfer learning y fine-tuning]]",
+   "x": -1260,
+   "y": -260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t13",
+   "type": "text",
+   "text": "[[PyTorch]]",
+   "x": -1260,
+   "y": -188,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t14",
+   "type": "text",
+   "text": "[[GPUs y por qué importan]]",
+   "x": -1260,
+   "y": -116,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Modelos de lenguaje",
+   "x": -820,
+   "y": 505,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Cómo funciona un LLM (tokens, contexto y predicción)]]",
+   "x": -1260,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Parámetros de generación (temperatura y top-p)]]",
+   "x": -1260,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Prompting efectivo]]",
+   "x": -1260,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[Salidas estructuradas (JSON)]]",
+   "x": -1260,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[Tool calling (llamadas a herramientas)]]",
+   "x": -1260,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5",
+   "type": "text",
+   "text": "[[RAG (generación aumentada con recuperación)]]",
+   "x": -1260,
+   "y": 396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t6",
+   "type": "text",
+   "text": "[[Embeddings y bases vectoriales (pgvector y Azure AI Search)]]",
+   "x": -1260,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t7",
+   "type": "text",
+   "text": "[[Chunking y reranking]]",
+   "x": -1260,
+   "y": 540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t8",
+   "type": "text",
+   "text": "[[Fine-tuning vs RAG vs prompting]]",
+   "x": -1260,
+   "y": 612,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t9",
+   "type": "text",
+   "text": "[[LoRA y ajuste eficiente]]",
+   "x": -1260,
+   "y": 684,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t10",
+   "type": "text",
+   "text": "[[Alucinaciones y cómo reducirlas]]",
+   "x": -1260,
+   "y": 756,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t11",
+   "type": "text",
+   "text": "[[Evaluación de respuestas de LLMs]]",
+   "x": -1260,
+   "y": 828,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t12",
+   "type": "text",
+   "text": "[[Costo y latencia de LLMs]]",
+   "x": -1260,
+   "y": 900,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t13",
+   "type": "text",
+   "text": "[[Modelos abiertos vs comerciales]]",
+   "x": -1260,
+   "y": 972,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s6",
+   "type": "text",
+   "text": "### IA en .NET y Azure",
+   "x": -820,
+   "y": 1269,
+   "width": 300,
+   "height": 70,
+   "color": "#F4511E"
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[Microsoft.Extensions.AI]]",
+   "x": -1260,
+   "y": 1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t1",
+   "type": "text",
+   "text": "[[Semantic Kernel y Microsoft Agent Framework]]",
+   "x": -1260,
+   "y": 1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2",
+   "type": "text",
+   "text": "[[ML.NET]]",
+   "x": -1260,
+   "y": 1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t3",
+   "type": "text",
+   "text": "[[ONNX Runtime]]",
+   "x": -1260,
+   "y": 1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t4",
+   "type": "text",
+   "text": "[[Azure OpenAI y Azure AI Foundry]]",
+   "x": -1260,
+   "y": 1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s9",
+   "type": "text",
+   "text": "### Recursos y práctica",
+   "x": -820,
+   "y": 1637,
+   "width": 300,
+   "height": 70,
+   "color": "#00ACC1"
+  },
+  {
+   "id": "g9t0",
+   "type": "text",
+   "text": "[[Ruta de aprendizaje de IA (de cero a agentes)]]",
+   "x": -1260,
+   "y": 1564,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g9t1",
+   "type": "text",
+   "text": "[[Cursos recomendados de ML y deep learning]]",
+   "x": -1260,
+   "y": 1636,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g9t2",
+   "type": "text",
+   "text": "[[Proyectos prácticos de IA]]",
+   "x": -1260,
+   "y": 1708,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "g2t1",
+   "fromSide": "right",
+   "toNode": "g2t1c0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "g2t1",
+   "fromSide": "right",
+   "toNode": "g2t1c1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "g2t1",
+   "fromSide": "right",
+   "toNode": "g2t1c2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t3",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t4",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t5",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t6",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t7",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t8",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t9",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t10",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t11",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t12",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "g2t12",
+   "fromSide": "right",
+   "toNode": "g2t12c0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "g2t12",
+   "fromSide": "right",
+   "toNode": "g2t12c1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "g2t12",
+   "fromSide": "right",
+   "toNode": "g2t12c2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "g2t12",
+   "fromSide": "right",
+   "toNode": "g2t12c3",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t13",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t14",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s5",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t1",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t2",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t3",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t4",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t5",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t6",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t7",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t8",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t9",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t10",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t11",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s7",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t0",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t1",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t2",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t3",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t4",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t5",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s8",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t0",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t1",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t2",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t3",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t3",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t4",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t5",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "g3t1",
+   "fromSide": "left",
+   "toNode": "g3t1c0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "g3t1",
+   "fromSide": "left",
+   "toNode": "g3t1c1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "g3t1",
+   "fromSide": "left",
+   "toNode": "g3t1c2",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t2",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t4",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t5",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t6",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t7",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t8",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t9",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t10",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t11",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t12",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t13",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t14",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e82",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t2",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e83",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t3",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e84",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e85",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t5",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e86",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t6",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e87",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t7",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e88",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t8",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e89",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t9",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e90",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t10",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e91",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t11",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e92",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t12",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e93",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t13",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e94",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s6",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e95",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t0",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e96",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t1",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e97",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t2",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e98",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t3",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e99",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t4",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e100",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s9",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e101",
+   "fromNode": "s9",
+   "fromSide": "left",
+   "toNode": "g9t0",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e102",
+   "fromNode": "s9",
+   "fromSide": "left",
+   "toNode": "g9t1",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e103",
+   "fromNode": "s9",
+   "fromSide": "left",
+   "toNode": "g9t2",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  }
+ ]
+}

@@ -1,0 +1,2680 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Power BI\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Modelado de datos",
+   "x": 520,
+   "y": -2135,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Modelo estrella (hechos y dimensiones)]]",
+   "x": 960,
+   "y": -2532,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Granularidad de una tabla de hechos]]",
+   "x": 960,
+   "y": -2460,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Relaciones (cardinalidad y dirección del filtro)]]",
+   "x": 960,
+   "y": -2388,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Relaciones activas e inactivas]]",
+   "x": 960,
+   "y": -2316,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Relaciones muchos a muchos y bidireccionales]]",
+   "x": 960,
+   "y": -2244,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[Dimensiones de rol múltiple]]",
+   "x": 960,
+   "y": -2172,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[Tabla de calendario]]",
+   "x": 960,
+   "y": -2100,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[Jerarquías]]",
+   "x": 960,
+   "y": -2028,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[Esquema copo de nieve vs estrella]]",
+   "x": 960,
+   "y": -1956,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t9",
+   "type": "text",
+   "text": "[[Seguridad a nivel de fila (RLS)]]",
+   "x": 960,
+   "y": -1884,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t10",
+   "type": "text",
+   "text": "[[Seguridad a nivel de objeto (OLS)]]",
+   "x": 960,
+   "y": -1812,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t11",
+   "type": "text",
+   "text": "[[Cómo funciona el motor VertiPaq]]",
+   "x": 960,
+   "y": -1740,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### DAX",
+   "x": 520,
+   "y": -507,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[DAX - qué es y para qué sirve]]",
+   "x": 960,
+   "y": -1588,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[DAX - columnas calculadas, medidas y tablas calculadas]]",
+   "x": 960,
+   "y": -1516,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[DAX - sintaxis y operadores]]",
+   "x": 960,
+   "y": -1444,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[DAX - contexto de fila]]",
+   "x": 960,
+   "y": -1372,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[DAX - contexto de filtro]]",
+   "x": 960,
+   "y": -1300,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[DAX - transición de contexto]]",
+   "x": 960,
+   "y": -1228,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[DAX - CALCULATE]]",
+   "x": 960,
+   "y": -1156,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7",
+   "type": "text",
+   "text": "[[DAX - FILTER, ALL, ALLEXCEPT y REMOVEFILTERS]]",
+   "x": 960,
+   "y": -1084,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t8",
+   "type": "text",
+   "text": "[[DAX - VALUES y DISTINCT]]",
+   "x": 960,
+   "y": -1012,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t9",
+   "type": "text",
+   "text": "[[DAX - iteradores (SUMX, AVERAGEX y demás)]]",
+   "x": 960,
+   "y": -940,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t10",
+   "type": "text",
+   "text": "[[DAX - RELATED y RELATEDTABLE]]",
+   "x": 960,
+   "y": -868,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t11",
+   "type": "text",
+   "text": "[[DAX - variables (VAR y RETURN)]]",
+   "x": 960,
+   "y": -796,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t12",
+   "type": "text",
+   "text": "[[DAX - IF, SWITCH y DIVIDE]]",
+   "x": 960,
+   "y": -724,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t13",
+   "type": "text",
+   "text": "[[DAX - conteos (COUNTROWS y DISTINCTCOUNT)]]",
+   "x": 960,
+   "y": -652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t14",
+   "type": "text",
+   "text": "[[DAX - inteligencia de tiempo]]",
+   "x": 960,
+   "y": -580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t15",
+   "type": "text",
+   "text": "[[DAX - YTD, mismo periodo del año anterior y comparativos]]",
+   "x": 960,
+   "y": -508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t16",
+   "type": "text",
+   "text": "[[DAX - RANKX y TOPN]]",
+   "x": 960,
+   "y": -436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t17",
+   "type": "text",
+   "text": "[[DAX - USERELATIONSHIP, TREATAS y CROSSFILTER]]",
+   "x": 960,
+   "y": -364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t18",
+   "type": "text",
+   "text": "[[DAX - SELECTEDVALUE, ISINSCOPE y HASONEVALUE]]",
+   "x": 960,
+   "y": -292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t19",
+   "type": "text",
+   "text": "[[DAX - tablas virtuales]]",
+   "x": 960,
+   "y": -220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t20",
+   "type": "text",
+   "text": "[[DAX - SUMMARIZE, SUMMARIZECOLUMNS y ADDCOLUMNS]]",
+   "x": 960,
+   "y": -148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t21",
+   "type": "text",
+   "text": "[[DAX - totales acumulados]]",
+   "x": 960,
+   "y": -76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t22",
+   "type": "text",
+   "text": "[[DAX - medidas semiaditivas]]",
+   "x": 960,
+   "y": -4,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t23",
+   "type": "text",
+   "text": "[[DAX - patrones comunes (ABC, Pareto y cohortes)]]",
+   "x": 960,
+   "y": 68,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t24",
+   "type": "text",
+   "text": "[[DAX - seguridad dinámica con USERPRINCIPALNAME]]",
+   "x": 960,
+   "y": 140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t25",
+   "type": "text",
+   "text": "[[DAX - errores comunes]]",
+   "x": 960,
+   "y": 212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t26",
+   "type": "text",
+   "text": "[[DAX - optimización]]",
+   "x": 960,
+   "y": 284,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t27",
+   "type": "text",
+   "text": "[[Consultas DAX (EVALUATE, DEFINE y MEASURE)]]",
+   "x": 960,
+   "y": 356,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t28",
+   "type": "text",
+   "text": "[[Grupos de cálculo]]",
+   "x": 960,
+   "y": 428,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t29",
+   "type": "text",
+   "text": "[[Parámetros de campo]]",
+   "x": 960,
+   "y": 500,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t30",
+   "type": "text",
+   "text": "[[Cálculos visuales (visual calculations)]]",
+   "x": 960,
+   "y": 572,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Ayudas para crear DAX más rápido",
+   "x": 520,
+   "y": 1049,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Medidas rápidas (quick measures)]]",
+   "x": 960,
+   "y": 724,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Vista de consultas DAX (DAX query view)]]",
+   "x": 960,
+   "y": 796,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Copilot en la vista de consultas DAX (escribir y explicar consultas)]]",
+   "x": 960,
+   "y": 868,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[Sugerencias de medidas rápidas con Copilot]]",
+   "x": 960,
+   "y": 940,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[Requisitos y licencias para usar Copilot en Power BI]]",
+   "x": 960,
+   "y": 1012,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5",
+   "type": "text",
+   "text": "[[Cuándo confiar en Copilot y cómo validar lo que genera]]",
+   "x": 960,
+   "y": 1084,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t6",
+   "type": "text",
+   "text": "[[DAX Studio]]",
+   "x": 960,
+   "y": 1156,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t7",
+   "type": "text",
+   "text": "[[Tabular Editor]]",
+   "x": 960,
+   "y": 1228,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t8",
+   "type": "text",
+   "text": "[[DAX Formatter y guías de estilo]]",
+   "x": 960,
+   "y": 1300,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t9",
+   "type": "text",
+   "text": "[[SQLBI y otros recursos para aprender DAX]]",
+   "x": 960,
+   "y": 1372,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Visualización",
+   "x": 520,
+   "y": 1993,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Tipos de gráficos y cuándo usar cada uno]]",
+   "x": 960,
+   "y": 1524,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Principios de diseño de informes]]",
+   "x": 960,
+   "y": 1596,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Colores y accesibilidad en informes]]",
+   "x": 960,
+   "y": 1668,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[Segmentaciones de datos (slicers)]]",
+   "x": 960,
+   "y": 1740,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4",
+   "type": "text",
+   "text": "[[Filtros de visual, página e informe]]",
+   "x": 960,
+   "y": 1812,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t5",
+   "type": "text",
+   "text": "[[Interacciones entre visuales]]",
+   "x": 960,
+   "y": 1884,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t6",
+   "type": "text",
+   "text": "[[Información sobre herramientas (tooltips)]]",
+   "x": 960,
+   "y": 1956,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t7",
+   "type": "text",
+   "text": "[[Drill down y drill through]]",
+   "x": 960,
+   "y": 2028,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t8",
+   "type": "text",
+   "text": "[[Marcadores y botones]]",
+   "x": 960,
+   "y": 2100,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t9",
+   "type": "text",
+   "text": "[[Formato condicional]]",
+   "x": 960,
+   "y": 2172,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t10",
+   "type": "text",
+   "text": "[[Temas y archivos JSON de tema]]",
+   "x": 960,
+   "y": 2244,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t11",
+   "type": "text",
+   "text": "[[Diseño para móvil]]",
+   "x": 960,
+   "y": 2316,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t12",
+   "type": "text",
+   "text": "[[Informes paginados (Report Builder)]]",
+   "x": 960,
+   "y": 2388,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t13",
+   "type": "text",
+   "text": "[[Narrativa con datos (storytelling)]]",
+   "x": 960,
+   "y": 2460,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Fundamentos",
+   "x": -820,
+   "y": -2211,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Qué es la inteligencia de negocios (BI)]]",
+   "x": -1260,
+   "y": -2644,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Ecosistema de Power BI (Desktop, Service, Mobile, Report Server y Embedded)]]",
+   "x": -1260,
+   "y": -2572,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Power BI y Microsoft Fabric]]",
+   "x": -1260,
+   "y": -2500,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Licencias de Power BI (Free, Pro, Premium por usuario y capacidades)]]",
+   "x": -1260,
+   "y": -2428,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Instalar Power BI Desktop y primer informe]]",
+   "x": -1260,
+   "y": -2356,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Flujo de trabajo (obtener, transformar, modelar, visualizar y publicar)]]",
+   "x": -1260,
+   "y": -2284,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[Mapa de lenguajes de Power BI (DAX, M, SQL, R, Python, Vega-Lite, TypeScript y JSON)]]",
+   "x": -1260,
+   "y": -2212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[Conectores y orígenes de datos (Excel, CSV, SQL Server, Web y API)]]",
+   "x": -1260,
+   "y": -2140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[Import, DirectQuery, Dual, Live Connection y Direct Lake]]",
+   "x": -1260,
+   "y": -1960,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8c0",
+   "type": "text",
+   "text": "[[Modo de almacenamiento Import]]",
+   "x": -1680,
+   "y": -2068,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t8c1",
+   "type": "text",
+   "text": "[[Modo de almacenamiento DirectQuery]]",
+   "x": -1680,
+   "y": -1996,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t8c2",
+   "type": "text",
+   "text": "[[Modo de almacenamiento Dual]]",
+   "x": -1680,
+   "y": -1924,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t8c3",
+   "type": "text",
+   "text": "[[Conexión dinámica (Live Connection) en Power BI]]",
+   "x": -1680,
+   "y": -1852,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Modelos compuestos]]",
+   "x": -1260,
+   "y": -1780,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Power Query y el lenguaje M",
+   "x": -820,
+   "y": -943,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Power Query - interfaz y pasos aplicados]]",
+   "x": -1260,
+   "y": -1628,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Power Query - tipos de datos]]",
+   "x": -1260,
+   "y": -1556,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Power Query - limpieza de datos]]",
+   "x": -1260,
+   "y": -1484,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Power Query - columnas condicionales y personalizadas]]",
+   "x": -1260,
+   "y": -1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Power Query - combinar consultas (merge y append)]]",
+   "x": -1260,
+   "y": -1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Power Query - agrupar, pivotar y despivotar]]",
+   "x": -1260,
+   "y": -1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[Power Query - parámetros]]",
+   "x": -1260,
+   "y": -1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Power Query - funciones personalizadas]]",
+   "x": -1260,
+   "y": -1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[Power Query - manejo de errores]]",
+   "x": -1260,
+   "y": -1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[Power Query - consumir un API]]",
+   "x": -1260,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[Power Query en Excel (consumir un API desde Excel)]]",
+   "x": -1260,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t11",
+   "type": "text",
+   "text": "[[Lenguaje M - let e in]]",
+   "x": -1260,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t12",
+   "type": "text",
+   "text": "[[Lenguaje M - tipos (listas, registros y tablas)]]",
+   "x": -1260,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t12c0",
+   "type": "text",
+   "text": "[[Listas en M]]",
+   "x": -1680,
+   "y": -764,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t12c1",
+   "type": "text",
+   "text": "[[Registros en M]]",
+   "x": -1680,
+   "y": -692,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t12c2",
+   "type": "text",
+   "text": "[[Tablas en M]]",
+   "x": -1680,
+   "y": -620,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t13",
+   "type": "text",
+   "text": "[[Lenguaje M - funciones y recursividad]]",
+   "x": -1260,
+   "y": -548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t14",
+   "type": "text",
+   "text": "[[Query folding]]",
+   "x": -1260,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t15",
+   "type": "text",
+   "text": "[[Actualización incremental]]",
+   "x": -1260,
+   "y": -404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t16",
+   "type": "text",
+   "text": "[[Dataflows]]",
+   "x": -1260,
+   "y": -332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t17",
+   "type": "text",
+   "text": "[[Consultas nativas de SQL y vistas para Power BI]]",
+   "x": -1260,
+   "y": -260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s6",
+   "type": "text",
+   "text": "### Gráficas propias",
+   "x": -820,
+   "y": 181,
+   "width": 300,
+   "height": 70,
+   "color": "#F4511E"
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[Visuales personalizados - panorama de opciones]]",
+   "x": -1260,
+   "y": -108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t1",
+   "type": "text",
+   "text": "[[Visuales de AppSource]]",
+   "x": -1260,
+   "y": -36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2",
+   "type": "text",
+   "text": "[[Visuales de R]]",
+   "x": -1260,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t3",
+   "type": "text",
+   "text": "[[Visuales de Python]]",
+   "x": -1260,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t4",
+   "type": "text",
+   "text": "[[Deneb (Vega y Vega-Lite)]]",
+   "x": -1260,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t5",
+   "type": "text",
+   "text": "[[SVG dentro de medidas DAX]]",
+   "x": -1260,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t6",
+   "type": "text",
+   "text": "[[SDK de visuales de Power BI (TypeScript y pbiviz)]]",
+   "x": -1260,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t7",
+   "type": "text",
+   "text": "[[Crear un visual propio con D3]]",
+   "x": -1260,
+   "y": 396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t8",
+   "type": "text",
+   "text": "[[Empaquetar, probar y publicar un visual propio]]",
+   "x": -1260,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s7",
+   "type": "text",
+   "text": "### Power BI Service",
+   "x": -820,
+   "y": 981,
+   "width": 300,
+   "height": 70,
+   "color": "#C0CA33"
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[Áreas de trabajo (workspaces)]]",
+   "x": -1260,
+   "y": 620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t1",
+   "type": "text",
+   "text": "[[Modelos semánticos (antes datasets)]]",
+   "x": -1260,
+   "y": 692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t2",
+   "type": "text",
+   "text": "[[Publicar y compartir informes]]",
+   "x": -1260,
+   "y": 764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t3",
+   "type": "text",
+   "text": "[[Aplicaciones de Power BI]]",
+   "x": -1260,
+   "y": 836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t4",
+   "type": "text",
+   "text": "[[Actualización programada]]",
+   "x": -1260,
+   "y": 908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t5",
+   "type": "text",
+   "text": "[[Puerta de enlace de datos local (gateway)]]",
+   "x": -1260,
+   "y": 980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t6",
+   "type": "text",
+   "text": "[[Paneles (dashboards) vs informes]]",
+   "x": -1260,
+   "y": 1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t7",
+   "type": "text",
+   "text": "[[Suscripciones y alertas]]",
+   "x": -1260,
+   "y": 1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t8",
+   "type": "text",
+   "text": "[[Seguridad y permisos en el Service]]",
+   "x": -1260,
+   "y": 1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t9",
+   "type": "text",
+   "text": "[[Certificación y promoción de contenido]]",
+   "x": -1260,
+   "y": 1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t10",
+   "type": "text",
+   "text": "[[Linaje de datos]]",
+   "x": -1260,
+   "y": 1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s8",
+   "type": "text",
+   "text": "### Avanzado",
+   "x": -820,
+   "y": 2033,
+   "width": 300,
+   "height": 70,
+   "color": "#6D4C41"
+  },
+  {
+   "id": "g8t0",
+   "type": "text",
+   "text": "[[Power BI Embedded (incrustar en una aplicación React o .NET)]]",
+   "x": -1260,
+   "y": 1492,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t1",
+   "type": "text",
+   "text": "[[API REST de Power BI]]",
+   "x": -1260,
+   "y": 1564,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t2",
+   "type": "text",
+   "text": "[[Cliente JavaScript de Power BI]]",
+   "x": -1260,
+   "y": 1636,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t3",
+   "type": "text",
+   "text": "[[Punto de conexión XMLA]]",
+   "x": -1260,
+   "y": 1708,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t4",
+   "type": "text",
+   "text": "[[TMDL y proyectos PBIP]]",
+   "x": -1260,
+   "y": 1780,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t5",
+   "type": "text",
+   "text": "[[Power BI con Git y control de versiones]]",
+   "x": -1260,
+   "y": 1852,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t6",
+   "type": "text",
+   "text": "[[Canalizaciones de implementación (deployment pipelines)]]",
+   "x": -1260,
+   "y": 1924,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t7",
+   "type": "text",
+   "text": "[[ALM Toolkit]]",
+   "x": -1260,
+   "y": 1996,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t8",
+   "type": "text",
+   "text": "[[Agregaciones]]",
+   "x": -1260,
+   "y": 2068,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t9",
+   "type": "text",
+   "text": "[[Rendimiento - Performance Analyzer y VertiPaq Analyzer]]",
+   "x": -1260,
+   "y": 2140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t10",
+   "type": "text",
+   "text": "[[Modelos grandes]]",
+   "x": -1260,
+   "y": 2212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t11",
+   "type": "text",
+   "text": "[[Fabric - Lakehouse, Warehouse y OneLake]]",
+   "x": -1260,
+   "y": 2284,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t12",
+   "type": "text",
+   "text": "[[Direct Lake]]",
+   "x": -1260,
+   "y": 2356,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t13",
+   "type": "text",
+   "text": "[[Power BI con Azure (SQL, Synapse y Analysis Services)]]",
+   "x": -1260,
+   "y": 2428,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t14",
+   "type": "text",
+   "text": "[[Power BI con Power Automate y Power Apps]]",
+   "x": -1260,
+   "y": 2500,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t15",
+   "type": "text",
+   "text": "[[Gobierno de datos en Power BI]]",
+   "x": -1260,
+   "y": 2572,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t3",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t4",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t5",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t6",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t7",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t8",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t9",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t10",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t11",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t5",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t6",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t7",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t8",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t9",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t10",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t11",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t12",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t13",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t14",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t15",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t16",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t17",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t18",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t19",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t20",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t21",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t22",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t23",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t24",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t25",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t26",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t27",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t28",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t29",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t30",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t2",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t3",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t5",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t6",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t7",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t8",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t9",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s5",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t1",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t2",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t3",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t4",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t5",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t6",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t7",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t8",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t9",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t10",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t11",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t12",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t13",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t4",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t5",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t6",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t7",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t8",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "g0t8",
+   "fromSide": "left",
+   "toNode": "g0t8c0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e82",
+   "fromNode": "g0t8",
+   "fromSide": "left",
+   "toNode": "g0t8c1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e83",
+   "fromNode": "g0t8",
+   "fromSide": "left",
+   "toNode": "g0t8c2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e84",
+   "fromNode": "g0t8",
+   "fromSide": "left",
+   "toNode": "g0t8c3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e85",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t9",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e86",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e87",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e88",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e89",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e90",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t3",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e91",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t4",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e92",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t5",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e93",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t6",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e94",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t7",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e95",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t8",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e96",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t9",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e97",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t10",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e98",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t11",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e99",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t12",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e100",
+   "fromNode": "g1t12",
+   "fromSide": "left",
+   "toNode": "g1t12c0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e101",
+   "fromNode": "g1t12",
+   "fromSide": "left",
+   "toNode": "g1t12c1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e102",
+   "fromNode": "g1t12",
+   "fromSide": "left",
+   "toNode": "g1t12c2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e103",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t13",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e104",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t14",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e105",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t15",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e106",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t16",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e107",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t17",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e108",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s6",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e109",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t0",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e110",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t1",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e111",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t2",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e112",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t3",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e113",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t4",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e114",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t5",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e115",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t6",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e116",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t7",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e117",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t8",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e118",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s7",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e119",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t0",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e120",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t1",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e121",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t2",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e122",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t3",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e123",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t4",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e124",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t5",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e125",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t6",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e126",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t7",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e127",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t8",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e128",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t9",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e129",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t10",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e130",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s8",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e131",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t0",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e132",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t1",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e133",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t2",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e134",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t3",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e135",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t4",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e136",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t5",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e137",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t6",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e138",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t7",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e139",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t8",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e140",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t9",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e141",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t10",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e142",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t11",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e143",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t12",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e144",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t13",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e145",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t14",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e146",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t15",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  }
+ ]
+}

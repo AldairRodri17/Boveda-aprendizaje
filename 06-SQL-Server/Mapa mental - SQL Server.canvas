@@ -1,0 +1,2317 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# SQL Server\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Intermedio",
+   "x": 520,
+   "y": -1051,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Subconsultas]]",
+   "x": 960,
+   "y": -2204,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Subconsultas correlacionadas]]",
+   "x": 960,
+   "y": -2132,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[EXISTS vs IN]]",
+   "x": 960,
+   "y": -2060,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[CTE]]",
+   "x": 960,
+   "y": -1988,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[CTE múltiples]]",
+   "x": 960,
+   "y": -1916,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[CTE recursivas]]",
+   "x": 960,
+   "y": -1844,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[CROSS APPLY y OUTER APPLY]]",
+   "x": 960,
+   "y": -1772,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Funciones de ventana]]",
+   "x": 960,
+   "y": -1700,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[ROW_NUMBER, RANK y DENSE_RANK]]",
+   "x": 960,
+   "y": -1628,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[LAG y LEAD]]",
+   "x": 960,
+   "y": -1556,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[Totales acumulados con OVER]]",
+   "x": 960,
+   "y": -1484,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t11",
+   "type": "text",
+   "text": "[[PIVOT y UNPIVOT]]",
+   "x": 960,
+   "y": -1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t12",
+   "type": "text",
+   "text": "[[STRING_AGG y STRING_SPLIT]]",
+   "x": 960,
+   "y": -1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t13",
+   "type": "text",
+   "text": "[[JSON en SQL Server (OPENJSON y FOR JSON)]]",
+   "x": 960,
+   "y": -1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t14",
+   "type": "text",
+   "text": "[[Nivel de compatibilidad de la base]]",
+   "x": 960,
+   "y": -1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t15",
+   "type": "text",
+   "text": "[[XML en SQL Server]]",
+   "x": 960,
+   "y": -1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t16",
+   "type": "text",
+   "text": "[[MERGE]]",
+   "x": 960,
+   "y": -1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t17",
+   "type": "text",
+   "text": "[[OUTPUT]]",
+   "x": 960,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t18",
+   "type": "text",
+   "text": "[[Tablas temporales y variables de tabla]]",
+   "x": 960,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t19",
+   "type": "text",
+   "text": "[[Table-valued parameters]]",
+   "x": 960,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t20",
+   "type": "text",
+   "text": "[[Vistas]]",
+   "x": 960,
+   "y": -764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t21",
+   "type": "text",
+   "text": "[[Funciones escalares y de tabla]]",
+   "x": 960,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t22",
+   "type": "text",
+   "text": "[[Stored procedures]]",
+   "x": 960,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t23",
+   "type": "text",
+   "text": "[[CREATE OR ALTER y scripts idempotentes]]",
+   "x": 960,
+   "y": -548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t24",
+   "type": "text",
+   "text": "[[Lotes con GO, sqlcmd e Invoke-Sqlcmd]]",
+   "x": 960,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t25",
+   "type": "text",
+   "text": "[[Parámetros de salida y RETURN]]",
+   "x": 960,
+   "y": -404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t26",
+   "type": "text",
+   "text": "[[SET NOCOUNT y SET XACT_ABORT]]",
+   "x": 960,
+   "y": -332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t27",
+   "type": "text",
+   "text": "[[TRY CATCH y THROW]]",
+   "x": 960,
+   "y": -260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t28",
+   "type": "text",
+   "text": "[[Triggers]]",
+   "x": 960,
+   "y": -188,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t29",
+   "type": "text",
+   "text": "[[Cursores y por qué evitarlos]]",
+   "x": 960,
+   "y": -116,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t30",
+   "type": "text",
+   "text": "[[SQL dinámico y sp_executesql]]",
+   "x": 960,
+   "y": -44,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t31",
+   "type": "text",
+   "text": "[[Paginación eficiente]]",
+   "x": 960,
+   "y": 28,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t32",
+   "type": "text",
+   "text": "[[Borrado lógico y auditoría]]",
+   "x": 960,
+   "y": 100,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Transacciones y concurrencia",
+   "x": 520,
+   "y": 613,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Propiedades ACID]]",
+   "x": 960,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Transacciones (BEGIN, COMMIT y ROLLBACK)]]",
+   "x": 960,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Transacciones anidadas y savepoints]]",
+   "x": 960,
+   "y": 396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Niveles de aislamiento]]",
+   "x": 960,
+   "y": 576,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3c0",
+   "type": "text",
+   "text": "[[READ UNCOMMITTED y NOLOCK]]",
+   "x": 1400,
+   "y": 468,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t3c1",
+   "type": "text",
+   "text": "[[READ COMMITTED (nivel por defecto)]]",
+   "x": 1400,
+   "y": 540,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t3c2",
+   "type": "text",
+   "text": "[[REPEATABLE READ]]",
+   "x": 1400,
+   "y": 612,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t3c3",
+   "type": "text",
+   "text": "[[SERIALIZABLE y bloqueos de rango]]",
+   "x": 1400,
+   "y": 684,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Bloqueos (locks)]]",
+   "x": 960,
+   "y": 756,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[Deadlocks]]",
+   "x": 960,
+   "y": 828,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[Snapshot y RCSI]]",
+   "x": 960,
+   "y": 900,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[Concurrencia optimista]]",
+   "x": 960,
+   "y": 972,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Rendimiento",
+   "x": 520,
+   "y": 1629,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Índices]]",
+   "x": 960,
+   "y": 1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Índice clustered]]",
+   "x": 960,
+   "y": 1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Índice nonclustered]]",
+   "x": 960,
+   "y": 1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Columnas incluidas y filtered indexes]]",
+   "x": 960,
+   "y": 1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Columnstore]]",
+   "x": 960,
+   "y": 1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[Planes de ejecución]]",
+   "x": 960,
+   "y": 1592,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5c0",
+   "type": "text",
+   "text": "[[Plan estimado vs plan real]]",
+   "x": 1400,
+   "y": 1484,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t5c1",
+   "type": "text",
+   "text": "[[Operadores de acceso (Scan, Seek y Key Lookup)]]",
+   "x": 1400,
+   "y": 1556,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t5c2",
+   "type": "text",
+   "text": "[[Operadores de join (Nested Loops, Hash Match y Merge Join)]]",
+   "x": 1400,
+   "y": 1628,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t5c3",
+   "type": "text",
+   "text": "[[Advertencias del plan (conversiones implícitas y spills)]]",
+   "x": 1400,
+   "y": 1700,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[Estadísticas]]",
+   "x": 960,
+   "y": 1772,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7",
+   "type": "text",
+   "text": "[[SARGability]]",
+   "x": 960,
+   "y": 1844,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t8",
+   "type": "text",
+   "text": "[[Parameter sniffing]]",
+   "x": 960,
+   "y": 1916,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t9",
+   "type": "text",
+   "text": "[[Query Store]]",
+   "x": 960,
+   "y": 1988,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t10",
+   "type": "text",
+   "text": "[[DMVs]]",
+   "x": 960,
+   "y": 2060,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t11",
+   "type": "text",
+   "text": "[[Extended Events]]",
+   "x": 960,
+   "y": 2132,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Básico",
+   "x": -820,
+   "y": -1015,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[SQL Server]]",
+   "x": -1260,
+   "y": -2132,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Modelo relacional]]",
+   "x": -1260,
+   "y": -2060,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Tipos de datos (varchar vs nvarchar, decimal vs float)]]",
+   "x": -1260,
+   "y": -1988,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[datetime2 y fechas en SQL Server]]",
+   "x": -1260,
+   "y": -1916,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[uniqueidentifier]]",
+   "x": -1260,
+   "y": -1844,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Esquemas (schemas) en SQL Server]]",
+   "x": -1260,
+   "y": -1772,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[CREATE, ALTER y DROP (DDL)]]",
+   "x": -1260,
+   "y": -1700,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[INSERT, UPDATE y DELETE (DML)]]",
+   "x": -1260,
+   "y": -1628,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[SELECT]]",
+   "x": -1260,
+   "y": -1556,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[WHERE, LIKE, IN y BETWEEN]]",
+   "x": -1260,
+   "y": -1484,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[ORDER BY, TOP y OFFSET FETCH]]",
+   "x": -1260,
+   "y": -1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[DISTINCT]]",
+   "x": -1260,
+   "y": -1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t12",
+   "type": "text",
+   "text": "[[NULL y lógica de tres valores]]",
+   "x": -1260,
+   "y": -1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t13",
+   "type": "text",
+   "text": "[[Funciones de texto]]",
+   "x": -1260,
+   "y": -1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t14",
+   "type": "text",
+   "text": "[[Funciones de fecha]]",
+   "x": -1260,
+   "y": -1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t15",
+   "type": "text",
+   "text": "[[CASE]]",
+   "x": -1260,
+   "y": -1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t16",
+   "type": "text",
+   "text": "[[Funciones de agregación]]",
+   "x": -1260,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t17",
+   "type": "text",
+   "text": "[[GROUP BY y HAVING]]",
+   "x": -1260,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t18",
+   "type": "text",
+   "text": "[[JOINs]]",
+   "x": -1260,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t19",
+   "type": "text",
+   "text": "[[INNER JOIN]]",
+   "x": -1260,
+   "y": -764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t20",
+   "type": "text",
+   "text": "[[LEFT y RIGHT JOIN]]",
+   "x": -1260,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t21",
+   "type": "text",
+   "text": "[[FULL JOIN y CROSS JOIN]]",
+   "x": -1260,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t22",
+   "type": "text",
+   "text": "[[Self join]]",
+   "x": -1260,
+   "y": -548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t23",
+   "type": "text",
+   "text": "[[UNION, UNION ALL, INTERSECT y EXCEPT]]",
+   "x": -1260,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t24",
+   "type": "text",
+   "text": "[[Claves primarias y foráneas]]",
+   "x": -1260,
+   "y": -404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t25",
+   "type": "text",
+   "text": "[[UNIQUE, CHECK y DEFAULT]]",
+   "x": -1260,
+   "y": -332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t26",
+   "type": "text",
+   "text": "[[IDENTITY vs SEQUENCE]]",
+   "x": -1260,
+   "y": -260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t27",
+   "type": "text",
+   "text": "[[Normalización]]",
+   "x": -1260,
+   "y": -44,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t27c0",
+   "type": "text",
+   "text": "[[Primera forma normal (1FN)]]",
+   "x": -1680,
+   "y": -188,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t27c1",
+   "type": "text",
+   "text": "[[Segunda forma normal (2FN)]]",
+   "x": -1680,
+   "y": -116,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t27c2",
+   "type": "text",
+   "text": "[[Tercera forma normal (3FN)]]",
+   "x": -1680,
+   "y": -44,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t27c3",
+   "type": "text",
+   "text": "[[Forma normal de Boyce-Codd (FNBC)]]",
+   "x": -1680,
+   "y": 28,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t27c4",
+   "type": "text",
+   "text": "[[Desnormalización deliberada]]",
+   "x": -1680,
+   "y": 100,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Administración y avanzado",
+   "x": -820,
+   "y": 973,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Tablas temporales del sistema (temporal tables)]]",
+   "x": -1260,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Particionamiento]]",
+   "x": -1260,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Roles y permisos]]",
+   "x": -1260,
+   "y": 396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[Cifrado y Always Encrypted]]",
+   "x": -1260,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[Row-level security]]",
+   "x": -1260,
+   "y": 540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5",
+   "type": "text",
+   "text": "[[Backup y restore]]",
+   "x": -1260,
+   "y": 648,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5c0",
+   "type": "text",
+   "text": "[[Backup completo, diferencial y de log]]",
+   "x": -1680,
+   "y": 612,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t5c1",
+   "type": "text",
+   "text": "[[Restauración a un punto en el tiempo]]",
+   "x": -1680,
+   "y": 684,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t6",
+   "type": "text",
+   "text": "[[Modelos de recuperación]]",
+   "x": -1260,
+   "y": 828,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t6c0",
+   "type": "text",
+   "text": "[[Modelo de recuperación SIMPLE]]",
+   "x": -1680,
+   "y": 756,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t6c1",
+   "type": "text",
+   "text": "[[Modelo de recuperación FULL]]",
+   "x": -1680,
+   "y": 828,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t6c2",
+   "type": "text",
+   "text": "[[Modelo de recuperación BULK_LOGGED]]",
+   "x": -1680,
+   "y": 900,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t7",
+   "type": "text",
+   "text": "[[SQL Server Agent y jobs]]",
+   "x": -1260,
+   "y": 972,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t8",
+   "type": "text",
+   "text": "[[Linked servers]]",
+   "x": -1260,
+   "y": 1044,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t9",
+   "type": "text",
+   "text": "[[Collation]]",
+   "x": -1260,
+   "y": 1116,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t10",
+   "type": "text",
+   "text": "[[Auditoría (CDC y Change Tracking)]]",
+   "x": -1260,
+   "y": 1188,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t11",
+   "type": "text",
+   "text": "[[Migraciones de base de datos (scripts versionados, DACPAC, DbUp y Flyway)]]",
+   "x": -1260,
+   "y": 1260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t12",
+   "type": "text",
+   "text": "[[Migraciones sin caídas (expand y contract)]]",
+   "x": -1260,
+   "y": 1332,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t13",
+   "type": "text",
+   "text": "[[Azure SQL - diferencias con SQL Server]]",
+   "x": -1260,
+   "y": 1404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t14",
+   "type": "text",
+   "text": "[[Azure SQL serverless (auto-pausa y reintentos)]]",
+   "x": -1260,
+   "y": 1476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t15",
+   "type": "text",
+   "text": "[[PostgreSQL]]",
+   "x": -1260,
+   "y": 1548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t16",
+   "type": "text",
+   "text": "[[Funciones y procedimientos en PostgreSQL]]",
+   "x": -1260,
+   "y": 1620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t17",
+   "type": "text",
+   "text": "[[Snapshot inmutable versionado]]",
+   "x": -1260,
+   "y": 1692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Otros datos",
+   "x": -820,
+   "y": 1953,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Redis más allá de la caché (locks, colas y contadores)]]",
+   "x": -1260,
+   "y": 1844,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Búsqueda de texto completo]]",
+   "x": -1260,
+   "y": 1916,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Modelado en NoSQL]]",
+   "x": -1260,
+   "y": 1988,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[ETL (conceptos)]]",
+   "x": -1260,
+   "y": 2060,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t4",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t5",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t6",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t7",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t8",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t9",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t10",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t11",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t12",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t13",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t14",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t15",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t16",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t17",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t18",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t19",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t20",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t21",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t22",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t23",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t24",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t25",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t26",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t27",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t28",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t29",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t30",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t31",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t32",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t3",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "g2t3",
+   "fromSide": "right",
+   "toNode": "g2t3c0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "g2t3",
+   "fromSide": "right",
+   "toNode": "g2t3c1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "g2t3",
+   "fromSide": "right",
+   "toNode": "g2t3c2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "g2t3",
+   "fromSide": "right",
+   "toNode": "g2t3c3",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t4",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t5",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t6",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t7",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t5",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "g3t5",
+   "fromSide": "right",
+   "toNode": "g3t5c0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "g3t5",
+   "fromSide": "right",
+   "toNode": "g3t5c1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "g3t5",
+   "fromSide": "right",
+   "toNode": "g3t5c2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "g3t5",
+   "fromSide": "right",
+   "toNode": "g3t5c3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t6",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t7",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t8",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t9",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t10",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t11",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t4",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t5",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t6",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t7",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t8",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t9",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t10",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t11",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t12",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t13",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t14",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t15",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t16",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e82",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t17",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e83",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t18",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e84",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t19",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e85",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t20",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e86",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t21",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e87",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t22",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e88",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t23",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e89",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t24",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e90",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t25",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e91",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t26",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e92",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t27",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e93",
+   "fromNode": "g0t27",
+   "fromSide": "left",
+   "toNode": "g0t27c0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e94",
+   "fromNode": "g0t27",
+   "fromSide": "left",
+   "toNode": "g0t27c1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e95",
+   "fromNode": "g0t27",
+   "fromSide": "left",
+   "toNode": "g0t27c2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e96",
+   "fromNode": "g0t27",
+   "fromSide": "left",
+   "toNode": "g0t27c3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e97",
+   "fromNode": "g0t27",
+   "fromSide": "left",
+   "toNode": "g0t27c4",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e98",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e99",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e100",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e101",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t2",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e102",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t3",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e103",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e104",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t5",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e105",
+   "fromNode": "g4t5",
+   "fromSide": "left",
+   "toNode": "g4t5c0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e106",
+   "fromNode": "g4t5",
+   "fromSide": "left",
+   "toNode": "g4t5c1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e107",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t6",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e108",
+   "fromNode": "g4t6",
+   "fromSide": "left",
+   "toNode": "g4t6c0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e109",
+   "fromNode": "g4t6",
+   "fromSide": "left",
+   "toNode": "g4t6c1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e110",
+   "fromNode": "g4t6",
+   "fromSide": "left",
+   "toNode": "g4t6c2",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e111",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t7",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e112",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t8",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e113",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t9",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e114",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t10",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e115",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t11",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e116",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t12",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e117",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t13",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e118",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t14",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e119",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t15",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e120",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t16",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e121",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t17",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e122",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e123",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e124",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e125",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e126",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t3",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  }
+ ]
+}

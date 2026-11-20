@@ -1,0 +1,637 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# React\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[JSX]]",
+   "x": 520,
+   "y": -1172,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Props]]",
+   "x": 520,
+   "y": -1020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[Eventos en React]]",
+   "x": 520,
+   "y": -868,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t0",
+   "type": "text",
+   "text": "[[Renderizado condicional]]",
+   "x": 520,
+   "y": -716,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g10t0",
+   "type": "text",
+   "text": "[[useEffect]]",
+   "x": 520,
+   "y": -564,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g12t0",
+   "type": "text",
+   "text": "[[useMemo y useCallback]]",
+   "x": 520,
+   "y": -412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g14t0",
+   "type": "text",
+   "text": "[[Context]]",
+   "x": 520,
+   "y": -260,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g16t0",
+   "type": "text",
+   "text": "[[React Router]]",
+   "x": 520,
+   "y": -108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g18t0",
+   "type": "text",
+   "text": "[[TanStack Query]]",
+   "x": 520,
+   "y": 44,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g20t0",
+   "type": "text",
+   "text": "[[dnd-kit]]",
+   "x": 520,
+   "y": 196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g22t0",
+   "type": "text",
+   "text": "[[Suspense y lazy loading]]",
+   "x": 520,
+   "y": 348,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g24t0",
+   "type": "text",
+   "text": "[[Rendimiento en React]]",
+   "x": 520,
+   "y": 500,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g26t0",
+   "type": "text",
+   "text": "[[Estilos (CSS Modules y Tailwind)]]",
+   "x": 520,
+   "y": 652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g28t0",
+   "type": "text",
+   "text": "[[Next.js (SSR, SSG y App Router)]]",
+   "x": 520,
+   "y": 876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g28t0c0",
+   "type": "text",
+   "text": "[[SSR en Next.js]]",
+   "x": 960,
+   "y": 804,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g28t0c1",
+   "type": "text",
+   "text": "[[SSG e ISR en Next.js]]",
+   "x": 960,
+   "y": 876,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g28t0c2",
+   "type": "text",
+   "text": "[[App Router de Next.js]]",
+   "x": 960,
+   "y": 948,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g29t0",
+   "type": "text",
+   "text": "[[Server Components]]",
+   "x": 520,
+   "y": 1100,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[React]]",
+   "x": -820,
+   "y": -1176,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Qué es React y por qué existe]]",
+   "x": -820,
+   "y": -1024,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Componentes]]",
+   "x": -820,
+   "y": -872,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Estado con useState]]",
+   "x": -820,
+   "y": -720,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[Listas y keys]]",
+   "x": -820,
+   "y": -568,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g9t0",
+   "type": "text",
+   "text": "[[Componentes controlados]]",
+   "x": -820,
+   "y": -416,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g11t0",
+   "type": "text",
+   "text": "[[useRef]]",
+   "x": -820,
+   "y": -264,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g13t0",
+   "type": "text",
+   "text": "[[useReducer]]",
+   "x": -820,
+   "y": -112,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g15t0",
+   "type": "text",
+   "text": "[[Custom hooks]]",
+   "x": -820,
+   "y": 40,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g17t0",
+   "type": "text",
+   "text": "[[Rutas protegidas]]",
+   "x": -820,
+   "y": 192,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g19t0",
+   "type": "text",
+   "text": "[[zustand]]",
+   "x": -820,
+   "y": 344,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g21t0",
+   "type": "text",
+   "text": "[[react-easy-crop]]",
+   "x": -820,
+   "y": 496,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g23t0",
+   "type": "text",
+   "text": "[[Error boundaries]]",
+   "x": -820,
+   "y": 648,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g25t0",
+   "type": "text",
+   "text": "[[Pruebas con Testing Library]]",
+   "x": -820,
+   "y": 800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g27t0",
+   "type": "text",
+   "text": "[[Estructura de carpetas por feature]]",
+   "x": -820,
+   "y": 952,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g30t0",
+   "type": "text",
+   "text": "[[Máquinas de estado en UI (XState)]]",
+   "x": -820,
+   "y": 1104,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g2t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g6t0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g8t0",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g10t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g12t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g14t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g16t0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g18t0",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g20t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g22t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g24t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g26t0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g28t0",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "g28t0",
+   "fromSide": "right",
+   "toNode": "g28t0c0",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "g28t0",
+   "fromSide": "right",
+   "toNode": "g28t0c1",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "g28t0",
+   "fromSide": "right",
+   "toNode": "g28t0c2",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "g29t0",
+   "toSide": "left",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g3t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g7t0",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g9t0",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g11t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g13t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g15t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g17t0",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g19t0",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g21t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g23t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g25t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g27t0",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "g30t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  }
+ ]
+}

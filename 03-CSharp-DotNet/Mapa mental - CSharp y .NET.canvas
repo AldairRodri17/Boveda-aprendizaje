@@ -1,0 +1,3399 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# C# y .NET\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Orientación a objetos",
+   "x": 520,
+   "y": -2495,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Clases y objetos]]",
+   "x": 960,
+   "y": -3252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Propiedades, campos y modificadores de acceso]]",
+   "x": 960,
+   "y": -3180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Constructores]]",
+   "x": 960,
+   "y": -3108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Encapsulamiento]]",
+   "x": 960,
+   "y": -3036,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Herencia]]",
+   "x": 960,
+   "y": -2964,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Polimorfismo]]",
+   "x": 960,
+   "y": -2892,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[Clases abstractas]]",
+   "x": 960,
+   "y": -2820,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Interfaces]]",
+   "x": 960,
+   "y": -2748,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[Interfaz vs clase abstracta]]",
+   "x": 960,
+   "y": -2676,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[Programar contra interfaces]]",
+   "x": 960,
+   "y": -2604,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[Implementación explícita de interfaces]]",
+   "x": 960,
+   "y": -2532,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t11",
+   "type": "text",
+   "text": "[[Implementaciones por defecto en interfaces]]",
+   "x": 960,
+   "y": -2460,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t12",
+   "type": "text",
+   "text": "[[Clases estáticas y miembros estáticos]]",
+   "x": 960,
+   "y": -2388,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t13",
+   "type": "text",
+   "text": "[[sealed y override]]",
+   "x": 960,
+   "y": -2316,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t14",
+   "type": "text",
+   "text": "[[Clases parciales]]",
+   "x": 960,
+   "y": -2244,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t15",
+   "type": "text",
+   "text": "[[struct]]",
+   "x": 960,
+   "y": -2172,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t16",
+   "type": "text",
+   "text": "[[record]]",
+   "x": 960,
+   "y": -2100,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t17",
+   "type": "text",
+   "text": "[[record struct]]",
+   "x": 960,
+   "y": -2028,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t18",
+   "type": "text",
+   "text": "[[init y required]]",
+   "x": 960,
+   "y": -1956,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t19",
+   "type": "text",
+   "text": "[[Igualdad por valor vs por referencia]]",
+   "x": 960,
+   "y": -1884,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t20",
+   "type": "text",
+   "text": "[[Tuplas y deconstrucción]]",
+   "x": 960,
+   "y": -1812,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t21",
+   "type": "text",
+   "text": "[[Clases anidadas y DTOs]]",
+   "x": 960,
+   "y": -1740,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Asincronía y concurrencia",
+   "x": 520,
+   "y": -1155,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Task y async-await]]",
+   "x": 960,
+   "y": -1588,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Cómo funciona async por dentro (máquina de estados)]]",
+   "x": 960,
+   "y": -1516,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[ValueTask]]",
+   "x": 960,
+   "y": -1444,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[CancellationToken]]",
+   "x": 960,
+   "y": -1372,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[ConfigureAwait]]",
+   "x": 960,
+   "y": -1300,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[async void y por qué evitarlo]]",
+   "x": 960,
+   "y": -1228,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[Sync over async y thread pool starvation]]",
+   "x": 960,
+   "y": -1156,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7",
+   "type": "text",
+   "text": "[[Task.WhenAll y Task.WhenAny]]",
+   "x": 960,
+   "y": -1084,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t8",
+   "type": "text",
+   "text": "[[Hilos y ThreadPool]]",
+   "x": 960,
+   "y": -1012,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t9",
+   "type": "text",
+   "text": "[[lock y concurrencia]]",
+   "x": 960,
+   "y": -940,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t10",
+   "type": "text",
+   "text": "[[Parallel y PLINQ]]",
+   "x": 960,
+   "y": -868,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t11",
+   "type": "text",
+   "text": "[[System.Threading.Channels]]",
+   "x": 960,
+   "y": -796,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t12",
+   "type": "text",
+   "text": "[[Span y Memory]]",
+   "x": 960,
+   "y": -724,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### ASP.NET Core",
+   "x": 520,
+   "y": 1049,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Pipeline y middleware]]",
+   "x": 960,
+   "y": -536,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t0c0",
+   "type": "text",
+   "text": "[[Orden de los middleware en ASP.NET Core]]",
+   "x": 1400,
+   "y": -572,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t0c1",
+   "type": "text",
+   "text": "[[Middleware personalizado en ASP.NET Core]]",
+   "x": 1400,
+   "y": -500,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Generic host y Kestrel]]",
+   "x": 960,
+   "y": -428,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Routing]]",
+   "x": 960,
+   "y": -356,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[ASP.NET Core Controllers]]",
+   "x": 960,
+   "y": -284,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[ASP.NET Core Minimal APIs]]",
+   "x": 960,
+   "y": -212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5",
+   "type": "text",
+   "text": "[[Model binding y validación]]",
+   "x": 960,
+   "y": -140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t6",
+   "type": "text",
+   "text": "[[Filtros]]",
+   "x": 960,
+   "y": -68,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t7",
+   "type": "text",
+   "text": "[[Inyección de dependencias]]",
+   "x": 960,
+   "y": 4,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t8",
+   "type": "text",
+   "text": "[[Ciclos de vida (Singleton, Scoped, Transient)]]",
+   "x": 960,
+   "y": 184,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t8c0",
+   "type": "text",
+   "text": "[[Servicios Singleton en DI]]",
+   "x": 1400,
+   "y": 76,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t8c1",
+   "type": "text",
+   "text": "[[Servicios Scoped en DI]]",
+   "x": 1400,
+   "y": 148,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t8c2",
+   "type": "text",
+   "text": "[[Servicios Transient en DI]]",
+   "x": 1400,
+   "y": 220,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t8c3",
+   "type": "text",
+   "text": "[[Captive dependency]]",
+   "x": 1400,
+   "y": 292,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t9",
+   "type": "text",
+   "text": "[[Keyed services]]",
+   "x": 960,
+   "y": 364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t10",
+   "type": "text",
+   "text": "[[Configuración y appsettings]]",
+   "x": 960,
+   "y": 436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t11",
+   "type": "text",
+   "text": "[[Options pattern]]",
+   "x": 960,
+   "y": 508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t12",
+   "type": "text",
+   "text": "[[Secretos con User Secrets]]",
+   "x": 960,
+   "y": 580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t13",
+   "type": "text",
+   "text": "[[Logging con ILogger]]",
+   "x": 960,
+   "y": 652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t14",
+   "type": "text",
+   "text": "[[Serilog]]",
+   "x": 960,
+   "y": 724,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t15",
+   "type": "text",
+   "text": "[[Manejo global de errores (IExceptionHandler)]]",
+   "x": 960,
+   "y": 796,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t16",
+   "type": "text",
+   "text": "[[CORS en ASP.NET Core]]",
+   "x": 960,
+   "y": 868,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t17",
+   "type": "text",
+   "text": "[[Autenticación con JWT en ASP.NET Core]]",
+   "x": 960,
+   "y": 940,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t18",
+   "type": "text",
+   "text": "[[Autorización con policies]]",
+   "x": 960,
+   "y": 1012,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t19",
+   "type": "text",
+   "text": "[[Data Protection]]",
+   "x": 960,
+   "y": 1084,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t20",
+   "type": "text",
+   "text": "[[Versionado de API en ASP.NET Core]]",
+   "x": 960,
+   "y": 1156,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t21",
+   "type": "text",
+   "text": "[[Microsoft.AspNetCore.OpenApi vs Swashbuckle]]",
+   "x": 960,
+   "y": 1228,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t22",
+   "type": "text",
+   "text": "[[Health checks]]",
+   "x": 960,
+   "y": 1300,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t23",
+   "type": "text",
+   "text": "[[Output caching]]",
+   "x": 960,
+   "y": 1372,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t24",
+   "type": "text",
+   "text": "[[Caché en memoria, distribuida y HybridCache]]",
+   "x": 960,
+   "y": 1516,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t24c0",
+   "type": "text",
+   "text": "[[IMemoryCache]]",
+   "x": 1400,
+   "y": 1444,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t24c1",
+   "type": "text",
+   "text": "[[IDistributedCache]]",
+   "x": 1400,
+   "y": 1516,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t24c2",
+   "type": "text",
+   "text": "[[HybridCache]]",
+   "x": 1400,
+   "y": 1588,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t25",
+   "type": "text",
+   "text": "[[BackgroundService]]",
+   "x": 960,
+   "y": 1660,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t26",
+   "type": "text",
+   "text": "[[HttpClient e IHttpClientFactory]]",
+   "x": 960,
+   "y": 1732,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t27",
+   "type": "text",
+   "text": "[[Flurl]]",
+   "x": 960,
+   "y": 1804,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t28",
+   "type": "text",
+   "text": "[[Resiliencia con Polly]]",
+   "x": 960,
+   "y": 1876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t29",
+   "type": "text",
+   "text": "[[MediatR]]",
+   "x": 960,
+   "y": 1948,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t30",
+   "type": "text",
+   "text": "[[FluentValidation]]",
+   "x": 960,
+   "y": 2020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t31",
+   "type": "text",
+   "text": "[[AutoMapper y alternativas]]",
+   "x": 960,
+   "y": 2092,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t32",
+   "type": "text",
+   "text": "[[Subida y descarga de archivos]]",
+   "x": 960,
+   "y": 2164,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t33",
+   "type": "text",
+   "text": "[[Publicación y despliegue de .NET]]",
+   "x": 960,
+   "y": 2236,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t34",
+   "type": "text",
+   "text": "[[Publicar en IIS (FTP y FileZilla)]]",
+   "x": 960,
+   "y": 2308,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t35",
+   "type": "text",
+   "text": "[[Dockerfile para .NET]]",
+   "x": 960,
+   "y": 2380,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t36",
+   "type": "text",
+   "text": "[[Native AOT y rendimiento]]",
+   "x": 960,
+   "y": 2452,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t37",
+   "type": "text",
+   "text": "[[Directory.Build.props y Central Package Management]]",
+   "x": 960,
+   "y": 2524,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t38",
+   "type": "text",
+   "text": "[[Analizadores de Roslyn y warnings como errores]]",
+   "x": 960,
+   "y": 2596,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t39",
+   "type": "text",
+   "text": "[[Crear y publicar paquetes NuGet]]",
+   "x": 960,
+   "y": 2668,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Rendimiento en .NET",
+   "x": 520,
+   "y": 3001,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[BenchmarkDotNet]]",
+   "x": 960,
+   "y": 2820,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[dotnet-counters, dotnet-trace y dotnet-dump]]",
+   "x": 960,
+   "y": 2964,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1c0",
+   "type": "text",
+   "text": "[[dotnet-counters]]",
+   "x": 1400,
+   "y": 2892,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t1c1",
+   "type": "text",
+   "text": "[[dotnet-trace]]",
+   "x": 1400,
+   "y": 2964,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t1c2",
+   "type": "text",
+   "text": "[[dotnet-dump]]",
+   "x": 1400,
+   "y": 3036,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Allocations y modos del GC]]",
+   "x": 960,
+   "y": 3108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[JIT y tiered compilation]]",
+   "x": 960,
+   "y": 3180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Básico",
+   "x": -820,
+   "y": -2387,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[NET y CSharp]]",
+   "x": -1260,
+   "y": -3180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Qué es .NET, el CLR y el SDK]]",
+   "x": -1260,
+   "y": -3108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Solución, proyecto y estructura de carpetas]]",
+   "x": -1260,
+   "y": -3036,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Tipos de valor y de referencia]]",
+   "x": -1260,
+   "y": -2964,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Tipos primitivos]]",
+   "x": -1260,
+   "y": -2892,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[string e inmutabilidad]]",
+   "x": -1260,
+   "y": -2820,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[var y tipado implícito]]",
+   "x": -1260,
+   "y": -2748,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[null y nullable reference types]]",
+   "x": -1260,
+   "y": -2676,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[Nullable de valor (Nullable de int)]]",
+   "x": -1260,
+   "y": -2604,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Operadores de null en CSharp]]",
+   "x": -1260,
+   "y": -2532,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[Condicionales y bucles]]",
+   "x": -1260,
+   "y": -2460,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[Métodos y parámetros (ref, out, in, params)]]",
+   "x": -1260,
+   "y": -2388,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t12",
+   "type": "text",
+   "text": "[[Parámetros opcionales y nombrados]]",
+   "x": -1260,
+   "y": -2316,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t13",
+   "type": "text",
+   "text": "[[Arrays]]",
+   "x": -1260,
+   "y": -2244,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t14",
+   "type": "text",
+   "text": "[[Colecciones (List, Dictionary, HashSet, Queue, Stack)]]",
+   "x": -1260,
+   "y": -2064,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t14c0",
+   "type": "text",
+   "text": "[[List de T]]",
+   "x": -1680,
+   "y": -2172,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t14c1",
+   "type": "text",
+   "text": "[[Dictionary de TKey y TValue]]",
+   "x": -1680,
+   "y": -2100,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t14c2",
+   "type": "text",
+   "text": "[[HashSet de T]]",
+   "x": -1680,
+   "y": -2028,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t14c3",
+   "type": "text",
+   "text": "[[Queue y Stack de T]]",
+   "x": -1680,
+   "y": -1956,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t15",
+   "type": "text",
+   "text": "[[Enums]]",
+   "x": -1260,
+   "y": -1884,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t16",
+   "type": "text",
+   "text": "[[Excepciones (try, catch, finally, throw)]]",
+   "x": -1260,
+   "y": -1812,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t17",
+   "type": "text",
+   "text": "[[using y namespaces]]",
+   "x": -1260,
+   "y": -1740,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t18",
+   "type": "text",
+   "text": "[[Conversión de tipos (casting, parse, TryParse)]]",
+   "x": -1260,
+   "y": -1668,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t19",
+   "type": "text",
+   "text": "[[DateTime vs DateTimeOffset]]",
+   "x": -1260,
+   "y": -1596,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Intermedio",
+   "x": -820,
+   "y": -255,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Genéricos]]",
+   "x": -1260,
+   "y": -1444,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Constraints de genéricos]]",
+   "x": -1260,
+   "y": -1372,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Varianza (in y out) en genéricos]]",
+   "x": -1260,
+   "y": -1300,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Delegates]]",
+   "x": -1260,
+   "y": -1228,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Events]]",
+   "x": -1260,
+   "y": -1156,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[Func, Action y Predicate]]",
+   "x": -1260,
+   "y": -1084,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[Expresiones lambda]]",
+   "x": -1260,
+   "y": -1012,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[Métodos de extensión]]",
+   "x": -1260,
+   "y": -940,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[Pattern matching]]",
+   "x": -1260,
+   "y": -796,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8c0",
+   "type": "text",
+   "text": "[[Patrones de tipo y de propiedad en CSharp]]",
+   "x": -1680,
+   "y": -868,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t8c1",
+   "type": "text",
+   "text": "[[Patrones relacionales y lógicos en CSharp]]",
+   "x": -1680,
+   "y": -796,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t8c2",
+   "type": "text",
+   "text": "[[Patrones de lista en CSharp]]",
+   "x": -1680,
+   "y": -724,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t9",
+   "type": "text",
+   "text": "[[switch expressions]]",
+   "x": -1260,
+   "y": -652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t10",
+   "type": "text",
+   "text": "[[IEnumerable, ICollection e IList]]",
+   "x": -1260,
+   "y": -580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t11",
+   "type": "text",
+   "text": "[[IEnumerable vs IQueryable]]",
+   "x": -1260,
+   "y": -508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t12",
+   "type": "text",
+   "text": "[[LINQ]]",
+   "x": -1260,
+   "y": -328,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t12c0",
+   "type": "text",
+   "text": "[[LINQ - Where, Select y SelectMany]]",
+   "x": -1680,
+   "y": -436,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t12c1",
+   "type": "text",
+   "text": "[[LINQ - GroupBy y Join]]",
+   "x": -1680,
+   "y": -364,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t12c2",
+   "type": "text",
+   "text": "[[LINQ - agregaciones (Count, Sum, Aggregate)]]",
+   "x": -1680,
+   "y": -292,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t12c3",
+   "type": "text",
+   "text": "[[LINQ - First, Single, Any y All]]",
+   "x": -1680,
+   "y": -220,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t13",
+   "type": "text",
+   "text": "[[Ejecución diferida en LINQ]]",
+   "x": -1260,
+   "y": -148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t14",
+   "type": "text",
+   "text": "[[yield]]",
+   "x": -1260,
+   "y": -76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t15",
+   "type": "text",
+   "text": "[[IAsyncEnumerable]]",
+   "x": -1260,
+   "y": -4,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t16",
+   "type": "text",
+   "text": "[[Indexadores]]",
+   "x": -1260,
+   "y": 68,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t17",
+   "type": "text",
+   "text": "[[Sobrecarga de operadores]]",
+   "x": -1260,
+   "y": 140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t18",
+   "type": "text",
+   "text": "[[Atributos]]",
+   "x": -1260,
+   "y": 212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t19",
+   "type": "text",
+   "text": "[[Reflexión]]",
+   "x": -1260,
+   "y": 284,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t20",
+   "type": "text",
+   "text": "[[Recursos embebidos (EmbeddedResource)]]",
+   "x": -1260,
+   "y": 356,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t21",
+   "type": "text",
+   "text": "[[Source generators y GeneratedRegex]]",
+   "x": -1260,
+   "y": 428,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t22",
+   "type": "text",
+   "text": "[[nameof y otras utilidades del lenguaje]]",
+   "x": -1260,
+   "y": 500,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t23",
+   "type": "text",
+   "text": "[[Novedades recientes de CSharp (collection expressions, primary constructors y más)]]",
+   "x": -1260,
+   "y": 572,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t24",
+   "type": "text",
+   "text": "[[StringBuilder]]",
+   "x": -1260,
+   "y": 644,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t25",
+   "type": "text",
+   "text": "[[IDisposable y using]]",
+   "x": -1260,
+   "y": 716,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t26",
+   "type": "text",
+   "text": "[[Recolector de basura]]",
+   "x": -1260,
+   "y": 788,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t27",
+   "type": "text",
+   "text": "[[Manejo de archivos y streams]]",
+   "x": -1260,
+   "y": 860,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t28",
+   "type": "text",
+   "text": "[[Serialización con System.Text.Json]]",
+   "x": -1260,
+   "y": 932,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s6",
+   "type": "text",
+   "text": "### Acceso a datos y ORMs",
+   "x": -820,
+   "y": 1805,
+   "width": 300,
+   "height": 70,
+   "color": "#F4511E"
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[Qué es un ORM y cuándo usarlo]]",
+   "x": -1260,
+   "y": 1084,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t1",
+   "type": "text",
+   "text": "[[ADO.NET]]",
+   "x": -1260,
+   "y": 1156,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2",
+   "type": "text",
+   "text": "[[Dapper]]",
+   "x": -1260,
+   "y": 1228,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t3",
+   "type": "text",
+   "text": "[[Dapper - QueryMultiple y multi-mapping]]",
+   "x": -1260,
+   "y": 1300,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t4",
+   "type": "text",
+   "text": "[[Dapper - transacciones]]",
+   "x": -1260,
+   "y": 1372,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t5",
+   "type": "text",
+   "text": "[[Dapper - table-valued parameters]]",
+   "x": -1260,
+   "y": 1444,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t6",
+   "type": "text",
+   "text": "[[SQL en archivos con una interfaz por consulta]]",
+   "x": -1260,
+   "y": 1516,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t7",
+   "type": "text",
+   "text": "[[Entity Framework Core]]",
+   "x": -1260,
+   "y": 1588,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t8",
+   "type": "text",
+   "text": "[[EF Core - DbContext]]",
+   "x": -1260,
+   "y": 1660,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t9",
+   "type": "text",
+   "text": "[[EF Core - migraciones]]",
+   "x": -1260,
+   "y": 1732,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t10",
+   "type": "text",
+   "text": "[[EF Core - tracking vs no tracking]]",
+   "x": -1260,
+   "y": 1804,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t11",
+   "type": "text",
+   "text": "[[EF Core - relaciones]]",
+   "x": -1260,
+   "y": 1876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t12",
+   "type": "text",
+   "text": "[[EF Core - carga eager, lazy y explícita]]",
+   "x": -1260,
+   "y": 1948,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t13",
+   "type": "text",
+   "text": "[[Problema N+1]]",
+   "x": -1260,
+   "y": 2020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t14",
+   "type": "text",
+   "text": "[[EF Core - SQL crudo]]",
+   "x": -1260,
+   "y": 2092,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t15",
+   "type": "text",
+   "text": "[[Dapper vs EF Core vs ADO.NET]]",
+   "x": -1260,
+   "y": 2164,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t16",
+   "type": "text",
+   "text": "[[Repository]]",
+   "x": -1260,
+   "y": 2236,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t17",
+   "type": "text",
+   "text": "[[Connection pooling]]",
+   "x": -1260,
+   "y": 2308,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t18",
+   "type": "text",
+   "text": "[[Parametrización y SQL injection]]",
+   "x": -1260,
+   "y": 2380,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t19",
+   "type": "text",
+   "text": "[[Patrón Outbox]]",
+   "x": -1260,
+   "y": 2452,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t20",
+   "type": "text",
+   "text": "[[SQLite]]",
+   "x": -1260,
+   "y": 2524,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s7",
+   "type": "text",
+   "text": "### Pruebas en .NET",
+   "x": -820,
+   "y": 2893,
+   "width": 300,
+   "height": 70,
+   "color": "#C0CA33"
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[xUnit]]",
+   "x": -1260,
+   "y": 2676,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t1",
+   "type": "text",
+   "text": "[[Mocks, stubs y fakes]]",
+   "x": -1260,
+   "y": 2748,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t2",
+   "type": "text",
+   "text": "[[Moq y NSubstitute]]",
+   "x": -1260,
+   "y": 2820,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t3",
+   "type": "text",
+   "text": "[[Pruebas de integración con WebApplicationFactory]]",
+   "x": -1260,
+   "y": 2892,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t4",
+   "type": "text",
+   "text": "[[Testcontainers]]",
+   "x": -1260,
+   "y": 2964,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t5",
+   "type": "text",
+   "text": "[[TimeProvider para probar fechas]]",
+   "x": -1260,
+   "y": 3036,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t6",
+   "type": "text",
+   "text": "[[Pruebas de reglas de arquitectura (NetArchTest)]]",
+   "x": -1260,
+   "y": 3108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t4",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t5",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t6",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t7",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t8",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t9",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t10",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t11",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t12",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t13",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t14",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t15",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t16",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t17",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t18",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t19",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t20",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t21",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t5",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t6",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t7",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t8",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t9",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t10",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t11",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t12",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "g4t0",
+   "fromSide": "right",
+   "toNode": "g4t0c0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "g4t0",
+   "fromSide": "right",
+   "toNode": "g4t0c1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t2",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t3",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t5",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t6",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t7",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t8",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "g4t8",
+   "fromSide": "right",
+   "toNode": "g4t8c0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "g4t8",
+   "fromSide": "right",
+   "toNode": "g4t8c1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "g4t8",
+   "fromSide": "right",
+   "toNode": "g4t8c2",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "g4t8",
+   "fromSide": "right",
+   "toNode": "g4t8c3",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t9",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t10",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t11",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t12",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t13",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t14",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t15",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t16",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t17",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t18",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t19",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t20",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t21",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t22",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t23",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t24",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "g4t24",
+   "fromSide": "right",
+   "toNode": "g4t24c0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "g4t24",
+   "fromSide": "right",
+   "toNode": "g4t24c1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "g4t24",
+   "fromSide": "right",
+   "toNode": "g4t24c2",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t25",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t26",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t27",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t28",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t29",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t30",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t31",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t32",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t33",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t34",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e82",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t35",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e83",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t36",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e84",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t37",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e85",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t38",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e86",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t39",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e87",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s5",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e88",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e89",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t1",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e90",
+   "fromNode": "g5t1",
+   "fromSide": "right",
+   "toNode": "g5t1c0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e91",
+   "fromNode": "g5t1",
+   "fromSide": "right",
+   "toNode": "g5t1c1",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e92",
+   "fromNode": "g5t1",
+   "fromSide": "right",
+   "toNode": "g5t1c2",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e93",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t2",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e94",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t3",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e95",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e96",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e97",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e98",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e99",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e100",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t4",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e101",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t5",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e102",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t6",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e103",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t7",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e104",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t8",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e105",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t9",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e106",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t10",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e107",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t11",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e108",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t12",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e109",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t13",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e110",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t14",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e111",
+   "fromNode": "g0t14",
+   "fromSide": "left",
+   "toNode": "g0t14c0",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e112",
+   "fromNode": "g0t14",
+   "fromSide": "left",
+   "toNode": "g0t14c1",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e113",
+   "fromNode": "g0t14",
+   "fromSide": "left",
+   "toNode": "g0t14c2",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e114",
+   "fromNode": "g0t14",
+   "fromSide": "left",
+   "toNode": "g0t14c3",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e115",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t15",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e116",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t16",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e117",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t17",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e118",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t18",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e119",
+   "fromNode": "s0",
+   "fromSide": "left",
+   "toNode": "g0t19",
+   "toSide": "right",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e120",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e121",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e122",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e123",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e124",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e125",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t4",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e126",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t5",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e127",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t6",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e128",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t7",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e129",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t8",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e130",
+   "fromNode": "g2t8",
+   "fromSide": "left",
+   "toNode": "g2t8c0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e131",
+   "fromNode": "g2t8",
+   "fromSide": "left",
+   "toNode": "g2t8c1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e132",
+   "fromNode": "g2t8",
+   "fromSide": "left",
+   "toNode": "g2t8c2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e133",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t9",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e134",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t10",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e135",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t11",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e136",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t12",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e137",
+   "fromNode": "g2t12",
+   "fromSide": "left",
+   "toNode": "g2t12c0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e138",
+   "fromNode": "g2t12",
+   "fromSide": "left",
+   "toNode": "g2t12c1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e139",
+   "fromNode": "g2t12",
+   "fromSide": "left",
+   "toNode": "g2t12c2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e140",
+   "fromNode": "g2t12",
+   "fromSide": "left",
+   "toNode": "g2t12c3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e141",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t13",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e142",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t14",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e143",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t15",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e144",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t16",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e145",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t17",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e146",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t18",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e147",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t19",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e148",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t20",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e149",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t21",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e150",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t22",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e151",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t23",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e152",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t24",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e153",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t25",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e154",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t26",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e155",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t27",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e156",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t28",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e157",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s6",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e158",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t0",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e159",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t1",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e160",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t2",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e161",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t3",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e162",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t4",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e163",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t5",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e164",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t6",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e165",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t7",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e166",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t8",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e167",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t9",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e168",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t10",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e169",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t11",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e170",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t12",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e171",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t13",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e172",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t14",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e173",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t15",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e174",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t16",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e175",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t17",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e176",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t18",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e177",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t19",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e178",
+   "fromNode": "s6",
+   "fromSide": "left",
+   "toNode": "g6t20",
+   "toSide": "right",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e179",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s7",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e180",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t0",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e181",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t1",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e182",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t2",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e183",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t3",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e184",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t4",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e185",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t5",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e186",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t6",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  }
+ ]
+}

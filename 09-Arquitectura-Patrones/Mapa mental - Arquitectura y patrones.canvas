@@ -1,0 +1,1507 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Arquitectura y patrones\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Estilos de arquitectura",
+   "x": 520,
+   "y": -907,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Arquitectura en capas]]",
+   "x": 960,
+   "y": -1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Vertical Slice Architecture]]",
+   "x": 960,
+   "y": -1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Arquitectura hexagonal]]",
+   "x": 960,
+   "y": -1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Clean Architecture]]",
+   "x": 960,
+   "y": -1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Monolito modular]]",
+   "x": 960,
+   "y": -1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Microservicios]]",
+   "x": 960,
+   "y": -1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[Arquitectura orientada a eventos]]",
+   "x": 960,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[CQRS y mediador]]",
+   "x": 960,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[Event Sourcing]]",
+   "x": 960,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Domain-Driven Design - conceptos]]",
+   "x": 960,
+   "y": -764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[Entidades, value objects y agregados]]",
+   "x": 960,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[Bounded contexts]]",
+   "x": 960,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t12",
+   "type": "text",
+   "text": "[[Eventos de dominio y reacciones]]",
+   "x": 960,
+   "y": -548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t13",
+   "type": "text",
+   "text": "[[Arquitectura evolutiva]]",
+   "x": 960,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t14",
+   "type": "text",
+   "text": "[[Atributos de calidad y trade-offs]]",
+   "x": 960,
+   "y": -404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Mensajería",
+   "x": 520,
+   "y": 1,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Garantías de entrega (at-most, at-least y exactly-once)]]",
+   "x": 960,
+   "y": -180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t0c0",
+   "type": "text",
+   "text": "[[Entrega at-most-once]]",
+   "x": 1400,
+   "y": -252,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t0c1",
+   "type": "text",
+   "text": "[[Entrega at-least-once]]",
+   "x": 1400,
+   "y": -180,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t0c2",
+   "type": "text",
+   "text": "[[Entrega exactly-once (efectiva)]]",
+   "x": 1400,
+   "y": -108,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Dead letter queues y mensajes venenosos]]",
+   "x": 960,
+   "y": -36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Reintentos con backoff]]",
+   "x": 960,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Consumidores idempotentes]]",
+   "x": 960,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[RabbitMQ]]",
+   "x": 960,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[Kafka]]",
+   "x": 960,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Diseño de sistemas",
+   "x": 520,
+   "y": 873,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Diseño de sistemas - cómo abordarlo]]",
+   "x": 960,
+   "y": 404,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Requisitos funcionales y no funcionales]]",
+   "x": 960,
+   "y": 476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Estimaciones rápidas (carga, almacenamiento y costo)]]",
+   "x": 960,
+   "y": 548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[Replicación y réplicas de lectura]]",
+   "x": 960,
+   "y": 620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[Sharding y particionamiento]]",
+   "x": 960,
+   "y": 692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5",
+   "type": "text",
+   "text": "[[Locks distribuidos y relojes]]",
+   "x": 960,
+   "y": 764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t6",
+   "type": "text",
+   "text": "[[Backpressure]]",
+   "x": 960,
+   "y": 836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t7",
+   "type": "text",
+   "text": "[[Caso - acortador de URLs]]",
+   "x": 960,
+   "y": 908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t8",
+   "type": "text",
+   "text": "[[Caso - rate limiter]]",
+   "x": 960,
+   "y": 980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t9",
+   "type": "text",
+   "text": "[[Caso - sistema de notificaciones]]",
+   "x": 960,
+   "y": 1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t10",
+   "type": "text",
+   "text": "[[Caso - feed de noticias]]",
+   "x": 960,
+   "y": 1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t11",
+   "type": "text",
+   "text": "[[Caso - sistema de pagos]]",
+   "x": 960,
+   "y": 1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t12",
+   "type": "text",
+   "text": "[[Caso - chat en tiempo real]]",
+   "x": 960,
+   "y": 1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t13",
+   "type": "text",
+   "text": "[[Caso - subida y procesamiento de archivos]]",
+   "x": 960,
+   "y": 1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Patrones de diseño",
+   "x": -820,
+   "y": -1015,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Patrón Strategy]]",
+   "x": -1260,
+   "y": -1412,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Patrón Factory]]",
+   "x": -1260,
+   "y": -1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Patrón Builder]]",
+   "x": -1260,
+   "y": -1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Patrón Mediator]]",
+   "x": -1260,
+   "y": -1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Patrón Template Method]]",
+   "x": -1260,
+   "y": -1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Patrón Specification]]",
+   "x": -1260,
+   "y": -1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[Patrón Observer]]",
+   "x": -1260,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Patrón Decorator]]",
+   "x": -1260,
+   "y": -908,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[Patrón Adapter]]",
+   "x": -1260,
+   "y": -836,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[Patrón Singleton]]",
+   "x": -1260,
+   "y": -764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[Result pattern vs excepciones]]",
+   "x": -1260,
+   "y": -692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t11",
+   "type": "text",
+   "text": "[[Guard clauses]]",
+   "x": -1260,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Patrones de nube y sistemas distribuidos",
+   "x": -820,
+   "y": 37,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Patrón Saga]]",
+   "x": -1260,
+   "y": -468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Circuit breaker y reintentos]]",
+   "x": -1260,
+   "y": -396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Bulkhead y throttling]]",
+   "x": -1260,
+   "y": -324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Cache-aside y estrategias de caché]]",
+   "x": -1260,
+   "y": -252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Competing consumers]]",
+   "x": -1260,
+   "y": -180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[Valet key (URLs firmadas)]]",
+   "x": -1260,
+   "y": -108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[Strangler fig]]",
+   "x": -1260,
+   "y": -36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[Anti-corruption layer]]",
+   "x": -1260,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[Backend for Frontend (BFF)]]",
+   "x": -1260,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t9",
+   "type": "text",
+   "text": "[[Sidecar]]",
+   "x": -1260,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t10",
+   "type": "text",
+   "text": "[[Consistencia eventual y teorema CAP]]",
+   "x": -1260,
+   "y": 252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t11",
+   "type": "text",
+   "text": "[[Modelos de consistencia (fuerte, eventual, read-your-writes)]]",
+   "x": -1260,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t12",
+   "type": "text",
+   "text": "[[Multi-tenancy]]",
+   "x": -1260,
+   "y": 396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t13",
+   "type": "text",
+   "text": "[[Escalabilidad horizontal y vertical]]",
+   "x": -1260,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t14",
+   "type": "text",
+   "text": "[[Las doce factores (12-factor)]]",
+   "x": -1260,
+   "y": 540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Documentar decisiones",
+   "x": -820,
+   "y": 1017,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[ADR - registro de decisiones de arquitectura]]",
+   "x": -1260,
+   "y": 692,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Design docs y RFCs]]",
+   "x": -1260,
+   "y": 764,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Diagramas C4]]",
+   "x": -1260,
+   "y": 944,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2c0",
+   "type": "text",
+   "text": "[[C4 nivel 1 - Contexto]]",
+   "x": -1680,
+   "y": 836,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t2c1",
+   "type": "text",
+   "text": "[[C4 nivel 2 - Contenedores]]",
+   "x": -1680,
+   "y": 908,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t2c2",
+   "type": "text",
+   "text": "[[C4 nivel 3 - Componentes]]",
+   "x": -1680,
+   "y": 980,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t2c3",
+   "type": "text",
+   "text": "[[C4 nivel 4 - Código]]",
+   "x": -1680,
+   "y": 1052,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[Diagramas de secuencia]]",
+   "x": -1260,
+   "y": 1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4",
+   "type": "text",
+   "text": "[[Gestión de deuda técnica]]",
+   "x": -1260,
+   "y": 1196,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t5",
+   "type": "text",
+   "text": "[[Modernizar código legado]]",
+   "x": -1260,
+   "y": 1268,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t6",
+   "type": "text",
+   "text": "[[Cómo elegir una arquitectura]]",
+   "x": -1260,
+   "y": 1340,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t5",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t6",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t7",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t8",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t9",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t10",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t11",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t12",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t13",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t14",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "g3t0",
+   "fromSide": "right",
+   "toNode": "g3t0c0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "g3t0",
+   "fromSide": "right",
+   "toNode": "g3t0c1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "g3t0",
+   "fromSide": "right",
+   "toNode": "g3t0c2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t5",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t2",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t3",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t5",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t6",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t7",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t8",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t9",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t10",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t11",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t12",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t13",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t3",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t4",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t5",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t6",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t7",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t8",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t9",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t10",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t11",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t4",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t5",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t6",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t7",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t8",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t9",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t10",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t11",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t12",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t13",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t14",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "g5t2",
+   "fromSide": "left",
+   "toNode": "g5t2c0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "g5t2",
+   "fromSide": "left",
+   "toNode": "g5t2c1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "g5t2",
+   "fromSide": "left",
+   "toNode": "g5t2c2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "g5t2",
+   "fromSide": "left",
+   "toNode": "g5t2c3",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t3",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t4",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t6",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  }
+ ]
+}

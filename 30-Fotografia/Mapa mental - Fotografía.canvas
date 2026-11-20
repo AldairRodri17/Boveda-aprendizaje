@@ -1,0 +1,1383 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Fotografía\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Fundamentos de la cámara",
+   "x": 520,
+   "y": -1127,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Tipos de cámara (celular, compacta, mirrorless y réflex)]]",
+   "x": 960,
+   "y": -1308,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Tamaño de sensor y factor de recorte]]",
+   "x": 960,
+   "y": -1236,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Distancia focal y tipos de lente]]",
+   "x": 960,
+   "y": -1164,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Modos de disparo (Auto, P, A, S y M)]]",
+   "x": 960,
+   "y": -1092,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[RAW vs JPEG y HEIF]]",
+   "x": 960,
+   "y": -1020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Tarjetas, baterías y cuidado del equipo fotográfico]]",
+   "x": 960,
+   "y": -948,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Exposición",
+   "x": 520,
+   "y": -543,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Triángulo de exposición]]",
+   "x": 960,
+   "y": -796,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Apertura y profundidad de campo]]",
+   "x": 960,
+   "y": -724,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Velocidad de obturación y movimiento]]",
+   "x": 960,
+   "y": -652,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[ISO y ruido digital]]",
+   "x": 960,
+   "y": -580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Medición de luz (matricial, ponderada y puntual)]]",
+   "x": 960,
+   "y": -508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Compensación de exposición]]",
+   "x": 960,
+   "y": -436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[Histograma y rango dinámico]]",
+   "x": 960,
+   "y": -364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Bracketing y HDR en fotografía]]",
+   "x": 960,
+   "y": -292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Luz y color",
+   "x": 520,
+   "y": 257,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Balance de blancos y temperatura de color]]",
+   "x": 960,
+   "y": -140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Luz dura y luz suave]]",
+   "x": 960,
+   "y": -68,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Dirección de la luz]]",
+   "x": 960,
+   "y": 4,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Hora dorada y hora azul]]",
+   "x": 960,
+   "y": 76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Teoría del color y armonías]]",
+   "x": 960,
+   "y": 148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[Flash (TTL, manual, rebotado y alta velocidad)]]",
+   "x": 960,
+   "y": 220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[Modificadores de luz (difusor, reflector y softbox)]]",
+   "x": 960,
+   "y": 292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7",
+   "type": "text",
+   "text": "[[Esquemas de iluminación de retrato]]",
+   "x": 960,
+   "y": 508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7c0",
+   "type": "text",
+   "text": "[[Iluminación Rembrandt]]",
+   "x": 1400,
+   "y": 364,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t7c1",
+   "type": "text",
+   "text": "[[Iluminación loop]]",
+   "x": 1400,
+   "y": 436,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t7c2",
+   "type": "text",
+   "text": "[[Iluminación split]]",
+   "x": 1400,
+   "y": 508,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t7c3",
+   "type": "text",
+   "text": "[[Iluminación mariposa]]",
+   "x": 1400,
+   "y": 580,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t7c4",
+   "type": "text",
+   "text": "[[Iluminación clamshell]]",
+   "x": 1400,
+   "y": 652,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "s6",
+   "type": "text",
+   "text": "### Avanzado",
+   "x": 520,
+   "y": 1021,
+   "width": 300,
+   "height": 70,
+   "color": "#F4511E"
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[Filtros (ND, polarizador y degradado)]]",
+   "x": 960,
+   "y": 876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t0c0",
+   "type": "text",
+   "text": "[[Filtro ND en fotografía]]",
+   "x": 1400,
+   "y": 804,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t0c1",
+   "type": "text",
+   "text": "[[Filtro polarizador circular (CPL)]]",
+   "x": 1400,
+   "y": 876,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t0c2",
+   "type": "text",
+   "text": "[[Filtro degradado (GND)]]",
+   "x": 1400,
+   "y": 948,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t1",
+   "type": "text",
+   "text": "[[Fotografía panorámica]]",
+   "x": 960,
+   "y": 1020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2",
+   "type": "text",
+   "text": "[[Time-lapse]]",
+   "x": 960,
+   "y": 1092,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t3",
+   "type": "text",
+   "text": "[[Fotografía de estudio y tethering]]",
+   "x": 960,
+   "y": 1164,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t4",
+   "type": "text",
+   "text": "[[Fotografía computacional en celulares]]",
+   "x": 960,
+   "y": 1236,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Enfoque",
+   "x": -820,
+   "y": -1127,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[Modos de enfoque automático (AF-S, AF-C y seguimiento)]]",
+   "x": -1260,
+   "y": -1236,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Enfoque manual y focus peaking]]",
+   "x": -1260,
+   "y": -1164,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Distancia hiperfocal]]",
+   "x": -1260,
+   "y": -1092,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Focus stacking (apilado de enfoque)]]",
+   "x": -1260,
+   "y": -1020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Composición",
+   "x": -820,
+   "y": -615,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Regla de tercios y proporción áurea]]",
+   "x": -1260,
+   "y": -868,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Líneas guía, encuadre natural, simetría y patrones]]",
+   "x": -1260,
+   "y": -688,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1c0",
+   "type": "text",
+   "text": "[[Líneas guía en composición]]",
+   "x": -1680,
+   "y": -796,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t1c1",
+   "type": "text",
+   "text": "[[Encuadre natural en composición]]",
+   "x": -1680,
+   "y": -724,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t1c2",
+   "type": "text",
+   "text": "[[Simetría en composición]]",
+   "x": -1680,
+   "y": -652,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t1c3",
+   "type": "text",
+   "text": "[[Patrones y repetición en composición]]",
+   "x": -1680,
+   "y": -580,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Espacio negativo y simplicidad]]",
+   "x": -1260,
+   "y": -508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[Punto de vista y capas de profundidad]]",
+   "x": -1260,
+   "y": -436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[Educar el ojo (analizar fotos y fotógrafos)]]",
+   "x": -1260,
+   "y": -364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Géneros",
+   "x": -820,
+   "y": 185,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Fotografía de retrato]]",
+   "x": -1260,
+   "y": -212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Fotografía de paisaje]]",
+   "x": -1260,
+   "y": -140,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Fotografía de calle]]",
+   "x": -1260,
+   "y": -68,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t3",
+   "type": "text",
+   "text": "[[Fotografía de arquitectura]]",
+   "x": -1260,
+   "y": 4,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t4",
+   "type": "text",
+   "text": "[[Fotografía de producto y comida]]",
+   "x": -1260,
+   "y": 76,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t5",
+   "type": "text",
+   "text": "[[Fotografía macro]]",
+   "x": -1260,
+   "y": 148,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t6",
+   "type": "text",
+   "text": "[[Fotografía nocturna y astrofotografía]]",
+   "x": -1260,
+   "y": 220,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t7",
+   "type": "text",
+   "text": "[[Larga exposición]]",
+   "x": -1260,
+   "y": 292,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t8",
+   "type": "text",
+   "text": "[[Fotografía de deporte y acción]]",
+   "x": -1260,
+   "y": 364,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t9",
+   "type": "text",
+   "text": "[[Fotografía de eventos]]",
+   "x": -1260,
+   "y": 436,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t10",
+   "type": "text",
+   "text": "[[Fotografía de viaje]]",
+   "x": -1260,
+   "y": 508,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t11",
+   "type": "text",
+   "text": "[[Fotografía de fauna]]",
+   "x": -1260,
+   "y": 580,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s7",
+   "type": "text",
+   "text": "### Flujo, publicación y legal",
+   "x": -820,
+   "y": 949,
+   "width": 300,
+   "height": 70,
+   "color": "#C0CA33"
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[Importar, nombrar y organizar fotos]]",
+   "x": -1260,
+   "y": 732,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t1",
+   "type": "text",
+   "text": "[[Respaldo 3-2-1 de fotos y videos]]",
+   "x": -1260,
+   "y": 804,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t2",
+   "type": "text",
+   "text": "[[Metadatos EXIF e IPTC]]",
+   "x": -1260,
+   "y": 876,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t3",
+   "type": "text",
+   "text": "[[Derechos de autor de fotos y videos]]",
+   "x": -1260,
+   "y": 948,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t4",
+   "type": "text",
+   "text": "[[Permiso de modelo y fotografía en espacios públicos en México]]",
+   "x": -1260,
+   "y": 1020,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t5",
+   "type": "text",
+   "text": "[[Portafolio fotográfico y dónde publicar]]",
+   "x": -1260,
+   "y": 1092,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t6",
+   "type": "text",
+   "text": "[[Pedir y dar crítica fotográfica]]",
+   "x": -1260,
+   "y": 1164,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t5",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t0",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t1",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t2",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t3",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t4",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t5",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t6",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s1",
+   "fromSide": "right",
+   "toNode": "g1t7",
+   "toSide": "left",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t5",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t6",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s3",
+   "fromSide": "right",
+   "toNode": "g3t7",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "g3t7",
+   "fromSide": "right",
+   "toNode": "g3t7c0",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "g3t7",
+   "fromSide": "right",
+   "toNode": "g3t7c1",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "g3t7",
+   "fromSide": "right",
+   "toNode": "g3t7c2",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "g3t7",
+   "fromSide": "right",
+   "toNode": "g3t7c3",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "g3t7",
+   "fromSide": "right",
+   "toNode": "g3t7c4",
+   "toSide": "left",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s6",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "g6t0",
+   "fromSide": "right",
+   "toNode": "g6t0c0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "g6t0",
+   "fromSide": "right",
+   "toNode": "g6t0c1",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "g6t0",
+   "fromSide": "right",
+   "toNode": "g6t0c2",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t1",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t2",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t3",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t4",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "g4t1",
+   "fromSide": "left",
+   "toNode": "g4t1c0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "g4t1",
+   "fromSide": "left",
+   "toNode": "g4t1c1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "g4t1",
+   "fromSide": "left",
+   "toNode": "g4t1c2",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "g4t1",
+   "fromSide": "left",
+   "toNode": "g4t1c3",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t2",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t3",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t3",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t4",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t6",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t7",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t8",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t9",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t10",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t11",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s7",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t0",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t1",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t2",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t3",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t4",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t5",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t6",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "f188ac983cce7442",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc091118e560cc89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9790d1c5d2c090f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee26a5fc10dbe6b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e56494fc16427eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2974f3bb50db5114",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "658676333ebd9dbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1ec6233bc7912e8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab65253d8d817345",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e43f9bce24deada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82c426f115f7b84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d0ef4200d2f402f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "309b0cff37130025",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a769b244a74015cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "36a7d47f743dbed7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c9790d1c5d2c090f",
+  "lastOpenFiles": [
+    "00-Inbox/Pendientes de llenado.md",
+    "49-Idiomas/08 Habilidades/Laboratorios/Lab 4 - Escribir un correo profesional en inglés y corregirlo.md",
+    "49-Idiomas/08 Habilidades/Laboratorios",
+    "49-Idiomas/08 Habilidades/Escritura en inglés.md",
+    "49-Idiomas/08 Habilidades/Conversación en inglés (speaking).md",
+    "49-Idiomas/08 Habilidades/Comprensión auditiva en inglés (listening).md",
+    "49-Idiomas/07 Pronunciación/Vocales cortas y largas en inglés.md",
+    "49-Idiomas/07 Pronunciación/Terminaciones -ed y -s.md",
+    "49-Idiomas/07 Pronunciación/Sonidos del inglés que no existen en español.md",
+    "49-Idiomas/07 Pronunciación/Linking (unir palabras al hablar).md",
+    "49-Idiomas/07 Pronunciación/Laboratorios/Lab 3 - Shadowing de un video de 2 minutos.md",
+    "49-Idiomas/07 Pronunciación/Laboratorios",
+    "49-Idiomas/07 Pronunciación/Acento y ritmo de la oración en inglés.md",
+    "49-Idiomas/06 Inglés C1/Inglés C1 - registro formal e informal.md",
+    "49-Idiomas/06 Inglés C1/Inglés C1 - matices y lenguaje diplomático.md",
+    "49-Idiomas/06 Inglés C1/Inglés C1 - inversión y énfasis.md",
+    "49-Idiomas/06 Inglés C1/Inglés C1 - expresiones idiomáticas.md",
+    "49-Idiomas/05 Inglés B2/Inglés B2 - tercer condicional y condicionales mixtos.md",
+    "49-Idiomas/05 Inglés B2/Inglés B2 - presente perfecto continuo y pasado perfecto.md",
+    "49-Idiomas/05 Inglés B2/Inglés B2 - estilo indirecto (reported speech).md",
+    "49-Idiomas/05 Inglés B2/Inglés B2 - debatir y argumentar.md",
+    "49-Idiomas/05 Inglés B2/Inglés B2 - conectores para hablar y escribir.md",
+    "49-Idiomas/05 Inglés B2/Inglés B2 - collocations.md",
+    "49-Idiomas/05 Inglés B2/Inglés B2 - cláusulas relativas.md",
+    "49-Idiomas/04 Inglés B1/Laboratorios/Lab 2 - Conversación de 10 minutos sobre mi trabajo.md",
+    "49-Idiomas/04 Inglés B1/Laboratorios",
+    "49-Idiomas/04 Inglés B1/Inglés B1 - voz pasiva.md",
+    "49-Idiomas/04 Inglés B1/Inglés B1 - presente perfecto.md",
+    "49-Idiomas/04 Inglés B1/Inglés B1 - phrasal verbs más usados.md",
+    "49-Idiomas/01 Diagnóstico y plan/Laboratorios",
+    "66-Filosofia-Practica/05 Vivir con propósito/Laboratorios",
+    "66-Filosofia-Practica/02 Estoicismo/Laboratorios",
+    "02-Fundamentos/Mapa mental - Fundamentos.canvas",
+    "39-IA-Modelado-3D/Mapa mental - IA para modelado 3D.canvas",
+    "39-IA-Modelado-3D/05 Calidad y criterio/Laboratorios",
+    "39-IA-Modelado-3D/04 Flujo completo/Laboratorios",
+    "39-IA-Modelado-3D/03 Modelos/Laboratorios",
+    "39-IA-Modelado-3D/02 Entorno local/Laboratorios",
+    "38-Modelado-3D-Artistico/Mapa mental - Modelado 3D artístico.canvas",
+    "37-Modelado-3D-Tecnico/Mapa mental - Modelado 3D técnico.canvas",
+    "36-Impresion-3D/Mapa mental - Impresión 3D.canvas",
+    "35-Drones/Mapa mental - Drones.canvas",
+    "34-Equipo/Mapa mental - Equipo.canvas",
+    "32-Edicion-Foto/Mapa mental - Edición de fotografía.canvas",
+    "30-Fotografia/Mapa mental - Fotografía.canvas",
+    "33-Edicion-Video/Mapa mental - Edición de video.canvas"
+  ]
+}

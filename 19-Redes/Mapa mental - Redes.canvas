@@ -1,0 +1,2212 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Redes\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Fundamentos",
+   "x": 520,
+   "y": -1091,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Qué es una red (LAN, WAN, MAN, PAN)]]",
+   "x": 960,
+   "y": -1920,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Topologías de red]]",
+   "x": 960,
+   "y": -1848,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Modelo OSI]]",
+   "x": 960,
+   "y": -1560,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2c0",
+   "type": "text",
+   "text": "[[Capa 1 - Física]]",
+   "x": 1400,
+   "y": -1776,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t2c1",
+   "type": "text",
+   "text": "[[Capa 2 - Enlace de datos]]",
+   "x": 1400,
+   "y": -1704,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t2c2",
+   "type": "text",
+   "text": "[[Capa 3 - Red]]",
+   "x": 1400,
+   "y": -1632,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t2c3",
+   "type": "text",
+   "text": "[[Capa 4 - Transporte]]",
+   "x": 1400,
+   "y": -1560,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t2c4",
+   "type": "text",
+   "text": "[[Capa 5 - Sesión]]",
+   "x": 1400,
+   "y": -1488,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t2c5",
+   "type": "text",
+   "text": "[[Capa 6 - Presentación]]",
+   "x": 1400,
+   "y": -1416,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t2c6",
+   "type": "text",
+   "text": "[[Capa 7 - Aplicación]]",
+   "x": 1400,
+   "y": -1344,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Modelo TCP-IP]]",
+   "x": 960,
+   "y": -1272,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Encapsulamiento y PDUs]]",
+   "x": 960,
+   "y": -1200,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Medios físicos (cobre, fibra e inalámbrico)]]",
+   "x": 960,
+   "y": -1056,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5c0",
+   "type": "text",
+   "text": "[[Cable de cobre (UTP y STP)]]",
+   "x": 1400,
+   "y": -1128,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t5c1",
+   "type": "text",
+   "text": "[[Fibra óptica (monomodo y multimodo)]]",
+   "x": 1400,
+   "y": -1056,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t5c2",
+   "type": "text",
+   "text": "[[Medios inalámbricos]]",
+   "x": 1400,
+   "y": -984,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[Cableado estructurado y estándares (T568A y T568B)]]",
+   "x": 960,
+   "y": -912,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[Dispositivos de red (hub, switch, router, access point, firewall)]]",
+   "x": 960,
+   "y": -696,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7c0",
+   "type": "text",
+   "text": "[[Hub]]",
+   "x": 1400,
+   "y": -840,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t7c1",
+   "type": "text",
+   "text": "[[Switch]]",
+   "x": 1400,
+   "y": -768,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t7c2",
+   "type": "text",
+   "text": "[[Router]]",
+   "x": 1400,
+   "y": -696,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t7c3",
+   "type": "text",
+   "text": "[[Access point]]",
+   "x": 1400,
+   "y": -624,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t7c4",
+   "type": "text",
+   "text": "[[Firewall]]",
+   "x": 1400,
+   "y": -552,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[Hub vs switch vs router]]",
+   "x": 960,
+   "y": -480,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Ethernet y tramas]]",
+   "x": 960,
+   "y": -408,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[Direcciones MAC]]",
+   "x": 960,
+   "y": -336,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[Dominios de colisión y de broadcast]]",
+   "x": 960,
+   "y": -264,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Routing",
+   "x": 520,
+   "y": 177,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[Cómo decide un router (tabla de rutas)]]",
+   "x": 960,
+   "y": -112,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Rutas estáticas y ruta por defecto]]",
+   "x": 960,
+   "y": -40,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2",
+   "type": "text",
+   "text": "[[Enrutamiento dinámico (conceptos)]]",
+   "x": 960,
+   "y": 68,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t2c0",
+   "type": "text",
+   "text": "[[Vector distancia vs estado de enlace]]",
+   "x": 1400,
+   "y": 32,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t2c1",
+   "type": "text",
+   "text": "[[Distancia administrativa y métrica]]",
+   "x": 1400,
+   "y": 104,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t3",
+   "type": "text",
+   "text": "[[OSPF]]",
+   "x": 960,
+   "y": 212,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t3c0",
+   "type": "text",
+   "text": "[[OSPF de área única]]",
+   "x": 1400,
+   "y": 176,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t3c1",
+   "type": "text",
+   "text": "[[OSPF multiárea]]",
+   "x": 1400,
+   "y": 248,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g4t4",
+   "type": "text",
+   "text": "[[EIGRP]]",
+   "x": 960,
+   "y": 320,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t5",
+   "type": "text",
+   "text": "[[BGP (conceptos)]]",
+   "x": 960,
+   "y": 392,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t6",
+   "type": "text",
+   "text": "[[Redundancia de gateway (HSRP y VRRP)]]",
+   "x": 960,
+   "y": 464,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s6",
+   "type": "text",
+   "text": "### Seguridad de redes",
+   "x": 520,
+   "y": 977,
+   "width": 300,
+   "height": 70,
+   "color": "#F4511E"
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[ACLs (estándar y extendidas)]]",
+   "x": 960,
+   "y": 688,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t0c0",
+   "type": "text",
+   "text": "[[ACL estándar]]",
+   "x": 1400,
+   "y": 616,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t0c1",
+   "type": "text",
+   "text": "[[ACL extendida]]",
+   "x": 1400,
+   "y": 688,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t0c2",
+   "type": "text",
+   "text": "[[ACL nombrada]]",
+   "x": 1400,
+   "y": 760,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t1",
+   "type": "text",
+   "text": "[[Firewalls (stateless, stateful y de nueva generación)]]",
+   "x": 960,
+   "y": 832,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2",
+   "type": "text",
+   "text": "[[VPN (sitio a sitio y acceso remoto, IPsec y SSL)]]",
+   "x": 960,
+   "y": 1012,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2c0",
+   "type": "text",
+   "text": "[[VPN sitio a sitio]]",
+   "x": 1400,
+   "y": 904,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t2c1",
+   "type": "text",
+   "text": "[[VPN de acceso remoto]]",
+   "x": 1400,
+   "y": 976,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t2c2",
+   "type": "text",
+   "text": "[[IPsec]]",
+   "x": 1400,
+   "y": 1048,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t2c3",
+   "type": "text",
+   "text": "[[VPN SSL]]",
+   "x": 1400,
+   "y": 1120,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g6t3",
+   "type": "text",
+   "text": "[[Segmentación y DMZ]]",
+   "x": 960,
+   "y": 1192,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t4",
+   "type": "text",
+   "text": "[[Zero Trust en redes]]",
+   "x": 960,
+   "y": 1264,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t5",
+   "type": "text",
+   "text": "[[Ataques comunes de red (spoofing, MITM, DoS)]]",
+   "x": 960,
+   "y": 1336,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s8",
+   "type": "text",
+   "text": "### Avanzado",
+   "x": 520,
+   "y": 1669,
+   "width": 300,
+   "height": 70,
+   "color": "#6D4C41"
+  },
+  {
+   "id": "g8t0",
+   "type": "text",
+   "text": "[[WAN y SD-WAN]]",
+   "x": 960,
+   "y": 1488,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t1",
+   "type": "text",
+   "text": "[[SDN (redes definidas por software)]]",
+   "x": 960,
+   "y": 1560,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t2",
+   "type": "text",
+   "text": "[[Automatización de redes (Python, Netmiko y Ansible)]]",
+   "x": 960,
+   "y": 1632,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t3",
+   "type": "text",
+   "text": "[[NETCONF y RESTCONF]]",
+   "x": 960,
+   "y": 1704,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t4",
+   "type": "text",
+   "text": "[[Redes en la nube (VNet, subnets, NSG y peering)]]",
+   "x": 960,
+   "y": 1776,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t5",
+   "type": "text",
+   "text": "[[Redes de contenedores (Docker y Kubernetes)]]",
+   "x": 960,
+   "y": 1848,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Switching",
+   "x": -820,
+   "y": -1527,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Cómo aprende un switch (tabla MAC)]]",
+   "x": -1260,
+   "y": -1924,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Unicast, broadcast y multicast]]",
+   "x": -1260,
+   "y": -1852,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[VLANs]]",
+   "x": -1260,
+   "y": -1708,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2c0",
+   "type": "text",
+   "text": "[[VLAN nativa]]",
+   "x": -1680,
+   "y": -1780,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t2c1",
+   "type": "text",
+   "text": "[[VLAN de administración]]",
+   "x": -1680,
+   "y": -1708,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t2c2",
+   "type": "text",
+   "text": "[[VLAN de voz]]",
+   "x": -1680,
+   "y": -1636,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Trunking 802.1Q]]",
+   "x": -1260,
+   "y": -1564,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Routing entre VLANs (router on a stick y switch capa 3)]]",
+   "x": -1260,
+   "y": -1456,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4c0",
+   "type": "text",
+   "text": "[[Router on a stick]]",
+   "x": -1680,
+   "y": -1492,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t4c1",
+   "type": "text",
+   "text": "[[Switch capa 3 (SVI)]]",
+   "x": -1680,
+   "y": -1420,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[STP (Spanning Tree) y RSTP]]",
+   "x": -1260,
+   "y": -1348,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[EtherChannel (LACP y PAgP)]]",
+   "x": -1260,
+   "y": -1276,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Port security]]",
+   "x": -1260,
+   "y": -1204,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[DHCP snooping y Dynamic ARP Inspection]]",
+   "x": -1260,
+   "y": -1132,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Direccionamiento IP",
+   "x": -820,
+   "y": -475,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[IPv4 - estructura y clases]]",
+   "x": -1260,
+   "y": -980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[Direcciones públicas y privadas]]",
+   "x": -1260,
+   "y": -800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1c0",
+   "type": "text",
+   "text": "[[IP pública]]",
+   "x": -1680,
+   "y": -908,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t1c1",
+   "type": "text",
+   "text": "[[IP privada (RFC 1918)]]",
+   "x": -1680,
+   "y": -836,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t1c2",
+   "type": "text",
+   "text": "[[Loopback y APIPA]]",
+   "x": -1680,
+   "y": -764,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t1c3",
+   "type": "text",
+   "text": "[[Dirección de red y de broadcast]]",
+   "x": -1680,
+   "y": -692,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[Máscara de subred y CIDR]]",
+   "x": -1260,
+   "y": -620,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Subnetting paso a paso]]",
+   "x": -1260,
+   "y": -548,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[VLSM]]",
+   "x": -1260,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[IPv6 - direccionamiento]]",
+   "x": -1260,
+   "y": -296,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5c0",
+   "type": "text",
+   "text": "[[Formato y abreviación de IPv6]]",
+   "x": -1680,
+   "y": -404,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t5c1",
+   "type": "text",
+   "text": "[[IPv6 global unicast]]",
+   "x": -1680,
+   "y": -332,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t5c2",
+   "type": "text",
+   "text": "[[IPv6 link-local]]",
+   "x": -1680,
+   "y": -260,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t5c3",
+   "type": "text",
+   "text": "[[IPv6 multicast]]",
+   "x": -1680,
+   "y": -188,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[IPv6 - SLAAC y DHCPv6]]",
+   "x": -1260,
+   "y": -116,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[ARP]]",
+   "x": -1260,
+   "y": -44,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[ICMP, ping y traceroute]]",
+   "x": -1260,
+   "y": 28,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Servicios de red",
+   "x": -820,
+   "y": 505,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[DHCP]]",
+   "x": -1260,
+   "y": 216,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t0c0",
+   "type": "text",
+   "text": "[[Proceso DORA de DHCP]]",
+   "x": -1680,
+   "y": 180,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t0c1",
+   "type": "text",
+   "text": "[[DHCP relay]]",
+   "x": -1680,
+   "y": 252,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[DNS en la red (resolución, registros y servidores)]]",
+   "x": -1260,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[NAT y PAT]]",
+   "x": -1260,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2c0",
+   "type": "text",
+   "text": "[[NAT estático]]",
+   "x": -1680,
+   "y": 396,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t2c1",
+   "type": "text",
+   "text": "[[NAT dinámico]]",
+   "x": -1680,
+   "y": 468,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t2c2",
+   "type": "text",
+   "text": "[[PAT (sobrecarga de NAT)]]",
+   "x": -1680,
+   "y": 540,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[NTP]]",
+   "x": -1260,
+   "y": 612,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[SNMP y Syslog]]",
+   "x": -1260,
+   "y": 684,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[FTP, SFTP y TFTP]]",
+   "x": -1260,
+   "y": 756,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[QoS (calidad de servicio)]]",
+   "x": -1260,
+   "y": 828,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Inalámbrico",
+   "x": -820,
+   "y": 1053,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Wi-Fi - estándares y bandas]]",
+   "x": -1260,
+   "y": 980,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[WLAN - controladores y access points]]",
+   "x": -1260,
+   "y": 1052,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Seguridad Wi-Fi (WPA2, WPA3 y 802.1X)]]",
+   "x": -1260,
+   "y": 1124,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s7",
+   "type": "text",
+   "text": "### Cisco IOS y práctica",
+   "x": -820,
+   "y": 1565,
+   "width": 300,
+   "height": 70,
+   "color": "#C0CA33"
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[Cisco Packet Tracer]]",
+   "x": -1260,
+   "y": 1276,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t1",
+   "type": "text",
+   "text": "[[Cisco IOS - modos y comandos básicos]]",
+   "x": -1260,
+   "y": 1348,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t2",
+   "type": "text",
+   "text": "[[Configuración inicial de un switch Cisco]]",
+   "x": -1260,
+   "y": 1420,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t3",
+   "type": "text",
+   "text": "[[Configuración inicial de un router Cisco]]",
+   "x": -1260,
+   "y": 1492,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t4",
+   "type": "text",
+   "text": "[[SSH y acceso seguro a dispositivos]]",
+   "x": -1260,
+   "y": 1564,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t5",
+   "type": "text",
+   "text": "[[Respaldo de configuraciones]]",
+   "x": -1260,
+   "y": 1636,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t6",
+   "type": "text",
+   "text": "[[Wireshark (captura y análisis de tráfico)]]",
+   "x": -1260,
+   "y": 1708,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t7",
+   "type": "text",
+   "text": "[[Troubleshooting de redes (metodología por capas)]]",
+   "x": -1260,
+   "y": 1780,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t8",
+   "type": "text",
+   "text": "[[Laboratorios de Packet Tracer (bitácora)]]",
+   "x": -1260,
+   "y": 1852,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "g0t2",
+   "fromSide": "right",
+   "toNode": "g0t2c0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "g0t2",
+   "fromSide": "right",
+   "toNode": "g0t2c1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "g0t2",
+   "fromSide": "right",
+   "toNode": "g0t2c2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "g0t2",
+   "fromSide": "right",
+   "toNode": "g0t2c3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "g0t2",
+   "fromSide": "right",
+   "toNode": "g0t2c4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "g0t2",
+   "fromSide": "right",
+   "toNode": "g0t2c5",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "g0t2",
+   "fromSide": "right",
+   "toNode": "g0t2c6",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t5",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "g0t5",
+   "fromSide": "right",
+   "toNode": "g0t5c0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "g0t5",
+   "fromSide": "right",
+   "toNode": "g0t5c1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "g0t5",
+   "fromSide": "right",
+   "toNode": "g0t5c2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t6",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t7",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "g0t7",
+   "fromSide": "right",
+   "toNode": "g0t7c0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "g0t7",
+   "fromSide": "right",
+   "toNode": "g0t7c1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "g0t7",
+   "fromSide": "right",
+   "toNode": "g0t7c2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "g0t7",
+   "fromSide": "right",
+   "toNode": "g0t7c3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "g0t7",
+   "fromSide": "right",
+   "toNode": "g0t7c4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t8",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t9",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t10",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t11",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t2",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "g4t2",
+   "fromSide": "right",
+   "toNode": "g4t2c0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "g4t2",
+   "fromSide": "right",
+   "toNode": "g4t2c1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t3",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "g4t3",
+   "fromSide": "right",
+   "toNode": "g4t3c0",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "g4t3",
+   "fromSide": "right",
+   "toNode": "g4t3c1",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t4",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t5",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s4",
+   "fromSide": "right",
+   "toNode": "g4t6",
+   "toSide": "left",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s6",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "g6t0",
+   "fromSide": "right",
+   "toNode": "g6t0c0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "g6t0",
+   "fromSide": "right",
+   "toNode": "g6t0c1",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "g6t0",
+   "fromSide": "right",
+   "toNode": "g6t0c2",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t1",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t2",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "g6t2",
+   "fromSide": "right",
+   "toNode": "g6t2c0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "g6t2",
+   "fromSide": "right",
+   "toNode": "g6t2c1",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "g6t2",
+   "fromSide": "right",
+   "toNode": "g6t2c2",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "g6t2",
+   "fromSide": "right",
+   "toNode": "g6t2c3",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t3",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t4",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t5",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s8",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t0",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t1",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t2",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t3",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t4",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "s8",
+   "fromSide": "right",
+   "toNode": "g8t5",
+   "toSide": "left",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "g1t2",
+   "fromSide": "left",
+   "toNode": "g1t2c0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "g1t2",
+   "fromSide": "left",
+   "toNode": "g1t2c1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "g1t2",
+   "fromSide": "left",
+   "toNode": "g1t2c2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t3",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t4",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "g1t4",
+   "fromSide": "left",
+   "toNode": "g1t4c0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "g1t4",
+   "fromSide": "left",
+   "toNode": "g1t4c1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t5",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t6",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t7",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t8",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "g2t1",
+   "fromSide": "left",
+   "toNode": "g2t1c0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "g2t1",
+   "fromSide": "left",
+   "toNode": "g2t1c1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "g2t1",
+   "fromSide": "left",
+   "toNode": "g2t1c2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e82",
+   "fromNode": "g2t1",
+   "fromSide": "left",
+   "toNode": "g2t1c3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e83",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e84",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e85",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t4",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e86",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t5",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e87",
+   "fromNode": "g2t5",
+   "fromSide": "left",
+   "toNode": "g2t5c0",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e88",
+   "fromNode": "g2t5",
+   "fromSide": "left",
+   "toNode": "g2t5c1",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e89",
+   "fromNode": "g2t5",
+   "fromSide": "left",
+   "toNode": "g2t5c2",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e90",
+   "fromNode": "g2t5",
+   "fromSide": "left",
+   "toNode": "g2t5c3",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e91",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t6",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e92",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t7",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e93",
+   "fromNode": "s2",
+   "fromSide": "left",
+   "toNode": "g2t8",
+   "toSide": "right",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e94",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e95",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e96",
+   "fromNode": "g3t0",
+   "fromSide": "left",
+   "toNode": "g3t0c0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e97",
+   "fromNode": "g3t0",
+   "fromSide": "left",
+   "toNode": "g3t0c1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e98",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e99",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t2",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e100",
+   "fromNode": "g3t2",
+   "fromSide": "left",
+   "toNode": "g3t2c0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e101",
+   "fromNode": "g3t2",
+   "fromSide": "left",
+   "toNode": "g3t2c1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e102",
+   "fromNode": "g3t2",
+   "fromSide": "left",
+   "toNode": "g3t2c2",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e103",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e104",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t4",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e105",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t5",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e106",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t6",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e107",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s5",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e108",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t0",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e109",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t1",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e110",
+   "fromNode": "s5",
+   "fromSide": "left",
+   "toNode": "g5t2",
+   "toSide": "right",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e111",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s7",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e112",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t0",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e113",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t1",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e114",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t2",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e115",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t3",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e116",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t4",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e117",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t5",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e118",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t6",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e119",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t7",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e120",
+   "fromNode": "s7",
+   "fromSide": "left",
+   "toNode": "g7t8",
+   "toSide": "right",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  }
+ ]
+}

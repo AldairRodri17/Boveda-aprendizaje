@@ -1,0 +1,1619 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Azure\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Fundamentos",
+   "x": 520,
+   "y": -987,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[Azure - suscripciones, grupos de recursos y regiones]]",
+   "x": 960,
+   "y": -1456,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Azure - Resource Manager]]",
+   "x": 960,
+   "y": -1384,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[Azure - etiquetas (tags)]]",
+   "x": 960,
+   "y": -1312,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Azure - costos y Cost Management]]",
+   "x": 960,
+   "y": -1240,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Azure - capas gratuitas]]",
+   "x": 960,
+   "y": -1168,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Azure - RBAC]]",
+   "x": 960,
+   "y": -1096,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[Azure - Entra ID y registro de aplicaciones]]",
+   "x": 960,
+   "y": -1024,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[Azure CLI]]",
+   "x": 960,
+   "y": -952,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[Azure Portal vs CLI vs IaC]]",
+   "x": 960,
+   "y": -880,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Azure Well-Architected Framework]]",
+   "x": 960,
+   "y": -664,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9c0",
+   "type": "text",
+   "text": "[[Well-Architected - Confiabilidad]]",
+   "x": 1400,
+   "y": -808,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t9c1",
+   "type": "text",
+   "text": "[[Well-Architected - Seguridad]]",
+   "x": 1400,
+   "y": -736,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t9c2",
+   "type": "text",
+   "text": "[[Well-Architected - Optimización de costos]]",
+   "x": 1400,
+   "y": -664,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t9c3",
+   "type": "text",
+   "text": "[[Well-Architected - Excelencia operativa]]",
+   "x": 1400,
+   "y": -592,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t9c4",
+   "type": "text",
+   "text": "[[Well-Architected - Eficiencia del rendimiento]]",
+   "x": 1400,
+   "y": -520,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "s2",
+   "type": "text",
+   "text": "### Cómputo",
+   "x": 520,
+   "y": -43,
+   "width": 300,
+   "height": 70,
+   "color": "#1E88E5"
+  },
+  {
+   "id": "g2t0",
+   "type": "text",
+   "text": "[[App Service]]",
+   "x": 960,
+   "y": -368,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t1",
+   "type": "text",
+   "text": "[[App Service - planes y escalado]]",
+   "x": 960,
+   "y": -296,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t2",
+   "type": "text",
+   "text": "[[App Service - deployment slots]]",
+   "x": 960,
+   "y": -224,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3",
+   "type": "text",
+   "text": "[[Azure Functions]]",
+   "x": 960,
+   "y": -116,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t3c0",
+   "type": "text",
+   "text": "[[Azure Functions - triggers y bindings]]",
+   "x": 1400,
+   "y": -152,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t3c1",
+   "type": "text",
+   "text": "[[Azure Functions - planes de hospedaje]]",
+   "x": 1400,
+   "y": -80,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g2t4",
+   "type": "text",
+   "text": "[[Azure Static Web Apps]]",
+   "x": 960,
+   "y": -8,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t5",
+   "type": "text",
+   "text": "[[Container Apps]]",
+   "x": 960,
+   "y": 64,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t6",
+   "type": "text",
+   "text": "[[Container Registry]]",
+   "x": 960,
+   "y": 136,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t7",
+   "type": "text",
+   "text": "[[AKS (conceptos)]]",
+   "x": 960,
+   "y": 208,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g2t8",
+   "type": "text",
+   "text": "[[Máquinas virtuales]]",
+   "x": 960,
+   "y": 280,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s5",
+   "type": "text",
+   "text": "### Seguridad",
+   "x": 520,
+   "y": 541,
+   "width": 300,
+   "height": 70,
+   "color": "#D81B60"
+  },
+  {
+   "id": "g5t0",
+   "type": "text",
+   "text": "[[Key Vault]]",
+   "x": 960,
+   "y": 432,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1",
+   "type": "text",
+   "text": "[[Managed Identity]]",
+   "x": 960,
+   "y": 540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g5t1c0",
+   "type": "text",
+   "text": "[[Managed Identity asignada por el sistema]]",
+   "x": 1400,
+   "y": 504,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t1c1",
+   "type": "text",
+   "text": "[[Managed Identity asignada por el usuario]]",
+   "x": 1400,
+   "y": 576,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g5t2",
+   "type": "text",
+   "text": "[[Microsoft Defender (conceptos)]]",
+   "x": 960,
+   "y": 648,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s6",
+   "type": "text",
+   "text": "### Redes en Azure",
+   "x": 520,
+   "y": 945,
+   "width": 300,
+   "height": 70,
+   "color": "#F4511E"
+  },
+  {
+   "id": "g6t0",
+   "type": "text",
+   "text": "[[Virtual Network]]",
+   "x": 960,
+   "y": 800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t1",
+   "type": "text",
+   "text": "[[Private Endpoints]]",
+   "x": 960,
+   "y": 872,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t2",
+   "type": "text",
+   "text": "[[Front Door]]",
+   "x": 960,
+   "y": 944,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t3",
+   "type": "text",
+   "text": "[[Application Gateway]]",
+   "x": 960,
+   "y": 1016,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g6t4",
+   "type": "text",
+   "text": "[[Dominios personalizados y certificados]]",
+   "x": 960,
+   "y": 1088,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s7",
+   "type": "text",
+   "text": "### Observabilidad",
+   "x": 520,
+   "y": 1313,
+   "width": 300,
+   "height": 70,
+   "color": "#C0CA33"
+  },
+  {
+   "id": "g7t0",
+   "type": "text",
+   "text": "[[Application Insights]]",
+   "x": 960,
+   "y": 1240,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t1",
+   "type": "text",
+   "text": "[[Log Analytics]]",
+   "x": 960,
+   "y": 1312,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g7t2",
+   "type": "text",
+   "text": "[[Azure Monitor y alertas]]",
+   "x": 960,
+   "y": 1384,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Dónde probar Azure sin pagar",
+   "x": -820,
+   "y": -1167,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[Cuenta gratuita de Azure (crédito de 30 días, servicios gratuitos y límite de gasto)]]",
+   "x": -1260,
+   "y": -1528,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Servicios de Azure siempre gratuitos]]",
+   "x": -1260,
+   "y": -1456,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Servicios de Azure gratuitos durante 12 meses]]",
+   "x": -1260,
+   "y": -1384,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Probar servicios de pago con el crédito de la cuenta gratuita]]",
+   "x": -1260,
+   "y": -1312,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Azure for Students]]",
+   "x": -1260,
+   "y": -1240,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Microsoft Learn sandbox (suscripción temporal sin tarjeta)]]",
+   "x": -1260,
+   "y": -1168,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[Créditos de Azure para suscriptores de Visual Studio]]",
+   "x": -1260,
+   "y": -1096,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Pay as you go y cuándo se pierde la protección de gasto]]",
+   "x": -1260,
+   "y": -1024,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[Cómo evitar cobros inesperados en la nube (presupuestos y alertas)]]",
+   "x": -1260,
+   "y": -952,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[Cómo borrar recursos al terminar una práctica]]",
+   "x": -1260,
+   "y": -880,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t10",
+   "type": "text",
+   "text": "[[Crédito promocional vs proyectos con costo cero permanente]]",
+   "x": -1260,
+   "y": -808,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s3",
+   "type": "text",
+   "text": "### Datos",
+   "x": -820,
+   "y": -331,
+   "width": 300,
+   "height": 70,
+   "color": "#3949AB"
+  },
+  {
+   "id": "g3t0",
+   "type": "text",
+   "text": "[[Azure SQL Database]]",
+   "x": -1260,
+   "y": -656,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t1",
+   "type": "text",
+   "text": "[[Cosmos DB]]",
+   "x": -1260,
+   "y": -584,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2",
+   "type": "text",
+   "text": "[[Azure Blob Storage]]",
+   "x": -1260,
+   "y": -476,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t2c0",
+   "type": "text",
+   "text": "[[Blob Storage - SAS (firmas de acceso compartido)]]",
+   "x": -1680,
+   "y": -512,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t2c1",
+   "type": "text",
+   "text": "[[Blob Storage - niveles de acceso y ciclo de vida]]",
+   "x": -1680,
+   "y": -440,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g3t3",
+   "type": "text",
+   "text": "[[Queue Storage y Table Storage]]",
+   "x": -1260,
+   "y": -368,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t4",
+   "type": "text",
+   "text": "[[Azure Cache for Redis]]",
+   "x": -1260,
+   "y": -296,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t5",
+   "type": "text",
+   "text": "[[Service Bus]]",
+   "x": -1260,
+   "y": -224,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t6",
+   "type": "text",
+   "text": "[[Event Grid]]",
+   "x": -1260,
+   "y": -152,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t7",
+   "type": "text",
+   "text": "[[Event Hubs]]",
+   "x": -1260,
+   "y": -80,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g3t8",
+   "type": "text",
+   "text": "[[Azure AI Search]]",
+   "x": -1260,
+   "y": -8,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s4",
+   "type": "text",
+   "text": "### Integración",
+   "x": -820,
+   "y": 181,
+   "width": 300,
+   "height": 70,
+   "color": "#8E24AA"
+  },
+  {
+   "id": "g4t0",
+   "type": "text",
+   "text": "[[API Management]]",
+   "x": -1260,
+   "y": 144,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g4t1",
+   "type": "text",
+   "text": "[[Azure DevOps REST API]]",
+   "x": -1260,
+   "y": 216,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s8",
+   "type": "text",
+   "text": "### Azure DevOps",
+   "x": -820,
+   "y": 729,
+   "width": 300,
+   "height": 70,
+   "color": "#6D4C41"
+  },
+  {
+   "id": "g8t0",
+   "type": "text",
+   "text": "[[Azure DevOps - organización y proyectos]]",
+   "x": -1260,
+   "y": 368,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t1",
+   "type": "text",
+   "text": "[[Azure Repos]]",
+   "x": -1260,
+   "y": 440,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t2",
+   "type": "text",
+   "text": "[[Azure Pipelines]]",
+   "x": -1260,
+   "y": 512,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t3",
+   "type": "text",
+   "text": "[[Azure Pipelines - agentes]]",
+   "x": -1260,
+   "y": 584,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t4",
+   "type": "text",
+   "text": "[[Azure Pipelines - service connections]]",
+   "x": -1260,
+   "y": 656,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t5",
+   "type": "text",
+   "text": "[[Azure Pipelines - variable groups]]",
+   "x": -1260,
+   "y": 728,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t6",
+   "type": "text",
+   "text": "[[Azure Pipelines - environments y aprobaciones]]",
+   "x": -1260,
+   "y": 800,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t7",
+   "type": "text",
+   "text": "[[Azure Pipelines - plantillas]]",
+   "x": -1260,
+   "y": 872,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t8",
+   "type": "text",
+   "text": "[[Azure Boards]]",
+   "x": -1260,
+   "y": 944,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t9",
+   "type": "text",
+   "text": "[[Azure Artifacts]]",
+   "x": -1260,
+   "y": 1016,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g8t10",
+   "type": "text",
+   "text": "[[Azure Test Plans]]",
+   "x": -1260,
+   "y": 1088,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "s9",
+   "type": "text",
+   "text": "### Infraestructura como código",
+   "x": -820,
+   "y": 1349,
+   "width": 300,
+   "height": 70,
+   "color": "#00ACC1"
+  },
+  {
+   "id": "g9t0",
+   "type": "text",
+   "text": "[[ARM templates]]",
+   "x": -1260,
+   "y": 1240,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g9t1",
+   "type": "text",
+   "text": "[[Bicep]]",
+   "x": -1260,
+   "y": 1312,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g9t2",
+   "type": "text",
+   "text": "[[Terraform]]",
+   "x": -1260,
+   "y": 1384,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g9t3",
+   "type": "text",
+   "text": "[[PowerShell para Azure]]",
+   "x": -1260,
+   "y": 1456,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t5",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t6",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t7",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t8",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t9",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "g0t9",
+   "fromSide": "right",
+   "toNode": "g0t9c0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "g0t9",
+   "fromSide": "right",
+   "toNode": "g0t9c1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "g0t9",
+   "fromSide": "right",
+   "toNode": "g0t9c2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "g0t9",
+   "fromSide": "right",
+   "toNode": "g0t9c3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "g0t9",
+   "fromSide": "right",
+   "toNode": "g0t9c4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t2",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t3",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "g2t3",
+   "fromSide": "right",
+   "toNode": "g2t3c0",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "g2t3",
+   "fromSide": "right",
+   "toNode": "g2t3c1",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t4",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t5",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t6",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t7",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s2",
+   "fromSide": "right",
+   "toNode": "g2t8",
+   "toSide": "left",
+   "color": "#1E88E5",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s5",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t1",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "g5t1",
+   "fromSide": "right",
+   "toNode": "g5t1c0",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "g5t1",
+   "fromSide": "right",
+   "toNode": "g5t1c1",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "s5",
+   "fromSide": "right",
+   "toNode": "g5t2",
+   "toSide": "left",
+   "color": "#D81B60",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s6",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t0",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t1",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t2",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t3",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s6",
+   "fromSide": "right",
+   "toNode": "g6t4",
+   "toSide": "left",
+   "color": "#F4511E",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s7",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t0",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t1",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s7",
+   "fromSide": "right",
+   "toNode": "g7t2",
+   "toSide": "left",
+   "color": "#C0CA33",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e48",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t3",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e49",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t4",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e50",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t5",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e51",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t6",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e52",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t7",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e53",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t8",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e54",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t9",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e55",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t10",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e56",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e57",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e58",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e59",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t2",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e60",
+   "fromNode": "g3t2",
+   "fromSide": "left",
+   "toNode": "g3t2c0",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e61",
+   "fromNode": "g3t2",
+   "fromSide": "left",
+   "toNode": "g3t2c1",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e62",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t3",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e63",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t4",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e64",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t5",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e65",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t6",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e66",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t7",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e67",
+   "fromNode": "s3",
+   "fromSide": "left",
+   "toNode": "g3t8",
+   "toSide": "right",
+   "color": "#3949AB",
+   "toEnd": "none"
+  },
+  {
+   "id": "e68",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s4",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e69",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t0",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e70",
+   "fromNode": "s4",
+   "fromSide": "left",
+   "toNode": "g4t1",
+   "toSide": "right",
+   "color": "#8E24AA",
+   "toEnd": "none"
+  },
+  {
+   "id": "e71",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s8",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e72",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t0",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e73",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t1",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e74",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t2",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e75",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t3",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e76",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t4",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e77",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t5",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e78",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t6",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e79",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t7",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e80",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t8",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e81",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t9",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e82",
+   "fromNode": "s8",
+   "fromSide": "left",
+   "toNode": "g8t10",
+   "toSide": "right",
+   "color": "#6D4C41",
+   "toEnd": "none"
+  },
+  {
+   "id": "e83",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s9",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e84",
+   "fromNode": "s9",
+   "fromSide": "left",
+   "toNode": "g9t0",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e85",
+   "fromNode": "s9",
+   "fromSide": "left",
+   "toNode": "g9t1",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e86",
+   "fromNode": "s9",
+   "fromSide": "left",
+   "toNode": "g9t2",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  },
+  {
+   "id": "e87",
+   "fromNode": "s9",
+   "fromSide": "left",
+   "toNode": "g9t3",
+   "toSide": "right",
+   "color": "#00ACC1",
+   "toEnd": "none"
+  }
+ ]
+}

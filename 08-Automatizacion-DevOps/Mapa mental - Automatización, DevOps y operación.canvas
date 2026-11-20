@@ -1,0 +1,891 @@
+{
+ "nodes": [
+  {
+   "id": "root",
+   "type": "text",
+   "text": "# Automatización, DevOps y operación\nMapa de habilidades",
+   "x": -180,
+   "y": -60,
+   "width": 360,
+   "height": 120,
+   "color": "#5B8DEF"
+  },
+  {
+   "id": "s0",
+   "type": "text",
+   "text": "### Automatización y CICD",
+   "x": 520,
+   "y": -35,
+   "width": 300,
+   "height": 70,
+   "color": "#2E7D32"
+  },
+  {
+   "id": "g0t0",
+   "type": "text",
+   "text": "[[CI y CD - conceptos]]",
+   "x": 960,
+   "y": -1116,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t1",
+   "type": "text",
+   "text": "[[Alternativas para automatizar (comparativa)]]",
+   "x": 960,
+   "y": -1044,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t2",
+   "type": "text",
+   "text": "[[GitHub Actions]]",
+   "x": 960,
+   "y": -972,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t3",
+   "type": "text",
+   "text": "[[Jenkins (conceptos)]]",
+   "x": 960,
+   "y": -900,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t4",
+   "type": "text",
+   "text": "[[Infraestructura como código - conceptos]]",
+   "x": 960,
+   "y": -828,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t5",
+   "type": "text",
+   "text": "[[Pulumi]]",
+   "x": 960,
+   "y": -756,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t6",
+   "type": "text",
+   "text": "[[Scripts con PowerShell]]",
+   "x": 960,
+   "y": -684,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t7",
+   "type": "text",
+   "text": "[[Scripts con bash]]",
+   "x": 960,
+   "y": -612,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t8",
+   "type": "text",
+   "text": "[[Scripts con Python]]",
+   "x": 960,
+   "y": -540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t9",
+   "type": "text",
+   "text": "[[Docker]]",
+   "x": 960,
+   "y": -468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t10",
+   "type": "text",
+   "text": "[[Docker Compose]]",
+   "x": 960,
+   "y": -396,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t11",
+   "type": "text",
+   "text": "[[Kubernetes - conceptos básicos]]",
+   "x": 960,
+   "y": -324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t12",
+   "type": "text",
+   "text": "[[Azure Functions programadas]]",
+   "x": 960,
+   "y": -252,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t13",
+   "type": "text",
+   "text": "[[Logic Apps]]",
+   "x": 960,
+   "y": -180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t14",
+   "type": "text",
+   "text": "[[Power Automate]]",
+   "x": 960,
+   "y": -108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t15",
+   "type": "text",
+   "text": "[[n8n]]",
+   "x": 960,
+   "y": -36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t16",
+   "type": "text",
+   "text": "[[Zapier y Make]]",
+   "x": 960,
+   "y": 36,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t17",
+   "type": "text",
+   "text": "[[cron y Programador de tareas]]",
+   "x": 960,
+   "y": 108,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t18",
+   "type": "text",
+   "text": "[[Dependabot y Renovate]]",
+   "x": 960,
+   "y": 180,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t19",
+   "type": "text",
+   "text": "[[Estrategias de despliegue (blue-green y canary)]]",
+   "x": 960,
+   "y": 324,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t19c0",
+   "type": "text",
+   "text": "[[Despliegue blue-green]]",
+   "x": 1400,
+   "y": 252,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t19c1",
+   "type": "text",
+   "text": "[[Despliegue canary]]",
+   "x": 1400,
+   "y": 324,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t19c2",
+   "type": "text",
+   "text": "[[Despliegue rolling]]",
+   "x": 1400,
+   "y": 396,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t20",
+   "type": "text",
+   "text": "[[Rollback y gestión de releases]]",
+   "x": 960,
+   "y": 468,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t21",
+   "type": "text",
+   "text": "[[Feature flags]]",
+   "x": 960,
+   "y": 540,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t22",
+   "type": "text",
+   "text": "[[Análisis estático (SonarQube y linters)]]",
+   "x": 960,
+   "y": 612,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t23",
+   "type": "text",
+   "text": "[[Automatización con agentes de IA]]",
+   "x": 960,
+   "y": 684,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t24",
+   "type": "text",
+   "text": "[[GitOps]]",
+   "x": 960,
+   "y": 756,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t25",
+   "type": "text",
+   "text": "[[Métricas DORA]]",
+   "x": 960,
+   "y": 936,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g0t25c0",
+   "type": "text",
+   "text": "[[Frecuencia de despliegue (DORA)]]",
+   "x": 1400,
+   "y": 828,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t25c1",
+   "type": "text",
+   "text": "[[Tiempo de entrega de cambios (DORA)]]",
+   "x": 1400,
+   "y": 900,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t25c2",
+   "type": "text",
+   "text": "[[Tasa de fallos de cambios (DORA)]]",
+   "x": 1400,
+   "y": 972,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g0t25c3",
+   "type": "text",
+   "text": "[[Tiempo de recuperación de despliegues fallidos (DORA)]]",
+   "x": 1400,
+   "y": 1044,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "s1",
+   "type": "text",
+   "text": "### Operación en producción",
+   "x": -820,
+   "y": -35,
+   "width": 300,
+   "height": 70,
+   "color": "#00897B"
+  },
+  {
+   "id": "g1t0",
+   "type": "text",
+   "text": "[[SLI, SLO y SLA]]",
+   "x": -1260,
+   "y": -360,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t0c0",
+   "type": "text",
+   "text": "[[SLI (indicador de nivel de servicio)]]",
+   "x": -1680,
+   "y": -432,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t0c1",
+   "type": "text",
+   "text": "[[SLO (objetivo de nivel de servicio)]]",
+   "x": -1680,
+   "y": -360,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t0c2",
+   "type": "text",
+   "text": "[[SLA (acuerdo de nivel de servicio)]]",
+   "x": -1680,
+   "y": -288,
+   "width": 280,
+   "height": 56
+  },
+  {
+   "id": "g1t1",
+   "type": "text",
+   "text": "[[Error budgets]]",
+   "x": -1260,
+   "y": -216,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t2",
+   "type": "text",
+   "text": "[[Manejo de incidentes]]",
+   "x": -1260,
+   "y": -144,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t3",
+   "type": "text",
+   "text": "[[Postmortems sin culpables]]",
+   "x": -1260,
+   "y": -72,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t4",
+   "type": "text",
+   "text": "[[Runbooks]]",
+   "x": -1260,
+   "y": 0,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t5",
+   "type": "text",
+   "text": "[[Guardias (on-call)]]",
+   "x": -1260,
+   "y": 72,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t6",
+   "type": "text",
+   "text": "[[Recuperación ante desastres (RPO y RTO)]]",
+   "x": -1260,
+   "y": 144,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t7",
+   "type": "text",
+   "text": "[[Multi-región y alta disponibilidad]]",
+   "x": -1260,
+   "y": 216,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t8",
+   "type": "text",
+   "text": "[[Chaos engineering (conceptos)]]",
+   "x": -1260,
+   "y": 288,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "g1t9",
+   "type": "text",
+   "text": "[[Pruebas de carga (k6 y NBomber)]]",
+   "x": -1260,
+   "y": 360,
+   "width": 300,
+   "height": 56
+  },
+  {
+   "id": "ley",
+   "type": "text",
+   "text": "**Leyenda**\nGris: pendiente · Color de la rama: visto o dominado\nPídeme regenerar el mapa para actualizar colores.",
+   "x": -200,
+   "y": -330,
+   "width": 400,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "root",
+   "fromSide": "right",
+   "toNode": "s0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e1",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e2",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e3",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e4",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e5",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t4",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e6",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t5",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e7",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t6",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e8",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t7",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e9",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t8",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e10",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t9",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e11",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t10",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e12",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t11",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e13",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t12",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e14",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t13",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e15",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t14",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e16",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t15",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e17",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t16",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e18",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t17",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e19",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t18",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e20",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t19",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e21",
+   "fromNode": "g0t19",
+   "fromSide": "right",
+   "toNode": "g0t19c0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e22",
+   "fromNode": "g0t19",
+   "fromSide": "right",
+   "toNode": "g0t19c1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e23",
+   "fromNode": "g0t19",
+   "fromSide": "right",
+   "toNode": "g0t19c2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e24",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t20",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e25",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t21",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e26",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t22",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e27",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t23",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e28",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t24",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e29",
+   "fromNode": "s0",
+   "fromSide": "right",
+   "toNode": "g0t25",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e30",
+   "fromNode": "g0t25",
+   "fromSide": "right",
+   "toNode": "g0t25c0",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e31",
+   "fromNode": "g0t25",
+   "fromSide": "right",
+   "toNode": "g0t25c1",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e32",
+   "fromNode": "g0t25",
+   "fromSide": "right",
+   "toNode": "g0t25c2",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e33",
+   "fromNode": "g0t25",
+   "fromSide": "right",
+   "toNode": "g0t25c3",
+   "toSide": "left",
+   "color": "#2E7D32",
+   "toEnd": "none"
+  },
+  {
+   "id": "e34",
+   "fromNode": "root",
+   "fromSide": "left",
+   "toNode": "s1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e35",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e36",
+   "fromNode": "g1t0",
+   "fromSide": "left",
+   "toNode": "g1t0c0",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e37",
+   "fromNode": "g1t0",
+   "fromSide": "left",
+   "toNode": "g1t0c1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e38",
+   "fromNode": "g1t0",
+   "fromSide": "left",
+   "toNode": "g1t0c2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e39",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t1",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e40",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t2",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e41",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t3",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e42",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t4",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e43",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t5",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e44",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t6",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e45",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t7",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e46",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t8",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  },
+  {
+   "id": "e47",
+   "fromNode": "s1",
+   "fromSide": "left",
+   "toNode": "g1t9",
+   "toSide": "right",
+   "color": "#00897B",
+   "toEnd": "none"
+  }
+ ]
+}
