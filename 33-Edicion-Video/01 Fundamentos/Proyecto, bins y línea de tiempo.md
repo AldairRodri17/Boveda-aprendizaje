@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Edición de video
 tags: [edicion-video]
+contenido: completo
 ---
 # Proyecto, bins y línea de tiempo
 

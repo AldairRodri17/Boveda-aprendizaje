@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: IA y Machine Learning
 tags: [ia-machine-learning]
+contenido: completo
 ---
 # Transfer learning y fine-tuning
 

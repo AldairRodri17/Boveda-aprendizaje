@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Java
 tags: [java]
+contenido: completo
 ---
 # Streams en Java (map, filter y collect)
 

@@ -14,6 +14,7 @@ vigencia: "De por vida"
 verificado_el: 2026-11-09
 area: Agilidad
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # Scrum (PSM y PSPO)
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, lectura]
+contenido: completo
 ---
 # Lectura en inglés
 

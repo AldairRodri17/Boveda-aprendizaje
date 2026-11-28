@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Testing y calidad
 tags: [testing-calidad]
+contenido: completo
 ---
 # Pruebas end-to-end (Playwright y Cypress)
 

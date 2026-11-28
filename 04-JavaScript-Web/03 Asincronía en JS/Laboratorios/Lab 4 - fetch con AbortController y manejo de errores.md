@@ -7,6 +7,7 @@ estado: borrador
 area: JavaScript y Web
 herramienta: VS Code, navegador, DevTools y la API pública de prueba JSONPlaceholder
 tags: [javascript-web, laboratorio]
+contenido: completo
 ---
 # Lab 4 - fetch con AbortController y manejo de errores
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de video
 herramienta: Audacity + DaVinci Resolve (Fairlight)
 tags: [edicion-video, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Limpieza de voz y loudness para YouTube
 

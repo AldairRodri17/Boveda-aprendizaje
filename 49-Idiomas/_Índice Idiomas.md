@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Idiomas
 tags: [indice, idiomas]
+contenido: completo
 ---
 # Idiomas
 

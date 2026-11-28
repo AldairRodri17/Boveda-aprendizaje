@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro (cámara nativa)
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 01 - Las tres cámaras del iPhone y los formatos
 

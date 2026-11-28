@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Carrera y liderazgo técnico
 tags: [carrera-liderazgo]
+contenido: completo
 ---
 # Inglés técnico - hablar en reuniones y entrevistas
 

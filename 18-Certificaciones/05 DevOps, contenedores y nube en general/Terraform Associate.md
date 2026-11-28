@@ -14,6 +14,7 @@ vigencia: "2 años"
 verificado_el: 2026-11-09
 area: DevOps
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # Terraform Associate
 

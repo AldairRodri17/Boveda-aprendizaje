@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: Git (Git for Windows con Git Bash) y VS Code
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Ramas, merge, rebase y conflictos en Git
 

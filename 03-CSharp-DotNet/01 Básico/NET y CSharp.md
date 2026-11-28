@@ -17,6 +17,7 @@ tags:
   - csharp
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # .NET y C#
 

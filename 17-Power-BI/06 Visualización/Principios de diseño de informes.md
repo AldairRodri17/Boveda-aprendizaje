@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Power BI
 tags: [power-bi]
+contenido: completo
 ---
 # Principios de diseño de informes
 

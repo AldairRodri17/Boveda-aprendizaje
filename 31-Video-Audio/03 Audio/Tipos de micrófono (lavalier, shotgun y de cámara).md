@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Video y audio
 tags: [video-audio]
+contenido: completo
 ---
 # Tipos de micrófono (lavalier, shotgun y de cámara)
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Carrera y liderazgo técnico
 tags: [indice, carrera-liderazgo]
+contenido: completo
 ---
 # Carrera y liderazgo técnico
 

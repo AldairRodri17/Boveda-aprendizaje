@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Angular
 tags: [indice, angular]
+contenido: completo
 ---
 # Intermedio
 

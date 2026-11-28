@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Integraciones
 tags: [indice, integraciones]
+contenido: completo
 ---
 # Documentos y archivos
 

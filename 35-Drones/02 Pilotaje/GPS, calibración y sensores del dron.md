@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Drones
 tags: [drones]
+contenido: completo
 ---
 # GPS, calibración y sensores del dron
 

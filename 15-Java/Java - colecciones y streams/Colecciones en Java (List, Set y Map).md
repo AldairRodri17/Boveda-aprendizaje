@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Java
 tags: [java]
+contenido: completo
 ---
 # Colecciones en Java (List, Set y Map)
 

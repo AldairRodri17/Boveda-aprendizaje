@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: GIMP (y módulo retouch de darktable para la limpieza)
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 06 - Limpieza y retoque de piel
 

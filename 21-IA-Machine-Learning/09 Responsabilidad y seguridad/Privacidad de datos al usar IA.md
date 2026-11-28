@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: IA y Machine Learning
 tags: [ia-machine-learning]
+contenido: completo
 ---
 # Privacidad de datos al usar IA
 

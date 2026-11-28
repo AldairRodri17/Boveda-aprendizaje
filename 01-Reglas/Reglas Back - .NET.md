@@ -4,6 +4,7 @@ tipo: estructura
 estado: vigente
 tags: [estructura, reglas, backend, dotnet, sql, controllers]
 actualizado: 2026-11-08
+contenido: completo
 ---
 # Reglas Back - .NET
 

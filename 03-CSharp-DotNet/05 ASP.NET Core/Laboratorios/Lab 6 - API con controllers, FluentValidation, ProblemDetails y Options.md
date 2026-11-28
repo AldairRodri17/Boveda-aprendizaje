@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: .NET 10 SDK, VS Code y archivos .http
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 6 - API con controllers, FluentValidation, ProblemDetails y Options
 

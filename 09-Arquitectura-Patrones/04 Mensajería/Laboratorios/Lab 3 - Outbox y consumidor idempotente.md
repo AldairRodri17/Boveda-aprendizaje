@@ -7,6 +7,7 @@ estado: borrador
 area: Arquitectura y patrones
 herramienta: .NET SDK, SQL Server Express o LocalDB, EF Core
 tags: [arquitectura-patrones, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Outbox y consumidor idempotente
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Integraciones
 herramienta: .NET SDK, DocumentFormat.OpenXml y ClosedXML
 tags: [integraciones, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Generar un .docx y un .xlsx desde .NET
 

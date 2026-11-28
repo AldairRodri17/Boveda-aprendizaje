@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Angular
 tags: [angular]
+contenido: completo
 ---
 # RxJS - operadores más usados
 

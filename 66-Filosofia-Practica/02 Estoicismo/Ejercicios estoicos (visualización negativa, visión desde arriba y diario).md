@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, estoicismo]
+contenido: completo
 ---
 # Ejercicios estoicos (visualización negativa, visión desde arriba y diario)
 

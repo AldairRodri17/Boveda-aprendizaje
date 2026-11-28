@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Certificaciones
 tags: [certificaciones]
+contenido: completo
 ---
 # Certificaciones de SQL y bases de datos
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Laboratorios y práctica
 tags: [laboratorios-practica]
+contenido: completo
 ---
 # Microsoft Learn - rutas gratuitas de Azure
 

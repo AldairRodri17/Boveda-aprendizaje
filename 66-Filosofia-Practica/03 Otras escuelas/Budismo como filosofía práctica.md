@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia]
+contenido: completo
 ---
 # Budismo como filosofía práctica
 

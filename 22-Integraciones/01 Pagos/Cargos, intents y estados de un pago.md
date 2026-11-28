@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Integraciones
 tags: [integraciones]
+contenido: completo
 ---
 # Cargos, intents y estados de un pago
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Fundamentos
 tags: [fundamentos]
+contenido: completo
 ---
 # SOLID - Inversión de dependencias (DIP)
 

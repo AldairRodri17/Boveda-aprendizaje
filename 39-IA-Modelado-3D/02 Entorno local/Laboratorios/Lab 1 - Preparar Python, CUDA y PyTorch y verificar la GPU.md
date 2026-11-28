@@ -7,6 +7,7 @@ estado: borrador
 area: IA para modelado 3D
 herramienta: Windows, driver NVIDIA, Python 3.10, PyTorch con CUDA (gratuitos), terminal de PowerShell
 tags: [ia-modelado-3d, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Preparar Python, CUDA y PyTorch y verificar la GPU
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Edición de fotografía
 tags: [edicion-foto]
+contenido: completo
 ---
 # Espacios de color (sRGB, Adobe RGB y Display P3)
 

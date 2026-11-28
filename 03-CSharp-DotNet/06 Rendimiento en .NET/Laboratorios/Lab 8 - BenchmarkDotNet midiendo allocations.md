@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: .NET 10 SDK y BenchmarkDotNet
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 8 - BenchmarkDotNet midiendo allocations
 

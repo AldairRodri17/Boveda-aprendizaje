@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, arquitectura, puertos-y-adaptadores]
 progreso: pendiente
 area: Arquitectura y patrones
+contenido: completo
 ---
 # Arquitectura hexagonal
 

@@ -7,6 +7,7 @@ estado: borrador
 area: JavaScript y Web
 herramienta: VS Code y navegador
 tags: [javascript-web, laboratorio]
+contenido: completo
 ---
 # Lab 6 - Web Component con Shadow DOM
 

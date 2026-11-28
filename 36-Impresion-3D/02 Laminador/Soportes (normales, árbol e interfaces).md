@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Impresión 3D
 tags: [impresion-3d]
+contenido: completo
 ---
 # Soportes (normales, árbol e interfaces)
 
@@ -82,5 +83,5 @@ Contesta primero en voz alta o en papel; luego despliega la respuesta.
 
 ## Práctica
 
-- [[Lab 7 - Posprocesado: soportes, lijado, primer y pintura]]
+- [[Lab 7 - Posprocesado soportes, lijado, primer y pintura]]
 

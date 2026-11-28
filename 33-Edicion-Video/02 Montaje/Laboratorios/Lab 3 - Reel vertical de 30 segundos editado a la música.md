@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de video
 herramienta: DaVinci Resolve o CapCut
 tags: [edicion-video, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Reel vertical de 30 segundos editado a la música
 

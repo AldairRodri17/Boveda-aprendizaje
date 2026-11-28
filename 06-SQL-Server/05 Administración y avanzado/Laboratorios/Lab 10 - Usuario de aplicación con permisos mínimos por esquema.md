@@ -7,6 +7,7 @@ estado: borrador
 area: SQL Server
 herramienta: SQL Server Developer o Express + SSMS
 tags: [sql-server, laboratorio]
+contenido: completo
 ---
 # Lab 10 - Usuario de aplicación con permisos mínimos por esquema
 

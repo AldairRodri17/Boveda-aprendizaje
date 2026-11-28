@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro (modos Pano y Time-lapse) + tripié; Hugin (gratis) para unir
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 10 - Panorámica y time-lapse
 

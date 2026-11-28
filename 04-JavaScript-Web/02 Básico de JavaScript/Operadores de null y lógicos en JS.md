@@ -7,6 +7,7 @@ estado: pendiente
 area: JavaScript y Web
 aliases: ["Operadores (??, ?., ||)"]
 tags: [javascript-web]
+contenido: completo
 ---
 # Operadores de null y lógicos en JS
 

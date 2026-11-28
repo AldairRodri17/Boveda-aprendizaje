@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Drones
 tags: [drones]
+contenido: completo
 ---
 # Categorías de uso de drones (recreativo, privado y comercial)
 

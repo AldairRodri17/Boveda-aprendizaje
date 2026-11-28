@@ -7,6 +7,7 @@ estado: borrador
 area: Arquitectura y patrones
 herramienta: .NET SDK, VS Code y xUnit
 tags: [arquitectura-patrones, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Refactor de un switch a Strategy
 

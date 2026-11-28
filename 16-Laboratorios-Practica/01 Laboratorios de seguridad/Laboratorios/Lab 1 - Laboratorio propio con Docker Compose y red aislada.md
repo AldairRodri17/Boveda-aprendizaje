@@ -7,6 +7,7 @@ estado: borrador
 area: Laboratorios y práctica
 herramienta: Docker Desktop, Docker Compose
 tags: [laboratorios-practica, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Laboratorio propio con Docker Compose y red aislada
 

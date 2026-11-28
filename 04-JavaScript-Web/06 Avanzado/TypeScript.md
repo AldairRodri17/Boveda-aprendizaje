@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, typescript]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # TypeScript
 

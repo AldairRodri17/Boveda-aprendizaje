@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: .NET 10 SDK y archivos .http
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Cliente HTTP tipado con resiliencia y health checks
 

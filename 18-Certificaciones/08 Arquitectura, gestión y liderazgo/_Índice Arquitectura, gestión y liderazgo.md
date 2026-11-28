@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Certificaciones
 tags: [indice, certificaciones]
+contenido: completo
 ---
 # Arquitectura, gestión y liderazgo
 

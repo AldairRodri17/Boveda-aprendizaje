@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Drones
 tags: [drones]
+contenido: completo
 ---
 # Revisión antes de despegar (checklist)
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Modelado 3D técnico
 tags: [indice, modelado-3d-tecnico]
+contenido: completo
 ---
 # Proyectos técnicos
 

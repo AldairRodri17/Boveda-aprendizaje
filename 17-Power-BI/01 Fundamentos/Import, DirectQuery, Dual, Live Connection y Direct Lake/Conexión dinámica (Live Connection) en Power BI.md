@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Power BI
 tags: [power-bi]
+contenido: completo
 ---
 # Conexión dinámica (Live Connection) en Power BI
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Arquitectura y patrones
 tags: [indice, arquitectura-patrones, rol-arquitecto]
+contenido: completo
 ---
 # El rol del arquitecto
 

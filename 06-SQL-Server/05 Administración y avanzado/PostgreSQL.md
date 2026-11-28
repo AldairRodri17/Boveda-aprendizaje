@@ -13,6 +13,7 @@ tags:
   - postgres
 progreso: pendiente
 area: SQL Server
+contenido: completo
 ---
 # PostgreSQL
 

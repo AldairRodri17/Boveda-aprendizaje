@@ -14,6 +14,7 @@ tags:
   - mexico
 progreso: pendiente
 area: Integraciones
+contenido: completo
 ---
 # OpenPay
 

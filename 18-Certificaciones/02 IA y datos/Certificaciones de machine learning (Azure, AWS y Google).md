@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Certificaciones
 tags: [certificaciones]
+contenido: completo
 ---
 # Certificaciones de machine learning (Azure, AWS y Google)
 

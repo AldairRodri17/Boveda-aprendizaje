@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Carrera y liderazgo técnico
 tags: [carrera-liderazgo]
+contenido: completo
 ---
 # Práctica deliberada (katas de código y de diseño)
 

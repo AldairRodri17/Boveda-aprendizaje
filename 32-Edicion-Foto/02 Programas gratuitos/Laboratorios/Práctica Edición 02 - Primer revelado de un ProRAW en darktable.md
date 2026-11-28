@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: darktable/Ansel + un ProRAW del iPhone 15 Pro
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 02 - Primer revelado de un ProRAW en darktable
 

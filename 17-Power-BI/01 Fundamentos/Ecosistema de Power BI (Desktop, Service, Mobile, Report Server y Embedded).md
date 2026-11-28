@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Power BI
 tags: [power-bi]
+contenido: completo
 ---
 # Ecosistema de Power BI (Desktop, Service, Mobile, Report Server y Embedded)
 

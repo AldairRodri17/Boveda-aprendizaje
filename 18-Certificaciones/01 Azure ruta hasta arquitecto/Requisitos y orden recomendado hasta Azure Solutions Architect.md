@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Certificaciones
 tags: [certificaciones]
+contenido: completo
 ---
 # Requisitos y orden recomendado hasta Azure Solutions Architect
 

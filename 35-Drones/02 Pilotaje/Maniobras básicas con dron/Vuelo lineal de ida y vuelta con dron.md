@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Drones
 tags: [drones]
+contenido: completo
 ---
 # Vuelo lineal de ida y vuelta con dron
 

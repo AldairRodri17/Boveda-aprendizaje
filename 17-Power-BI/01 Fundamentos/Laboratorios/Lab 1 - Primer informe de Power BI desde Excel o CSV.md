@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Primer informe de Power BI desde Excel o CSV
 

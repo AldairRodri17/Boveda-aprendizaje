@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de video
 herramienta: DaVinci Resolve (opcional: editor de texto)
 tags: [edicion-video, laboratorio]
+contenido: completo
 ---
 # Lab 6 - Subtítulos SRT y lower third
 

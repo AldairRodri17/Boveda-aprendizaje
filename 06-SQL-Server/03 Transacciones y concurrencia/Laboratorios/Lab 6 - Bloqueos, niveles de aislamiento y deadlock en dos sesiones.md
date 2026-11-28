@@ -7,6 +7,7 @@ estado: borrador
 area: SQL Server
 herramienta: SQL Server Developer o Express + SSMS (tres ventanas de consulta)
 tags: [sql-server, laboratorio]
+contenido: completo
 ---
 # Lab 6 - Bloqueos, niveles de aislamiento y deadlock en dos sesiones
 

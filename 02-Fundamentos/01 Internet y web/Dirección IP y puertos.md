@@ -7,6 +7,7 @@ estado: pendiente
 area: Fundamentos
 tags:
   - fundamentos
+contenido: completo
 ---
 # Dirección IP y puertos
 

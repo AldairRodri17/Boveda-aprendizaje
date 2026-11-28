@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro + PC con Windows + disco externo
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 11 - Importar, organizar y respaldar
 

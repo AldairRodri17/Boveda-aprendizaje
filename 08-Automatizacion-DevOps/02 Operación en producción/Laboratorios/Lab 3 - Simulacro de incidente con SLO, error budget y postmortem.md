@@ -7,6 +7,7 @@ estado: borrador
 area: Automatización, DevOps y operación
 herramienta: Papel, hoja de cálculo o Python; plantilla de postmortem en esta bóveda
 tags: [automatizacion-devops, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Simulacro de incidente con SLO, error budget y postmortem
 

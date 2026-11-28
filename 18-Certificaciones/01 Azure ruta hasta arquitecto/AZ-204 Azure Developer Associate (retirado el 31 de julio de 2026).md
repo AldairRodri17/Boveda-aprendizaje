@@ -14,6 +14,7 @@ vigencia: "1 año para quien ya la tiene; ya no se puede obtener"
 verificado_el: 2026-11-09
 area: Azure
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # AZ-204 Azure Developer Associate (retirado el 31 de julio de 2026)
 

@@ -14,6 +14,7 @@ vigencia: "OSCP no vence; el “+” vence a los 3 años"
 verificado_el: 2026-11-09
 area: Seguridad
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # OSCP
 

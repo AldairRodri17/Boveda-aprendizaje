@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Arquitectura y patrones
 tags: [arquitectura-patrones]
+contenido: completo
 ---
 # Las doce factores (12-factor)
 

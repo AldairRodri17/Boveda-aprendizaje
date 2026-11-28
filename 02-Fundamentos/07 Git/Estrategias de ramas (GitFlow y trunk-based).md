@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Fundamentos
 tags: [fundamentos]
+contenido: completo
 ---
 # Estrategias de ramas (GitFlow y trunk-based)
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Astronomía y astrofotografía
 tags: [indice, astronomia]
+contenido: completo
 ---
 # Astrofotografía avanzada
 

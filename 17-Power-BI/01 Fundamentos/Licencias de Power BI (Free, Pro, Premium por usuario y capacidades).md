@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Power BI
 tags: [power-bi]
+contenido: completo
 ---
 # Licencias de Power BI (Free, Pro, Premium por usuario y capacidades)
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de video
 herramienta: DaVinci Resolve
 tags: [edicion-video, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Montaje de entrevista con J-cuts y L-cuts
 

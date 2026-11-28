@@ -7,6 +7,7 @@ estado: borrador
 area: Idiomas
 herramienta: YouTube (con subtítulos), grabadora del celular, Audacity opcional
 tags: [idiomas, ingles, pronunciacion, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Shadowing de un video de 2 minutos
 

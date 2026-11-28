@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, a2, vocabulario]
+contenido: completo
 ---
 # Inglés A2 - vocabulario de trabajo, viajes y compras
 

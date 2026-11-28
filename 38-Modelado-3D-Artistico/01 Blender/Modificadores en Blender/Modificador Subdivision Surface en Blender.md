@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Modelado 3D artístico
 tags: [modelado-3d-artistico]
+contenido: completo
 ---
 # Modificador Subdivision Surface en Blender
 

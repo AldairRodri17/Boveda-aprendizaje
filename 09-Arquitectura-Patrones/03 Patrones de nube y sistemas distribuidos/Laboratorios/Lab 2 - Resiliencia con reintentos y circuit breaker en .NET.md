@@ -7,6 +7,7 @@ estado: borrador
 area: Arquitectura y patrones
 herramienta: .NET SDK, Microsoft.Extensions.Http.Resilience (Polly)
 tags: [arquitectura-patrones, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Resiliencia con reintentos y circuit breaker en .NET
 

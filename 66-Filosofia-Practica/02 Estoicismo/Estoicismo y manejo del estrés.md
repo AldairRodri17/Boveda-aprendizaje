@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, estoicismo, salud-mental]
+contenido: completo
 ---
 # Estoicismo y manejo del estrés
 

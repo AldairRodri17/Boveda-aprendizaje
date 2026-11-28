@@ -7,6 +7,7 @@ estado: borrador
 area: React
 herramienta: Vite + React, VS Code y React DevTools
 tags: [react, laboratorio]
+contenido: completo
 ---
 # Lab 1 - App de notas con estado y efectos
 

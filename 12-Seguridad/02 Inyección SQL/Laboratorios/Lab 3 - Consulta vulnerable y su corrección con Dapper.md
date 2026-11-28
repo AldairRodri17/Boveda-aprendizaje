@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: .NET SDK, Dapper, SQL Server Developer o Express (o LocalDB)
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Consulta vulnerable y su corrección con Dapper
 

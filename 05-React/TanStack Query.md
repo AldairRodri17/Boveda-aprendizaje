@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, react, datos, cache]
 progreso: pendiente
 area: React
+contenido: completo
 ---
 # TanStack Query
 

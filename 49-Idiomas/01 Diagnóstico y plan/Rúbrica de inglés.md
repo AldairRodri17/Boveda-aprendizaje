@@ -7,6 +7,7 @@ estado: revisada
 area: Idiomas
 nivel_ingles: por-definir
 tags: [idiomas, ingles, rubrica, evaluacion]
+contenido: completo
 ---
 # Rúbrica de inglés
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Escritura clara
 tags: [indice, escritura]
+contenido: completo
 ---
 # Caligrafía
 

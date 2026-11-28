@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D técnico
 herramienta: Onshape o FreeCAD + OpenSCAD opcional + Elegoo Centauri 2 Combo con ElegooSlicer; regla metálica (calibrador recomendado)
 tags: [modelado-3d-tecnico, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Soporte de iPhone para tripié con tuerca atrapada
 

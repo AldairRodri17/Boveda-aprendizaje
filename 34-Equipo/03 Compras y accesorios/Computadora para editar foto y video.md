@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Equipo
 tags: [equipo]
+contenido: completo
 ---
 # Computadora para editar foto y video
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, writing]
+contenido: completo
 ---
 # Diario en inglés
 

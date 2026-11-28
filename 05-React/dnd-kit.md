@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, react, drag-and-drop, accesibilidad]
 progreso: pendiente
 area: React
+contenido: completo
 ---
 # dnd-kit
 

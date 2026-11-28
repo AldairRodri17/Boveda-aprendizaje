@@ -18,6 +18,7 @@ tags:
   - idempotencia
 progreso: pendiente
 area: Fundamentos
+contenido: completo
 ---
 # Idempotencia
 

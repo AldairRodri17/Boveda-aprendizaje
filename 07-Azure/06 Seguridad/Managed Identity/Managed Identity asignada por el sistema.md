@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Azure
 tags: [azure]
+contenido: completo
 ---
 # Managed Identity asignada por el sistema
 

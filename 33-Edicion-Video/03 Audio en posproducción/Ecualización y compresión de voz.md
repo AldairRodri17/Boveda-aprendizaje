@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Edición de video
 tags: [edicion-video]
+contenido: completo
 ---
 # Ecualización y compresión de voz
 

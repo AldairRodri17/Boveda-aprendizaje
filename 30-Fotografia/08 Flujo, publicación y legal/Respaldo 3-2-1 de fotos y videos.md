@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Fotografía
 tags: [fotografia]
+contenido: completo
 ---
 # Respaldo 3-2-1 de fotos y videos
 

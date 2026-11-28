@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Fotografía
 tags: [fotografia]
+contenido: completo
 ---
 # Permiso de modelo y fotografía en espacios públicos en México
 

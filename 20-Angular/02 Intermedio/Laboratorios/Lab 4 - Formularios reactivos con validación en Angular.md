@@ -7,6 +7,7 @@ estado: borrador
 area: Angular
 herramienta: Angular CLI
 tags: [angular, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Formularios reactivos con validación en Angular
 

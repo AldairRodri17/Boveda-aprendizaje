@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Video y audio
 tags: [video-audio]
+contenido: completo
 ---
 # Creación de contenido (ganchos, retención y constancia)
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Automatización, DevOps y operación
 herramienta: GitHub (repositorio gratuito) y GitHub Actions
 tags: [automatizacion-devops, laboratorio]
+contenido: completo
 ---
 # Lab 2 - GitHub Actions de build y pruebas
 

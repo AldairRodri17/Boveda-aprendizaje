@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Laboratorios y práctica
 tags: [laboratorios-practica]
+contenido: completo
 ---
 # Comparativa de capas gratuitas de nubes (AWS, Azure, Google Cloud y Oracle)
 

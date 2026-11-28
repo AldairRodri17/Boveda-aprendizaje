@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: IA y Machine Learning
 tags: [ia-machine-learning]
+contenido: completo
 ---
 # Ruta de aprendizaje de IA (de cero a agentes)
 

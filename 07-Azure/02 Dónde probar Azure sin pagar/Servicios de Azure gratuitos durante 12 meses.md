@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Azure
 tags: [azure]
+contenido: completo
 ---
 # Servicios de Azure gratuitos durante 12 meses
 

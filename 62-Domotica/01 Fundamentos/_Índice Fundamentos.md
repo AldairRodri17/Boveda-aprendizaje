@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Domótica y casa inteligente
 tags: [indice, domotica]
+contenido: completo
 ---
 # Fundamentos
 

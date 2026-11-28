@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, pronunciacion]
+contenido: completo
 ---
 # Acento y ritmo de la oración en inglés
 

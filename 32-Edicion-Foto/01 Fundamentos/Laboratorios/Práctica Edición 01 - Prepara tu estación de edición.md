@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: PC con Windows + darktable/Ansel
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 01 - Prepara tu estación de edición
 

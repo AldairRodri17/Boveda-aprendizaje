@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Drones
 tags: [drones]
+contenido: completo
 ---
 # Viento, clima y retorno automático (RTH)
 

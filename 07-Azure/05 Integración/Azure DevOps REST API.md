@@ -13,6 +13,7 @@ tags:
   - integracion
 progreso: pendiente
 area: Azure
+contenido: completo
 ---
 # Azure DevOps REST API
 

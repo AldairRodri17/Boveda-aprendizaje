@@ -7,6 +7,7 @@ estado: borrador
 area: SQL Server
 herramienta: SQL Server 2022 Developer + SSMS (informes de Query Store)
 tags: [sql-server, laboratorio]
+contenido: completo
 ---
 # Lab 8 - Parameter sniffing y Query Store
 

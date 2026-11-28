@@ -15,6 +15,7 @@ tags:
   - datos
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Dapper
 

@@ -7,6 +7,7 @@ estado: borrador
 area: IA para modelado 3D
 herramienta: iPhone 15 Pro (Reality Composer con Object Capture o Scaniverse), TripoSR o Hunyuan3D-2mini, Blender, calibrador o regla
 tags: [ia-modelado-3d, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Escaneo con iPhone vs IA del mismo objeto
 

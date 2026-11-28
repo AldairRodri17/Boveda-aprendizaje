@@ -7,6 +7,7 @@ estado: borrador
 area: Azure
 herramienta: Azure CLI en Cloud Shell (suscripción propia con presupuesto)
 tags: [azure, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Crear y borrar recursos con Azure CLI en el sandbox
 

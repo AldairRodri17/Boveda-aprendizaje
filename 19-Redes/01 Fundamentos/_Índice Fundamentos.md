@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Redes
 tags: [indice, redes]
+contenido: completo
 ---
 # Fundamentos
 

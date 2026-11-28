@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: SQL Server
 tags: [sql-server]
+contenido: completo
 ---
 # CREATE OR ALTER y scripts idempotentes
 

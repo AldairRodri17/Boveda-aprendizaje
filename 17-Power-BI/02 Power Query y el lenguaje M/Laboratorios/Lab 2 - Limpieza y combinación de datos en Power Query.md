@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop (Power Query)
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Limpieza y combinación de datos en Power Query
 

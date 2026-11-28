@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, pronunciacion]
+contenido: completo
 ---
 # Sonidos del inglés que no existen en español
 

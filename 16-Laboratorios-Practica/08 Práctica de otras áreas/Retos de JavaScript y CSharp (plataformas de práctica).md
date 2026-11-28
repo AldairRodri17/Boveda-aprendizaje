@@ -7,6 +7,7 @@ estado: pendiente
 area: Laboratorios y práctica
 aliases: ["Retos de JavaScript y C# (plataformas de práctica)"]
 tags: [laboratorios-practica]
+contenido: completo
 ---
 # Retos de JavaScript y CSharp (plataformas de práctica)
 

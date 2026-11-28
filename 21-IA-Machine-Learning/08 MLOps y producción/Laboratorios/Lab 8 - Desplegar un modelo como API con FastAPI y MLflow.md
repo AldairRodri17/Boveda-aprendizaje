@@ -7,6 +7,7 @@ estado: borrador
 area: IA y Machine Learning
 herramienta: Python local con scikit-learn, MLflow, FastAPI y uvicorn (Docker opcional)
 tags: [ia-machine-learning, laboratorio]
+contenido: completo
 ---
 # Lab 8 - Desplegar un modelo como API con FastAPI y MLflow
 

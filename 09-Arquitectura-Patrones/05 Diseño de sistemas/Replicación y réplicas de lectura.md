@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Arquitectura y patrones
 tags: [arquitectura-patrones]
+contenido: completo
 ---
 # Replicación y réplicas de lectura
 

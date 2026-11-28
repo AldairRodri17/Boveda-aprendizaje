@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, datos, orm]
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Entity Framework Core
 

@@ -14,6 +14,7 @@ tags:
   - mensajeria
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Patrón Outbox
 

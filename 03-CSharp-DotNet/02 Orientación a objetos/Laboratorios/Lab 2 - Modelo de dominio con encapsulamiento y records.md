@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: .NET 10 SDK, VS Code y xUnit
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Modelo de dominio con encapsulamiento y records
 

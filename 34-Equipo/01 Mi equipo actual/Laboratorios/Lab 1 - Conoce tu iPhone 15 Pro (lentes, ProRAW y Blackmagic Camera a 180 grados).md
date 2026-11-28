@@ -7,6 +7,7 @@ estado: borrador
 area: Equipo
 herramienta: iPhone 15 Pro, app Cámara, app Blackmagic Camera (gratuita), DaVinci Resolve (gratuito)
 tags: [equipo, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Conoce tu iPhone 15 Pro (lentes, ProRAW y Blackmagic Camera a 180 grados)
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Impresión 3D
 tags: [indice, impresion-3d]
+contenido: completo
 ---
 # Comunidad, licencias y costos
 

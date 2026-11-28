@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: darktable/Ansel
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 08 - Blanco y negro con intención
 

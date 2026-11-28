@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Seguridad
 tags: [seguridad]
+contenido: completo
 ---
 # Ciclo de desarrollo seguro (SSDLC)
 

@@ -14,6 +14,7 @@ tags:
   - persistencia
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Repository
 

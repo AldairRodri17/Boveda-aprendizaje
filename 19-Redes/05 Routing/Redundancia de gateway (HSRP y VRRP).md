@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Redes
 tags: [redes]
+contenido: completo
 ---
 # Redundancia de gateway (HSRP y VRRP)
 

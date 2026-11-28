@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D artístico
 herramienta: Blender (gratuito) con mouse + Elegoo Centauri 2 Combo con ElegooSlicer
 tags: [modelado-3d-artistico, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Busto estilizado original esculpido con mouse
 

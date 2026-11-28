@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Redes
 tags: [redes]
+contenido: completo
 ---
 # STP (Spanning Tree) y RSTP
 

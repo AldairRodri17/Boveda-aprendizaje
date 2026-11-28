@@ -14,6 +14,7 @@ vigencia: "No vence (Fundamentals)"
 verificado_el: 2026-11-09
 area: Seguridad
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # SC-900 Security, Compliance and Identity Fundamentals
 

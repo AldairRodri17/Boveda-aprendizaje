@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Angular
 tags: [angular]
+contenido: completo
 ---
 # Pruebas en Angular (unitarias y de componentes)
 

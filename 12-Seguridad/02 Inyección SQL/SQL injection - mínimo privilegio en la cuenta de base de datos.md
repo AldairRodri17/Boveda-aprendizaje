@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Seguridad
 tags: [seguridad]
+contenido: completo
 ---
 # SQL injection - mínimo privilegio en la cuenta de base de datos
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: C# y .NET
 tags: [csharp-dotnet]
+contenido: completo
 ---
 # Analizadores de Roslyn y warnings como errores
 

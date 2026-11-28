@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, abortcontroller, cancelacion]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # AbortController
 

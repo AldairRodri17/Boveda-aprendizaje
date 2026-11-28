@@ -7,6 +7,7 @@ estado: borrador
 area: Drones
 herramienta: DaVinci Resolve (gratuito)
 tags: [drones, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Edición de material aéreo en DaVinci Resolve
 

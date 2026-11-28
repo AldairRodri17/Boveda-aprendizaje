@@ -7,6 +7,7 @@ estado: borrador
 area: Angular
 herramienta: Angular CLI y el API público JSONPlaceholder
 tags: [angular, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Servicio, HttpClient e interceptor en Angular
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Integraciones
 herramienta: Cuenta de Stripe en modo de prueba, Stripe CLI y .NET SDK
 tags: [integraciones, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Pago de prueba con Stripe y webhook en .NET
 

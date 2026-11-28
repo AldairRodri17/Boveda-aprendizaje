@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Fotografía
 tags: [fotografia]
+contenido: completo
 ---
 # Metadatos EXIF e IPTC
 

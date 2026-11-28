@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, spa, router]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # SPA y router por hash
 

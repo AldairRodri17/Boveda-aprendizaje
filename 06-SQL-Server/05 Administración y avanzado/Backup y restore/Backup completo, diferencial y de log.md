@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: SQL Server
 tags: [sql-server]
+contenido: completo
 ---
 # Backup completo, diferencial y de log
 

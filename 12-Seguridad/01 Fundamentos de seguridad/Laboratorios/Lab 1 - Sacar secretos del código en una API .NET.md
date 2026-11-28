@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: .NET SDK, dotnet user-secrets, variables de entorno
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Sacar secretos del código en una API .NET
 

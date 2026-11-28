@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Carrera y liderazgo técnico
 tags: [carrera-liderazgo]
+contenido: completo
 ---
 # Escalera de carrera (junior, semi senior, senior, staff)
 

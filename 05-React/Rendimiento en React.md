@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: React
 tags: [react]
+contenido: completo
 ---
 # Rendimiento en React
 

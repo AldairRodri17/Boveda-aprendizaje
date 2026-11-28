@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: .NET 10 SDK y VS Code (o LINQPad)
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Consola con LINQ y genéricos
 

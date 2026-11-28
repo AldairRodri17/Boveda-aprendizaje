@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Automatización, DevOps y operación
 tags: [indice, automatizacion-devops]
+contenido: completo
 ---
 # Operación en producción
 

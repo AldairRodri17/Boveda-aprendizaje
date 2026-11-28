@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, carrera]
+contenido: completo
 ---
 # Aplicar la filosofía en el trabajo
 

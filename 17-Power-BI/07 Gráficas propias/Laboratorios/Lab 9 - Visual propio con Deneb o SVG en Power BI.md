@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop + Deneb (AppSource, gratuito)
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 9 - Visual propio con Deneb o SVG en Power BI
 

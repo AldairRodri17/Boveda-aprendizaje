@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Impresión 3D
 tags: [impresion-3d]
+contenido: completo
 ---
 # Personajes y marcas registradas en impresión 3D
 

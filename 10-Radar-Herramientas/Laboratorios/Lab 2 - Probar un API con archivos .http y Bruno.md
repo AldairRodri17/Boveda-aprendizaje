@@ -7,6 +7,7 @@ estado: borrador
 area: Radar de herramientas
 herramienta: VS Code (REST Client) o Visual Studio, Bruno
 tags: [radar-herramientas, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Probar un API con archivos .http y Bruno
 

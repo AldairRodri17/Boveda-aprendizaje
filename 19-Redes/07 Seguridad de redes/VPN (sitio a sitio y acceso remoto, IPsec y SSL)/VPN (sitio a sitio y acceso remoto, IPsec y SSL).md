@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Redes
 tags: [redes]
+contenido: completo
 ---
 # VPN (sitio a sitio y acceso remoto, IPsec y SSL)
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D artístico
 herramienta: Figura impresa propia (p. ej. el busto del Lab 2), lija, primer en aerosol, acrílicos, pinceles
 tags: [modelado-3d-artistico, laboratorio]
+contenido: completo
 ---
 # Lab 6 - Pintar una figura impresa (primer, base, lavado y pincel seco)
 

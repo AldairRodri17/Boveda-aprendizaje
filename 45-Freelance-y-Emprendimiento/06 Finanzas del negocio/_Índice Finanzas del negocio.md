@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Freelance y emprendimiento
 tags: [indice, freelance]
+contenido: completo
 ---
 # Finanzas del negocio
 

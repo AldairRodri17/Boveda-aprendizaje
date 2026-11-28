@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Equipo
 tags: [equipo]
+contenido: completo
 ---
 # ProRes y Apple Log en el iPhone 15 Pro
 

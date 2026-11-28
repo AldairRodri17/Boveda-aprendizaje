@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Impresión 3D
 tags: [impresion-3d]
+contenido: completo
 ---
 # Partes de una impresora FDM (CoreXY, extrusor, hotend y cama)
 

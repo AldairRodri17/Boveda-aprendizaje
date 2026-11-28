@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Arquitectura y patrones
 tags: [arquitectura-patrones]
+contenido: completo
 ---
 # Dead letter queues y mensajes venenosos
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Java
 herramienta: JDK (Temurin o Microsoft Build of OpenJDK), VS Code con Extension Pack for Java
 tags: [java, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Primer programa Java con javac, jar y jshell
 

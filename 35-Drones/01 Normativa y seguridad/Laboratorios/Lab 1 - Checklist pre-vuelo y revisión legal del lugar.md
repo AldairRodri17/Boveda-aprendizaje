@@ -7,6 +7,7 @@ estado: borrador
 area: Drones
 herramienta: DJI Mini 4K, DJI Fly, báscula de cocina, texto de la NOM-107 (DOF)
 tags: [drones, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Checklist pre-vuelo y revisión legal del lugar
 

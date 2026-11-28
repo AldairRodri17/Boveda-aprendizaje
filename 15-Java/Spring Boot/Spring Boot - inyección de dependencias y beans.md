@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Java
 tags: [java]
+contenido: completo
 ---
 # Spring Boot - inyección de dependencias y beans
 

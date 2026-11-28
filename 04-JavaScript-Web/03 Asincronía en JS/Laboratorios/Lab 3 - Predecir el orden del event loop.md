@@ -7,6 +7,7 @@ estado: borrador
 area: JavaScript y Web
 herramienta: Node.js o consola del navegador
 tags: [javascript-web, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Predecir el orden del event loop
 

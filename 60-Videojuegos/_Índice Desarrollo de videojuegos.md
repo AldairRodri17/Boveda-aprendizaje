@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Desarrollo de videojuegos
 tags: [indice, videojuegos]
+contenido: completo
 ---
 # Desarrollo de videojuegos
 

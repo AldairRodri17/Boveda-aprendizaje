@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Restauración del Vocho
 tags: [indice, vocho]
+contenido: completo
 ---
 # Motor
 

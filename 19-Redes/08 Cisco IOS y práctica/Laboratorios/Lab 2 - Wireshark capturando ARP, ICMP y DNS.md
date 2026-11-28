@@ -7,6 +7,7 @@ estado: borrador
 area: Redes
 herramienta: Wireshark (en tu PC con Windows)
 tags: [redes, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Wireshark capturando ARP, ICMP y DNS
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Equipo
 herramienta: Hoja de cálculo (Google Sheets o LibreOffice Calc), Python opcional
 tags: [equipo, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Plan de almacenamiento y respaldo de mis grabaciones
 

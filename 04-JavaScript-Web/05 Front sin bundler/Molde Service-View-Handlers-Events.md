@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, patron, frontend]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # Molde Service-View-Handlers-Events
 

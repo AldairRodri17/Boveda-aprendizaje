@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Video y audio
 tags: [video-audio]
+contenido: completo
 ---
 # Códecs y contenedores de video (H.264, H.265 y ProRes)
 

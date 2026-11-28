@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, b1]
+contenido: completo
 ---
 # Inglés B1 - voz pasiva
 

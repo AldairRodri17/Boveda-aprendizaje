@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: JavaScript y Web
 tags: [javascript-web]
+contenido: completo
 ---
 # Rendimiento web y Core Web Vitals
 

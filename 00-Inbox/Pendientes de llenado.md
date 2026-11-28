@@ -3,6 +3,7 @@ proyecto: Conocimiento
 tipo: indice
 estado: en-progreso
 tags: [indice, pendientes]
+contenido: completo
 ---
 # Pendientes de llenado
 
@@ -17,16 +18,16 @@ Lista de temas enlazados en los índices de las áreas 40–68 que todavía **no
 > [!tip] Orden sugerido
 > Primero las ⭐ de cada área; luego el resto. Cada nota va en la carpeta de su sección (laboratorios en `Laboratorios/`) con el mismo formato que las de Fotografía o Filosofía: frontmatter con `progreso`, Contenido, Autoevaluación plegada y Práctica.
 
-## Limpieza pendiente (borrar a mano)
+## Limpieza (hecha el 2026-11-28)
 
-- [ ] `Qué es la filosofía práctica.md` (raíz, vacío; la nota real está en 66-Filosofia-Practica/01 Fundamentos)
-- [ ] `Las grandes preguntas de la filosofía.md` (raíz, vacío)
-- [ ] `Lab 2 - Definir mis valores personales.md` (raíz, vacío)
-- [ ] `Inglés A1 - pronombres y verbo to be.md` (raíz, vacío)
-- [ ] `Niveles del Marco Común Europeo (A1 a C2).md` (raíz, vacío)
-- [ ] `Itzamna.Dionisio.md` (raíz, vacío; se creó al dar clic en el ejemplo de la plantilla)
-- [ ] `Sin título.canvas` (raíz, vacío)
-- [ ] `03-CSharp-DotNet/_Índice C# y .NET.md` (obsoleto; el bueno es `_Índice CSharp y .NET`)
+- [x] `Qué es la filosofía práctica.md` (raíz, vacío; la nota real está en 66-Filosofia-Practica/01 Fundamentos)
+- [x] `Las grandes preguntas de la filosofía.md` (raíz, vacío)
+- [x] `Lab 2 - Definir mis valores personales.md` (raíz, vacío)
+- [x] `Inglés A1 - pronombres y verbo to be.md` (raíz, vacío)
+- [x] `Niveles del Marco Común Europeo (A1 a C2).md` (raíz, vacío)
+- [x] `Itzamna.Dionisio.md` (raíz, vacío; se creó al dar clic en el ejemplo de la plantilla)
+- [x] `Sin título.canvas` (raíz, vacío)
+- [x] `03-CSharp-DotNet/_Índice C# y .NET.md` (obsoleto; el bueno es `_Índice CSharp y .NET`)
 
 
 ## 40-Hablar-en-Publico (43)

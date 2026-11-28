@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: RawTherapee, GIMP, Photopea, Snapseed y Lightroom móvil (gratis)
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 03 - El mismo archivo en cinco programas
 

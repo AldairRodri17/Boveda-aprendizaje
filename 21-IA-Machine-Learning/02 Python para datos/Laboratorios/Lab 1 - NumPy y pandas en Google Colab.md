@@ -7,6 +7,7 @@ estado: borrador
 area: IA y Machine Learning
 herramienta: Google Colab (o Jupyter local) con NumPy, pandas y seaborn
 tags: [ia-machine-learning, laboratorio]
+contenido: completo
 ---
 # Lab 1 - NumPy y pandas en Google Colab
 

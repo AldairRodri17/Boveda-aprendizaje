@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: darktable/Ansel (y GIMP para la comparación)
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 05 - Máscaras locales y dodge and burn
 

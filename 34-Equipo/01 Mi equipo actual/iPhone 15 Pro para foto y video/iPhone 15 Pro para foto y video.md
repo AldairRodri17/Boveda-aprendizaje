@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Equipo
 tags: [equipo]
+contenido: completo
 ---
 # iPhone 15 Pro para foto y video
 

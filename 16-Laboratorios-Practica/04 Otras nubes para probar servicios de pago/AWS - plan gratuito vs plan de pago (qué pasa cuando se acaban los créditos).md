@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Laboratorios y práctica
 tags: [laboratorios-practica]
+contenido: completo
 ---
 # AWS - plan gratuito vs plan de pago (qué pasa cuando se acaban los créditos)
 

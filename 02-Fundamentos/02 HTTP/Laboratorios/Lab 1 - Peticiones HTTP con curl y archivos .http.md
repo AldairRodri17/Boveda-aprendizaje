@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: curl, VS Code con la extensión REST Client (o archivos .http de Visual Studio) y httpbin.org
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Peticiones HTTP con curl y archivos .http
 

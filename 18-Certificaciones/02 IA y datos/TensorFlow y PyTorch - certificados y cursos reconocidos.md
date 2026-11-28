@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Certificaciones
 tags: [certificaciones]
+contenido: completo
 ---
 # TensorFlow y PyTorch - certificados y cursos reconocidos
 

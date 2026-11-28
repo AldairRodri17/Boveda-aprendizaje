@@ -7,6 +7,7 @@ estado: borrador
 area: Carrera y liderazgo técnico
 herramienta: GitHub o Azure DevOps
 tags: [carrera-liderazgo, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Escribir un PR y un issue en inglés
 

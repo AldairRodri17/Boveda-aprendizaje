@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, patron, backend, datos, concurrencia]
 progreso: pendiente
 area: SQL Server
+contenido: completo
 ---
 # Concurrencia optimista
 

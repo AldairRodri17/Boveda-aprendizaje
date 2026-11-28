@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Laboratorios y práctica
 tags: [laboratorios-practica]
+contenido: completo
 ---
 # JetBrains - licencias para estudiantes y proyectos de código abierto
 

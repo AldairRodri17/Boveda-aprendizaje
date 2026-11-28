@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, devops, ci-cd, azure]
 progreso: pendiente
 area: Azure
+contenido: completo
 ---
 # Azure Pipelines
 

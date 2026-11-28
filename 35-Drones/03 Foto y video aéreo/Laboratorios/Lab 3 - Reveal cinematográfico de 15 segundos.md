@@ -7,6 +7,7 @@ estado: borrador
 area: Drones
 herramienta: DJI Mini 4K, filtro ND, DJI Fly, DaVinci Resolve (gratuito)
 tags: [drones, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Reveal cinematográfico de 15 segundos
 

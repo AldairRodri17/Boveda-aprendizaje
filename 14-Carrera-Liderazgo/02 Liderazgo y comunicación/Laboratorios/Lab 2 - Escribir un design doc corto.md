@@ -7,6 +7,7 @@ estado: borrador
 area: Carrera y liderazgo técnico
 herramienta: Markdown, Mermaid
 tags: [carrera-liderazgo, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Escribir un design doc corto
 

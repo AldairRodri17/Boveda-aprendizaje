@@ -7,6 +7,7 @@ estado: borrador
 area: IA para modelado 3D
 herramienta: Dibujo propio o Stable Diffusion 1.5 en ComfyUI, TripoSR o Hunyuan3D-2mini, Blender con 3D Print Toolbox, ElegooSlicer, Elegoo Centauri 2 Combo
 tags: [ia-modelado-3d, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Del dibujo al objeto impreso con IA 3D
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop + DAX Studio (gratuito)
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Consultas DAX con la vista de consultas y DAX Studio
 

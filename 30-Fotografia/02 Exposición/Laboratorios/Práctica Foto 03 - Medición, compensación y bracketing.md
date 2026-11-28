@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro (cámara nativa)
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 03 - Medición, compensación y bracketing
 

@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, patron, eventos]
 progreso: pendiente
 area: Arquitectura y patrones
+contenido: completo
 ---
 # Eventos de dominio y reacciones
 

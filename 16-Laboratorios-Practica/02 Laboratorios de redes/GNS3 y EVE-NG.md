@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Laboratorios y práctica
 tags: [laboratorios-practica]
+contenido: completo
 ---
 # GNS3 y EVE-NG
 

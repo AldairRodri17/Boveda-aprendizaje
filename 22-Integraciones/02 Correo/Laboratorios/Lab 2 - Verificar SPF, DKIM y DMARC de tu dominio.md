@@ -7,6 +7,7 @@ estado: borrador
 area: Integraciones
 herramienta: nslookup/dig, MXToolbox (gratis) y una cuenta de Gmail para ver los resultados de autenticación
 tags: [integraciones, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Verificar SPF, DKIM y DMARC de tu dominio
 

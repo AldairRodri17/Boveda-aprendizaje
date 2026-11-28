@@ -8,6 +8,7 @@ fuente: RaceCoreApi (solo como referencia de aprendizaje, sin nota de proyecto)
 tags: [conocimiento, backend, almacenamiento, s3, cloudflare, reutilizable]
 progreso: pendiente
 area: Laboratorios y práctica
+contenido: completo
 ---
 # Cloudflare R2
 

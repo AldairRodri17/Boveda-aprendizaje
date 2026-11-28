@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, imagenes]
 progreso: pendiente
 area: Integraciones
+contenido: completo
 ---
 # ImageSharp
 

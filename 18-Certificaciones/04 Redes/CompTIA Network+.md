@@ -14,6 +14,7 @@ vigencia: "3 años (educación continua)"
 verificado_el: 2026-11-09
 area: Redes
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # CompTIA Network+
 

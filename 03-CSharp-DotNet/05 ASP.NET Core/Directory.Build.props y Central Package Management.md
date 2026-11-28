@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: C# y .NET
 tags: [csharp-dotnet]
+contenido: completo
 ---
 # Directory.Build.props y Central Package Management
 

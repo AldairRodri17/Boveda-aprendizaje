@@ -7,6 +7,7 @@ estado: borrador
 area: IA y Machine Learning
 herramienta: Python, Ollama (modelo con soporte de herramientas) y el SDK oficial de MCP para Python
 tags: [ia-machine-learning, laboratorio]
+contenido: completo
 ---
 # Lab 6 - Agente con tool calling y un servidor MCP sencillo
 

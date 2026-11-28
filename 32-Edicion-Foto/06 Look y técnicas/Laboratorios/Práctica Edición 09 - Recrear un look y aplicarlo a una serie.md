@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: darktable/Ansel (estilos y lut 3D)
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 09 - Recrear un look y aplicarlo a una serie
 

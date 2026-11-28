@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Impresión 3D
 tags: [impresion-3d]
+contenido: completo
 ---
 # Licencias de modelos 3D (Creative Commons y uso comercial)
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, a1, vocabulario]
+contenido: completo
 ---
 # Inglés A1 - vocabulario básico (números, fechas, familia y rutina)
 

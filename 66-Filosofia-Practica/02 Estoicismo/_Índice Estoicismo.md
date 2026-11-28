@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Filosofía práctica
 tags: [indice, filosofia]
+contenido: completo
 ---
 # Estoicismo
 

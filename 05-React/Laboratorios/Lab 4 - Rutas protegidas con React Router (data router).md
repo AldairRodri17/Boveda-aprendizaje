@@ -7,6 +7,7 @@ estado: borrador
 area: React
 herramienta: Vite + React y React Router
 tags: [react, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Rutas protegidas con React Router (data router)
 

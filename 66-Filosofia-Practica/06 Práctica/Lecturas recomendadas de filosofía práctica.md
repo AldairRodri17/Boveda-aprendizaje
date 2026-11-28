@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, recursos]
+contenido: completo
 ---
 # Lecturas recomendadas de filosofía práctica
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Angular
 herramienta: Angular CLI, Node.js y VS Code
 tags: [angular, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Componentes standalone y data binding en Angular
 

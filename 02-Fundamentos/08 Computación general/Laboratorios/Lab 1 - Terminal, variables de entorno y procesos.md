@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: PowerShell 7 (o Windows PowerShell), Git Bash o WSL
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Terminal, variables de entorno y procesos
 

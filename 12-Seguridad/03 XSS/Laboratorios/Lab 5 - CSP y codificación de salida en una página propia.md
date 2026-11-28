@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: VS Code, Node.js o .NET SDK para servir la página, DevTools del navegador
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 5 - CSP y codificación de salida en una página propia
 

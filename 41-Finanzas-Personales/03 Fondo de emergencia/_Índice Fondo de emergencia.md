@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Salud financiera
 tags: [indice, finanzas]
+contenido: completo
 ---
 # Fondo de emergencia
 

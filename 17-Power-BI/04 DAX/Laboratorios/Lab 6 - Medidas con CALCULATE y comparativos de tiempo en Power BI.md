@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 6 - Medidas con CALCULATE y comparativos de tiempo en Power BI
 

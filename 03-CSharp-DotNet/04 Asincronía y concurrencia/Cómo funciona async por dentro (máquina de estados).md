@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: C# y .NET
 tags: [csharp-dotnet]
+contenido: completo
 ---
 # Cómo funciona async por dentro (máquina de estados)
 

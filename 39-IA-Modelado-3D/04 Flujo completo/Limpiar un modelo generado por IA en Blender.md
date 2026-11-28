@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: IA para modelado 3D
 tags: [ia-modelado-3d]
+contenido: completo
 ---
 # Limpiar un modelo generado por IA en Blender
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Azure
 tags: [indice, azure]
+contenido: completo
 ---
 # Infraestructura como código
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Fotografía
 tags: [indice, fotografia]
+contenido: completo
 ---
 # Avanzado
 

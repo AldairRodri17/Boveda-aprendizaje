@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, etica, ia]
+contenido: completo
 ---
 # Ética en la tecnología y la IA
 

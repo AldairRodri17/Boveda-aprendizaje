@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D técnico
 herramienta: OpenSCAD (gratuito) + Elegoo Centauri 2 Combo con ElegooSlicer
 tags: [modelado-3d-tecnico, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Organizador paramétrico en OpenSCAD
 

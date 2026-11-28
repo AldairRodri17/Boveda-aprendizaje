@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Mitología e historia mesoamericana y griega
 tags: [indice, mitologia]
+contenido: completo
 ---
 # Comparaciones
 

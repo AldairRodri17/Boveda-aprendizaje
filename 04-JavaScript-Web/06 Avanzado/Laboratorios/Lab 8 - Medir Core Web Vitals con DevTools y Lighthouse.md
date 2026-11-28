@@ -7,6 +7,7 @@ estado: borrador
 area: JavaScript y Web
 herramienta: Chrome DevTools (Performance y Lighthouse)
 tags: [javascript-web, laboratorio]
+contenido: completo
 ---
 # Lab 8 - Medir Core Web Vitals con DevTools y Lighthouse
 

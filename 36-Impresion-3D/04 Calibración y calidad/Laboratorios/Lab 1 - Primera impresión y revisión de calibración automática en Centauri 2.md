@@ -7,6 +7,7 @@ estado: borrador
 area: Impresión 3D
 herramienta: Centauri 2 Combo + ElegooSlicer/OrcaSlicer
 tags: [impresion-3d, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Primera impresión y revisión de calibración automática en Centauri 2
 

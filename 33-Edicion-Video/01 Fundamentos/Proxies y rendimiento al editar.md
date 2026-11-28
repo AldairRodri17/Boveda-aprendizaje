@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Edición de video
 tags: [edicion-video]
+contenido: completo
 ---
 # Proxies y rendimiento al editar
 

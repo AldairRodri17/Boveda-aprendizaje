@@ -4,6 +4,7 @@ tipo: estructura
 estado: vigente
 tags: [estructura, reglas, claude, inicio-proyecto]
 actualizado: 2026-11-08
+contenido: completo
 ---
 # Estructura proyectos
 

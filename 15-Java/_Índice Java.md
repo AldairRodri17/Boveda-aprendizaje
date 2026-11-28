@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Java
 tags: [indice, java]
+contenido: completo
 ---
 # Java
 

@@ -14,6 +14,7 @@ vigencia: "No vence (Fundamentals)"
 verificado_el: 2026-11-09
 area: IA
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # AI-900 Azure AI Fundamentals
 

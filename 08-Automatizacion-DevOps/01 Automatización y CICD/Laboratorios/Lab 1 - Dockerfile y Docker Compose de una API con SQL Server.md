@@ -7,6 +7,7 @@ estado: borrador
 area: Automatización, DevOps y operación
 herramienta: Docker Desktop, .NET SDK y SQL Server en contenedor
 tags: [automatizacion-devops, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Dockerfile y Docker Compose de una API con SQL Server
 

@@ -16,6 +16,7 @@ tags:
   - configuracion
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Secretos con User Secrets
 

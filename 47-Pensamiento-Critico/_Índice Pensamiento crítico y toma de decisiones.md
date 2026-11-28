@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Pensamiento crítico y toma de decisiones
 tags: [indice, pensamiento-critico]
+contenido: completo
 ---
 # Pensamiento crítico y toma de decisiones
 

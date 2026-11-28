@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Drones
 tags: [indice, drones]
+contenido: completo
 ---
 # Normativa y seguridad
 

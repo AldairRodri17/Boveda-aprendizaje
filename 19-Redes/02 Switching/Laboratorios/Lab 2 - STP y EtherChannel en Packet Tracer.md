@@ -7,6 +7,7 @@ estado: borrador
 area: Redes
 herramienta: Cisco Packet Tracer
 tags: [redes, laboratorio]
+contenido: completo
 ---
 # Lab 2 - STP y EtherChannel en Packet Tracer
 

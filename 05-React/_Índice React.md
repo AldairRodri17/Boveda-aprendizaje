@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: React
 tags: [indice, react]
+contenido: completo
 ---
 # React
 

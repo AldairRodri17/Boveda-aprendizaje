@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Equipo
 tags: [equipo]
+contenido: completo
 ---
 # Qué comprar primero (guía para principiantes)
 

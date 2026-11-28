@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Fundamentos
 tags: [fundamentos]
+contenido: completo
 ---
 # Algoritmos básicos (búsqueda, ordenamiento, recursión)
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D artístico
 herramienta: iPhone 15 Pro con Reality Composer (Object Capture) o Scaniverse (gratuitos), Blender, Elegoo Centauri 2 Combo
 tags: [modelado-3d-artistico, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Escanear un objeto con el iPhone y dejarlo imprimible
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: SQL Server
 tags: [sql-server]
+contenido: completo
 ---
 # Operadores de join (Nested Loops, Hash Match y Merge Join)
 

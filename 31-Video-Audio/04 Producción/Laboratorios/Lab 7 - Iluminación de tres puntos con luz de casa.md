@@ -7,6 +7,7 @@ estado: borrador
 area: Video y audio
 herramienta: iPhone 15 Pro + Blackmagic Camera + lámparas y cartulina
 tags: [video-audio, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Iluminación de tres puntos con luz de casa
 

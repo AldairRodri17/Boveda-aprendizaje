@@ -7,6 +7,7 @@ estado: borrador
 area: Azure
 herramienta: Azure CLI y curl (sandbox de Microsoft Learn)
 tags: [azure, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Blob Storage con SAS
 

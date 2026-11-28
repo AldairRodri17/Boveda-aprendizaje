@@ -14,6 +14,7 @@ vigencia: "No vence (sigue la política de Fundamentals)"
 verificado_el: 2026-11-09
 area: DevOps
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # GH-900 GitHub Foundations
 

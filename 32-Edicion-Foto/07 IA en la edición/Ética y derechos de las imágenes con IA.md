@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Edición de fotografía
 tags: [edicion-foto]
+contenido: completo
 ---
 # Ética y derechos de las imágenes con IA
 

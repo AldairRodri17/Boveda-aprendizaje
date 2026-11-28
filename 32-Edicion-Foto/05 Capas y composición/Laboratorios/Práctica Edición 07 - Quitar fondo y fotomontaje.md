@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: GIMP o Photopea
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 07 - Quitar fondo y fotomontaje
 

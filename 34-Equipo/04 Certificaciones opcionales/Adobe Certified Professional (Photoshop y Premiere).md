@@ -14,6 +14,7 @@ vigencia: "5 años (a partir del 21-oct-2026)"
 verificado_el: 2026-11-09
 area: Equipo
 tags: [certificacion, equipo]
+contenido: completo
 ---
 # Adobe Certified Professional (Photoshop y Premiere)
 

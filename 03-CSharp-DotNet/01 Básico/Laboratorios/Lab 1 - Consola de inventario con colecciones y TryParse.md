@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: .NET 10 SDK y VS Code
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Consola de inventario con colecciones y TryParse
 

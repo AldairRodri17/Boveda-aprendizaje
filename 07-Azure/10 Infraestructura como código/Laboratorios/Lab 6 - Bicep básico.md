@@ -7,6 +7,7 @@ estado: borrador
 area: Azure
 herramienta: Bicep con Azure CLI y VS Code (extensión de Bicep)
 tags: [azure, laboratorio]
+contenido: completo
 ---
 # Lab 6 - Bicep básico
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Edición de video
 tags: [edicion-video]
+contenido: completo
 ---
 # Música y efectos libres de regalías
 

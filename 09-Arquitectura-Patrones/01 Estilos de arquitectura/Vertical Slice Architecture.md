@@ -18,6 +18,7 @@ tags:
   - vertical-slices
 progreso: pendiente
 area: Arquitectura y patrones
+contenido: completo
 ---
 # Vertical Slice Architecture
 

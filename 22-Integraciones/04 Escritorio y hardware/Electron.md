@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, electron]
 progreso: pendiente
 area: Integraciones
+contenido: completo
 ---
 # Electron
 

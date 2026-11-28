@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Java
 tags: [java]
+contenido: completo
 ---
 # Spring Boot - configuración y perfiles
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, recursos]
+contenido: completo
 ---
 # Series, podcasts y YouTube para aprender inglés por nivel
 

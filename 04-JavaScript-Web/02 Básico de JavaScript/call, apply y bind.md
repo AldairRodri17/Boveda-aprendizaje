@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: JavaScript y Web
 tags: [javascript-web]
+contenido: completo
 ---
 # call, apply y bind
 

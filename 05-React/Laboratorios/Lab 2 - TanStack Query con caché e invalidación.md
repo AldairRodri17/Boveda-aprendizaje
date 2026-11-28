@@ -7,6 +7,7 @@ estado: borrador
 area: React
 herramienta: Vite + React, TanStack Query, json-server y React Query Devtools
 tags: [react, laboratorio]
+contenido: completo
 ---
 # Lab 2 - TanStack Query con caché e invalidación
 

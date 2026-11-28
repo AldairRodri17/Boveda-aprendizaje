@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: SQL Server Developer o Express (o LocalDB), SSMS o Azure Data Studio, .NET 10 SDK
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 9 - Dapper con stored procedures y transacción
 

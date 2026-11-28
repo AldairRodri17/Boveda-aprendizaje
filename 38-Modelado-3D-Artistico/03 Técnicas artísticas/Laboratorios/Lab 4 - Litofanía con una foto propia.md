@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D artístico
 herramienta: GIMP o Photopea (gratuitos), Blender con modificador Displace, Elegoo Centauri 2 Combo con PLA blanco
 tags: [modelado-3d-artistico, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Litofanía con una foto propia
 

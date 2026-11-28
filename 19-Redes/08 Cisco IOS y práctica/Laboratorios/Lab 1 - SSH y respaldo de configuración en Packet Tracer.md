@@ -7,6 +7,7 @@ estado: borrador
 area: Redes
 herramienta: Cisco Packet Tracer
 tags: [redes, laboratorio]
+contenido: completo
 ---
 # Lab 1 - SSH y respaldo de configuración en Packet Tracer
 

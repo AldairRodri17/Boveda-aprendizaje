@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Redes
 tags: [redes]
+contenido: completo
 ---
 # Seguridad Wi-Fi (WPA2, WPA3 y 802.1X)
 

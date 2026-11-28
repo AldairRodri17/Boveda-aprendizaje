@@ -7,6 +7,7 @@ estado: borrador
 area: Idiomas
 herramienta: Correo (borrador), Claude o LanguageTool para revisión
 tags: [idiomas, ingles, writing, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Escribir un correo profesional en inglés y corregirlo
 
@@ -65,5 +66,7 @@ Escribir tres correos profesionales reales o realistas, corregirlos y crear tu l
 _Qué me costó, errores que cometí, dudas._
 
 ## Mis errores frecuentes
+
+_Se llena al hacer el paso 5 del laboratorio: un error por línea, con la forma correcta._
 
 -

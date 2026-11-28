@@ -14,6 +14,7 @@ vigencia: "No vence (Fundamentals)"
 verificado_el: 2026-11-09
 area: Datos
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # DP-900 Azure Data Fundamentals
 

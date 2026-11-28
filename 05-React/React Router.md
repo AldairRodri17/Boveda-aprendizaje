@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, react, router]
 progreso: pendiente
 area: React
+contenido: completo
 ---
 # React Router
 

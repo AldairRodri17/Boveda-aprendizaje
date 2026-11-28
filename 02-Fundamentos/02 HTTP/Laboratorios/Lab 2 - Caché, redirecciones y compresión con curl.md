@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: curl y httpbin.org (o httpbin local con Docker)
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Caché, redirecciones y compresión con curl
 

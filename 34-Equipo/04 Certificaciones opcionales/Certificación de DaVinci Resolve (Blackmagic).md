@@ -14,6 +14,7 @@ vigencia: "No publicada (Pendiente de confirmar)"
 verificado_el: 2026-11-09
 area: Equipo
 tags: [certificacion, equipo]
+contenido: completo
 ---
 # Certificación de DaVinci Resolve (Blackmagic)
 

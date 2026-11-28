@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Seguridad
 tags: [seguridad]
+contenido: completo
 ---
 # SQL injection - tipos (basada en errores, UNION, ciega y de segundo orden)
 

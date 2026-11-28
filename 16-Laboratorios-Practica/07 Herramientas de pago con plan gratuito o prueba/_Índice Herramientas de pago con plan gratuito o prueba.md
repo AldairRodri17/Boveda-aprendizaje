@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Laboratorios y práctica
 tags: [indice, laboratorios-practica]
+contenido: completo
 ---
 # Herramientas de pago con plan gratuito o prueba
 

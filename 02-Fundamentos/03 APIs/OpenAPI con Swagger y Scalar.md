@@ -17,6 +17,7 @@ tags:
   - openapi
 progreso: pendiente
 area: Fundamentos
+contenido: completo
 ---
 # OpenAPI con Swagger y Scalar
 

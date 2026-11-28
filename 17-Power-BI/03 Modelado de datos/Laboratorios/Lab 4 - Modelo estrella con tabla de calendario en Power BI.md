@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Modelo estrella con tabla de calendario en Power BI
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Redes
 herramienta: Cisco Packet Tracer
 tags: [redes, laboratorio]
+contenido: completo
 ---
 # Lab 1 - DHCP y NAT-PAT en Packet Tracer
 

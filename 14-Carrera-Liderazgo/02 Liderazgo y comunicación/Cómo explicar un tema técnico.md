@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Carrera y liderazgo técnico
 tags: [carrera-liderazgo]
+contenido: completo
 ---
 # Cómo explicar un tema técnico
 

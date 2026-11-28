@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: Python 3 con PyJWT y cryptography (pip install pyjwt cryptography) o Google Colab
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Decodificar y validar un JWT
 

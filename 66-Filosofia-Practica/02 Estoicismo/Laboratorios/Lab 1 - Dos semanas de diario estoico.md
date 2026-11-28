@@ -7,6 +7,7 @@ estado: borrador
 area: Filosofía práctica
 herramienta: Libreta u Obsidian (nota diaria)
 tags: [filosofia, estoicismo, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Dos semanas de diario estoico
 

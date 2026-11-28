@@ -7,6 +7,7 @@ estado: borrador
 area: Automatización, DevOps y operación
 herramienta: k6 (gratuito, local o en Docker) y la API del Lab 1
 tags: [automatizacion-devops, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Prueba de carga con k6
 

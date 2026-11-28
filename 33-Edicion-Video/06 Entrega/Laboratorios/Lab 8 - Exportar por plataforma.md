@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de video
 herramienta: DaVinci Resolve + HandBrake
 tags: [edicion-video, laboratorio]
+contenido: completo
 ---
 # Lab 8 - Exportar por plataforma
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Video y audio
 herramienta: iPhone 15 Pro + Blackmagic Camera + DJI Mic Mini 2
 tags: [video-audio, laboratorio]
+contenido: completo
 ---
 # Lab 9 - Grabar un reel vertical de 30 segundos
 

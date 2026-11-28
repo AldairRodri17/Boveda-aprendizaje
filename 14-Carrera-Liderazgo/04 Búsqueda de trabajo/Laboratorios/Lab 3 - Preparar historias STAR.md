@@ -7,6 +7,7 @@ estado: borrador
 area: Carrera y liderazgo técnico
 herramienta: Obsidian y grabadora de voz
 tags: [carrera-liderazgo, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Preparar historias STAR
 

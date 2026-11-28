@@ -7,6 +7,7 @@ estado: borrador
 area: Testing y calidad
 herramienta: .NET SDK, xUnit, Testcontainers o LocalDB, Playwright
 tags: [testing-calidad, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Pirámide de pruebas en un proyecto pequeño
 

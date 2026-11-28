@@ -7,6 +7,7 @@ estado: borrador
 area: Arquitectura y patrones
 proyectos: ["[[Hecate]]", "[[Pochteca.Nomisma]]"]
 tags: [arquitectura-patrones, rol-arquitecto, decisiones]
+contenido: completo
 ---
 # Build vs buy vs open source
 

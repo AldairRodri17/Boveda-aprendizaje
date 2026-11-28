@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: darktable/Ansel
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 04 - Revelado completo paso a paso
 

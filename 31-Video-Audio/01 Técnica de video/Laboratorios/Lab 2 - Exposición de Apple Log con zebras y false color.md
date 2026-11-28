@@ -7,6 +7,7 @@ estado: borrador
 area: Video y audio
 herramienta: iPhone 15 Pro + Blackmagic Camera
 tags: [video-audio, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Exposición de Apple Log con zebras y false color
 

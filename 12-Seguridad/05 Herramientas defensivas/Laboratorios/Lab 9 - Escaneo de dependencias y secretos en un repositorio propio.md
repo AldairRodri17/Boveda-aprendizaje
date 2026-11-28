@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: .NET SDK, npm, gitleaks, GitHub (Dependabot y Actions)
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 9 - Escaneo de dependencias y secretos en un repositorio propio
 

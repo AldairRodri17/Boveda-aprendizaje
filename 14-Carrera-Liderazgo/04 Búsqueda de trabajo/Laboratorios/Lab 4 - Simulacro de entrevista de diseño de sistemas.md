@@ -7,6 +7,7 @@ estado: borrador
 area: Carrera y liderazgo técnico
 herramienta: Excalidraw o papel, Mermaid, cronómetro
 tags: [carrera-liderazgo, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Simulacro de entrevista de diseño de sistemas
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Edición de fotografía
 tags: [edicion-foto]
+contenido: completo
 ---
 # Formatos de exportación de imagen (JPEG, PNG, TIFF, HEIC, WebP y AVIF)
 

@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, azure, almacenamiento]
 progreso: pendiente
 area: Azure
+contenido: completo
 ---
 # Azure Blob Storage
 

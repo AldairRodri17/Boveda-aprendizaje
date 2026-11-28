@@ -7,6 +7,7 @@ estado: borrador
 area: Idiomas
 herramienta: EF SET (efset.org) y Claude
 tags: [idiomas, ingles, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Examen de colocación con Claude y EF SET
 

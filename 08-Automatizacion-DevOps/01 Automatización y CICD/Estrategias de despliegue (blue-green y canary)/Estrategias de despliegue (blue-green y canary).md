@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Automatización, DevOps y operación
 tags: [automatizacion-devops]
+contenido: completo
 ---
 # Estrategias de despliegue (blue-green y canary)
 

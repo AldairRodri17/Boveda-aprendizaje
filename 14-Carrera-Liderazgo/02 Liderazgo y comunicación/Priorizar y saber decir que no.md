@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Carrera y liderazgo técnico
 tags: [carrera-liderazgo]
+contenido: completo
 ---
 # Priorizar y saber decir que no
 

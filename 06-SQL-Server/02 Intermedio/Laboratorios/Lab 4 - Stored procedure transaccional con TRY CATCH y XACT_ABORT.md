@@ -7,6 +7,7 @@ estado: borrador
 area: SQL Server
 herramienta: SQL Server Developer o Express + SSMS; opcional .NET SDK con Dapper
 tags: [sql-server, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Stored procedure transaccional con TRY CATCH y XACT_ABORT
 

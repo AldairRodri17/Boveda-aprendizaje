@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: SQL Server
 tags: [sql-server]
+contenido: completo
 ---
 # Azure SQL - diferencias con SQL Server
 

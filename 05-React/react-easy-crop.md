@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, react, imagenes]
 progreso: pendiente
 area: React
+contenido: completo
 ---
 # react-easy-crop
 

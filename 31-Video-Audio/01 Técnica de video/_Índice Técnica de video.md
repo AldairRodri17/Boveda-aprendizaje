@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Video y audio
 tags: [indice, video-audio]
+contenido: completo
 ---
 # Técnica de video
 

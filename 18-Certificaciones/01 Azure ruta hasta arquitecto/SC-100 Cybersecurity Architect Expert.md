@@ -14,6 +14,7 @@ vigencia: "1 año (renovación gratuita en línea)"
 verificado_el: 2026-11-09
 area: Seguridad
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # SC-100 Cybersecurity Architect Expert
 

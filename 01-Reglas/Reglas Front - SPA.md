@@ -4,6 +4,7 @@ tipo: estructura
 estado: vigente
 tags: [estructura, reglas, frontend, javascript, gmm, lit-html]
 actualizado: 2026-11-08
+contenido: completo
 ---
 # Reglas Front - SPA
 

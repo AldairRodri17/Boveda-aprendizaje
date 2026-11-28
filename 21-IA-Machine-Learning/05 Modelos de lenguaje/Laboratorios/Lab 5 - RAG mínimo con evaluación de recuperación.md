@@ -7,6 +7,7 @@ estado: borrador
 area: IA y Machine Learning
 herramienta: Python con sentence-transformers y un LLM local con Ollama (o cualquier API con capa gratuita)
 tags: [ia-machine-learning, laboratorio]
+contenido: completo
 ---
 # Lab 5 - RAG mínimo con evaluación de recuperación
 

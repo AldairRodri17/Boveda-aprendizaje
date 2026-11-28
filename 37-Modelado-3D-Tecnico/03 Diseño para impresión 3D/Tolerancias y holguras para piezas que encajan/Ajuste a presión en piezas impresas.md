@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Modelado 3D técnico
 tags: [modelado-3d-tecnico]
+contenido: completo
 ---
 # Ajuste a presión en piezas impresas
 

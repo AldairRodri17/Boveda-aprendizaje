@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro (cámara nativa, 1x o 3x) + ventana + cartulina blanca
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 05 - Retrato con luz de ventana y reflector casero
 

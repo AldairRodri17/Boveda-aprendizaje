@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro + cámara Profesional de Lightroom móvil en DNG (Blackmagic Camera solo graba video)
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 06 - Balance de blancos y horas de luz
 

@@ -14,6 +14,7 @@ vigencia: "3 años"
 verificado_el: 2026-11-09
 area: Nube
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # AWS Solutions Architect Associate
 

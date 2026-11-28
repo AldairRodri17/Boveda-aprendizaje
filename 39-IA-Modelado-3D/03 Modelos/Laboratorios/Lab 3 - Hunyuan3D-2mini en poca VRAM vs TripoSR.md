@@ -7,6 +7,7 @@ estado: borrador
 area: IA para modelado 3D
 herramienta: Hunyuan3D-2mini (licencia Tencent Hunyuan 3D Community; uso permitido en México) vía WinPortable, Hunyuan3D-2GP o repo oficial; TripoSR del Lab 2
 tags: [ia-modelado-3d, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Hunyuan3D-2mini en poca VRAM vs TripoSR
 

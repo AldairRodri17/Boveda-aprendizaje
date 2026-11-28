@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Edición de fotografía
 tags: [edicion-foto]
+contenido: completo
 ---
 # Capas, máscaras y modos de fusión
 

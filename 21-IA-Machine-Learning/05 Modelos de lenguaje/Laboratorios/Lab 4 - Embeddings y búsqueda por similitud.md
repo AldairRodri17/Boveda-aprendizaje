@@ -7,6 +7,7 @@ estado: borrador
 area: IA y Machine Learning
 herramienta: Google Colab con sentence-transformers y NumPy
 tags: [ia-machine-learning, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Embeddings y búsqueda por similitud
 

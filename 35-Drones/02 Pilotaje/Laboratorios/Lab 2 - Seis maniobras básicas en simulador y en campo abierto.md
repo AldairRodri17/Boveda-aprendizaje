@@ -7,6 +7,7 @@ estado: borrador
 area: Drones
 herramienta: DJI Flight Simulator (edición gratuita, Windows) o gamepad; DJI Mini 4K en campo abierto
 tags: [drones, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Seis maniobras básicas en simulador y en campo abierto
 

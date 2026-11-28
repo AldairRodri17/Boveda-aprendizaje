@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Inversiones
 tags: [indice, inversiones]
+contenido: completo
 ---
 # Otros activos
 

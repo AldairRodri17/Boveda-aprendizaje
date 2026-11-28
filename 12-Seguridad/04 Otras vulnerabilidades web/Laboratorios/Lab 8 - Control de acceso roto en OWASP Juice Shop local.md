@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: Docker Desktop, OWASP Juice Shop, DevTools o Burp Suite Community
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 8 - Control de acceso roto en OWASP Juice Shop local
 

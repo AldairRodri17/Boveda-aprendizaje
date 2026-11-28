@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Radar de herramientas
 tags: [radar-herramientas]
+contenido: completo
 ---
 # Radar - experiencia de desarrollo
 

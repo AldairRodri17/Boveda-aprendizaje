@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, c1, writing]
+contenido: completo
 ---
 # Inglés C1 - registro formal e informal
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: IA para modelado 3D
 tags: [ia-modelado-3d]
+contenido: completo
 ---
 # Licencia Tencent Hunyuan 3D Community
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles]
+contenido: completo
 ---
 # Examen de colocación de inglés
 

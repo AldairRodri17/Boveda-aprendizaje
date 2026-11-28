@@ -7,6 +7,7 @@ estado: borrador
 area: IA y Machine Learning
 herramienta: Google Colab (GPU opcional) con PyTorch
 tags: [ia-machine-learning, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Red neuronal pequeña en PyTorch
 

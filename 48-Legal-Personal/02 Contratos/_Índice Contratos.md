@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Legal básico personal
 tags: [indice, legal]
+contenido: completo
 ---
 # Contratos
 

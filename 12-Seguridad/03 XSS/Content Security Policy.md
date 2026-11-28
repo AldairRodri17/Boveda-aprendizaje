@@ -15,6 +15,7 @@ tags:
   - csp
 progreso: pendiente
 area: Seguridad
+contenido: completo
 ---
 # Content Security Policy
 > [!warning] Cambio 2026-11-08: ya no hay hash en `script-src`

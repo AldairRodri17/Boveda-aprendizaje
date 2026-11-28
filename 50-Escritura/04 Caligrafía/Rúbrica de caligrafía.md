@@ -6,6 +6,7 @@ progreso: pendiente
 estado: revisada
 area: Escritura clara
 tags: [escritura, caligrafia, rubrica, evaluacion]
+contenido: completo
 ---
 # Rúbrica de caligrafía
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: Swagger Petstore (petstore3.swagger.io), curl o REST Client y un editor
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Explorar un API REST con OpenAPI
 

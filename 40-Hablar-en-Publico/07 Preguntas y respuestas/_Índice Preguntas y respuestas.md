@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Hablar en público y exposiciones
 tags: [indice, hablar-en-publico]
+contenido: completo
 ---
 # Preguntas y respuestas
 

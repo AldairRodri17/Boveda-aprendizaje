@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Angular
 tags: [angular]
+contenido: completo
 ---
 # Angular CLI y estructura de un proyecto
 

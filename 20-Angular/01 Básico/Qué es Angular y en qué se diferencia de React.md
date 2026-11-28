@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Angular
 tags: [angular]
+contenido: completo
 ---
 # Qué es Angular y en qué se diferencia de React
 

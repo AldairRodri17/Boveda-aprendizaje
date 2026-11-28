@@ -3,11 +3,13 @@ proyecto: Conocimiento
 tipo: indice
 estado: en-progreso
 tags: [indice]
+contenido: completo
 ---
 # Reglas
 
 Avance y prioridades en [[Temario]].
 
+- [[Reglas de la bóveda]] ⭐ (cómo se mantiene esta bóveda)
 - [[Reglas para crear proyectos]] _(existe)_ ⭐
 - [[Reglas Back - .NET]] _(existe)_ ⭐
 - [[Reglas Front - SPA]] _(existe)_ ⭐

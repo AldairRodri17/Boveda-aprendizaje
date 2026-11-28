@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, patron, backend, seguridad, multi-tenant]
 progreso: pendiente
 area: Arquitectura y patrones
+contenido: completo
 ---
 # Multi-tenancy
 

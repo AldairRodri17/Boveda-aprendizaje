@@ -7,6 +7,7 @@ estado: borrador
 area: Carrera y liderazgo técnico
 herramienta: Obsidian
 tags: [carrera-liderazgo, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Mi plan de 6 meses hacia senior
 

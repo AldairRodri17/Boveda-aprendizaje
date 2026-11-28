@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, pensamiento-critico]
+contenido: completo
 ---
 # Pensar con filosofía
 

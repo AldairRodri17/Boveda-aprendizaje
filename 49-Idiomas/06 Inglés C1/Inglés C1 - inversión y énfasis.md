@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, c1]
+contenido: completo
 ---
 # Inglés C1 - inversión y énfasis
 

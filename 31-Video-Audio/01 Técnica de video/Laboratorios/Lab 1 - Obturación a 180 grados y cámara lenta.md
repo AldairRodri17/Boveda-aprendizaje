@@ -7,6 +7,7 @@ estado: borrador
 area: Video y audio
 herramienta: iPhone 15 Pro + Blackmagic Camera
 tags: [video-audio, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Obturación a 180 grados y cámara lenta
 

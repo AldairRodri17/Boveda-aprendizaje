@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, dialog, accesibilidad]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # Elemento dialog
 

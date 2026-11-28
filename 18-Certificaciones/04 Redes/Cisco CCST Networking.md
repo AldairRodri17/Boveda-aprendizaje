@@ -14,6 +14,7 @@ vigencia: "Sin vencimiento (Pendiente de confirmar en la página oficial)"
 verificado_el: 2026-11-09
 area: Redes
 tags: [certificacion, redes, cisco]
+contenido: completo
 ---
 # Cisco CCST Networking (100-150)
 

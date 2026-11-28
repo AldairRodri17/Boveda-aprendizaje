@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Economía básica
 tags: [indice, economia]
+contenido: completo
 ---
 # Conceptos
 

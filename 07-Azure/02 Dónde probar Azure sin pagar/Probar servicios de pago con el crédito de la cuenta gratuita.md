@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Azure
 tags: [azure]
+contenido: completo
 ---
 # Probar servicios de pago con el crédito de la cuenta gratuita
 

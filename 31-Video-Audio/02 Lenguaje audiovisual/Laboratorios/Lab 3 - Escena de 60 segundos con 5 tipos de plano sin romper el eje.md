@@ -7,6 +7,7 @@ estado: borrador
 area: Video y audio
 herramienta: iPhone 15 Pro + Blackmagic Camera + DJI Mic Mini 2
 tags: [video-audio, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Escena de 60 segundos con 5 tipos de plano sin romper el eje
 

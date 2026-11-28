@@ -14,6 +14,7 @@ vigencia: "Pendiente de confirmar"
 verificado_el: 2026-11-09
 area: Java
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # Spring Professional
 

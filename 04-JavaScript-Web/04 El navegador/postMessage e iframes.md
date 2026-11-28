@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, seguridad, iframe, postmessage]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # postMessage e iframes
 

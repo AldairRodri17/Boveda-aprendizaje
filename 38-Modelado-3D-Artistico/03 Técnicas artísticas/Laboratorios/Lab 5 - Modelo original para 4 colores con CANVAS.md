@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D artístico
 herramienta: Blender (gratuito) + extensión 3MF Import/Export + Elegoo Centauri 2 Combo con CANVAS y ElegooSlicer
 tags: [modelado-3d-artistico, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Modelo original para 4 colores con CANVAS
 

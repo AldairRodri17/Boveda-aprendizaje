@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: SQL Server
 tags: [sql-server]
+contenido: completo
 ---
 # Tercera forma normal (3FN)
 

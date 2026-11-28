@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: draw.io o Microsoft Threat Modeling Tool
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Modelado de amenazas STRIDE de una app propia
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: JavaScript y Web
 tags: [indice, javascript-web]
+contenido: completo
 ---
 # Front sin bundler
 

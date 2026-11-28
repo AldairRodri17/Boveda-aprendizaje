@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, electron, seguridad, ipc]
 progreso: pendiente
 area: Integraciones
+contenido: completo
 ---
 # Preload y contextBridge
 

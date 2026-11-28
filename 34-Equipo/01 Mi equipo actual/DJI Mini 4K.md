@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Equipo
 tags: [equipo]
+contenido: completo
 ---
 # DJI Mini 4K
 

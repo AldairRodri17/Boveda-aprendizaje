@@ -15,6 +15,7 @@ tags:
   - vite
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # Vite
 

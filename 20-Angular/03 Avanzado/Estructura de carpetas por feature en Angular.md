@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Angular
 tags: [angular]
+contenido: completo
 ---
 # Estructura de carpetas por feature en Angular
 

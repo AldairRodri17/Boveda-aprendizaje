@@ -7,6 +7,7 @@ estado: borrador
 area: Angular
 herramienta: Angular CLI (ng test)
 tags: [angular, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Pruebas unitarias y de componentes en Angular
 

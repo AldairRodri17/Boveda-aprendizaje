@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, pronunciacion, listening]
+contenido: completo
 ---
 # Linking (unir palabras al hablar)
 

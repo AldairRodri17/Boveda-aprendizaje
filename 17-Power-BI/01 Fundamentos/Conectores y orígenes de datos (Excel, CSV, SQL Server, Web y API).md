@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Power BI
 tags: [power-bi]
+contenido: completo
 ---
 # Conectores y orígenes de datos (Excel, CSV, SQL Server, Web y API)
 

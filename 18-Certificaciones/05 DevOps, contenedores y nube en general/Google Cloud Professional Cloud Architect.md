@@ -14,6 +14,7 @@ vigencia: "2 años"
 verificado_el: 2026-11-09
 area: Nube
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # Google Cloud Professional Cloud Architect
 

@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, concurrencia]
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # System.Threading.Channels
 

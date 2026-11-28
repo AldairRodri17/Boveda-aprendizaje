@@ -18,6 +18,7 @@ tags:
   - capas
 progreso: pendiente
 area: Arquitectura y patrones
+contenido: completo
 ---
 # Clean Architecture
 

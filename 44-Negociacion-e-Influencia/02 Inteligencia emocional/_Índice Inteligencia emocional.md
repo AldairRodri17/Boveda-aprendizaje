@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Negociación e influencia
 tags: [indice, negociacion]
+contenido: completo
 ---
 # Inteligencia emocional
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro (modo Noche y Live Photo) + tripié o apoyo
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 08 - Larga exposición nocturna con el iPhone
 

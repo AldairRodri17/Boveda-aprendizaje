@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: SQL Server
 tags: [indice, sql-server]
+contenido: completo
 ---
 # Intermedio
 

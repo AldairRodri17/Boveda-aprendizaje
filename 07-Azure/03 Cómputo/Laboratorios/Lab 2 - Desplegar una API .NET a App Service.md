@@ -7,6 +7,7 @@ estado: borrador
 area: Azure
 herramienta: .NET SDK, Azure CLI y App Service (plan F1)
 tags: [azure, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Desplegar una API .NET a App Service
 

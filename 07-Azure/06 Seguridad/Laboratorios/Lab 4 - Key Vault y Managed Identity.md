@@ -7,6 +7,7 @@ estado: borrador
 area: Azure
 herramienta: Azure CLI, App Service F1 y Key Vault (cuenta gratuita con presupuesto)
 tags: [azure, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Key Vault y Managed Identity
 

@@ -4,6 +4,7 @@ tipo: estructura
 estado: vigente
 tags: [estructura, reglas, claude, inicio-proyecto, arquitectura, nombres]
 actualizado: 2026-11-09
+contenido: completo
 ---
 # Reglas para crear proyectos
 

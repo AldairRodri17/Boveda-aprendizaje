@@ -7,6 +7,7 @@ estado: borrador
 area: Radar de herramientas
 herramienta: Obsidian y Mermaid
 tags: [radar-herramientas, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Armar mi radar personal de herramientas
 

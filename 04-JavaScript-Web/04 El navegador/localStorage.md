@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, localstorage, persistencia]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # localStorage
 

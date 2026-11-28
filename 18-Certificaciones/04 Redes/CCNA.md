@@ -14,6 +14,7 @@ vigencia: "3 años"
 verificado_el: 2026-11-09
 area: Redes
 tags: [certificacion, redes, cisco]
+contenido: completo
 ---
 # CCNA (200-301)
 

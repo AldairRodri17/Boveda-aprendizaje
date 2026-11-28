@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, seguridad, autenticacion]
 progreso: pendiente
 area: Fundamentos
+contenido: completo
 ---
 # JWT y autenticación con Bearer
 

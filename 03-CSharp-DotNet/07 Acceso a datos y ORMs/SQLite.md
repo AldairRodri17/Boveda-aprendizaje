@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, datos]
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # SQLite
 

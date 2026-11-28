@@ -14,6 +14,7 @@ vigencia: "1 año (renovación gratuita en línea)"
 verificado_el: 2026-11-09
 area: Azure
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # AZ-305 Azure Solutions Architect Expert
 

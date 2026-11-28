@@ -7,6 +7,7 @@ estado: borrador
 area: Java
 herramienta: JDK 21, jshell o VS Code; .NET SDK para la comparación
 tags: [java, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Colecciones y streams de Java comparados con LINQ
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D técnico
 herramienta: Onshape (plan gratuito, documentos públicos) + Elegoo Centauri 2 Combo con ElegooSlicer
 tags: [modelado-3d-tecnico, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Caja con tapa a presión en Onshape
 

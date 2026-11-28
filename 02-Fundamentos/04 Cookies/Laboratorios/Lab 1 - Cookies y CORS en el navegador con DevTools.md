@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: Python 3 (servidor de ejemplo con la librería estándar) y Chrome o Edge con DevTools
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Cookies y CORS en el navegador con DevTools
 

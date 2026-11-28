@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de video
 herramienta: DaVinci Resolve
 tags: [edicion-video, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Corrección y gradación de Apple Log con scopes
 

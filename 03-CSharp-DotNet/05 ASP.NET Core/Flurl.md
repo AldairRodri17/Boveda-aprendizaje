@@ -13,6 +13,7 @@ tags:
   - http
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Flurl
 

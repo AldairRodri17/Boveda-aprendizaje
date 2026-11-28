@@ -7,6 +7,7 @@ estado: borrador
 area: IA y Machine Learning
 herramienta: Python con Ollama (o API con capa gratuita) y pandas
 tags: [ia-machine-learning, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Evaluación de respuestas de un LLM
 

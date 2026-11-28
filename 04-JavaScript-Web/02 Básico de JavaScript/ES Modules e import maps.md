@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, esmodules]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # ES Modules e import maps
 > [!warning] Iris ya no usa import map ni `vendor.mjs`

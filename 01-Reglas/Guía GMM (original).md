@@ -4,6 +4,7 @@ tipo: estructura
 estado: vigente
 tags: [estructura, reglas, frontend, gmm, guia-estilo]
 origen: "Mi Estructura IA (archivo compartido por el usuario)"
+contenido: completo
 ---
 # Guía GMM (original)
 

@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, aspnetcore]
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # ASP.NET Core Minimal APIs
 > [!warning] Ya no se usa en Ocelotl.Hermes

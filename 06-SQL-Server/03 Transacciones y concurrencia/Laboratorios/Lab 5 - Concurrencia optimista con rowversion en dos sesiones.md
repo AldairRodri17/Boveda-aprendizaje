@@ -7,6 +7,7 @@ estado: borrador
 area: SQL Server
 herramienta: SQL Server Developer o Express + SSMS (dos ventanas de consulta)
 tags: [sql-server, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Concurrencia optimista con rowversion en dos sesiones
 

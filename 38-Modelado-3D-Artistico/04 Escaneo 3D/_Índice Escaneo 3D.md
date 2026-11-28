@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Modelado 3D artístico
 tags: [indice, modelado-3d-artistico]
+contenido: completo
 ---
 # Escaneo 3D
 

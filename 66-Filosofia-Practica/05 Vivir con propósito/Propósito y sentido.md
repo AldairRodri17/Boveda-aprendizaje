@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, proposito]
+contenido: completo
 ---
 # Propósito y sentido
 

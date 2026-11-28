@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Power BI
 tags: [indice, power-bi]
+contenido: completo
 ---
 # Power Query y el lenguaje M
 

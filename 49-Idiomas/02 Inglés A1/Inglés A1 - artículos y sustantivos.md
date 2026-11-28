@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, a1]
+contenido: completo
 ---
 # Inglés A1 - artículos y sustantivos
 

@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, cache, rendimiento]
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Output caching
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Arquitectura y patrones
 tags: [indice, arquitectura-patrones]
+contenido: completo
 ---
 # Estilos de arquitectura
 

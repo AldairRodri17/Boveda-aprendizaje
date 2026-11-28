@@ -15,6 +15,7 @@ tags:
   - di
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Inyección de dependencias
 

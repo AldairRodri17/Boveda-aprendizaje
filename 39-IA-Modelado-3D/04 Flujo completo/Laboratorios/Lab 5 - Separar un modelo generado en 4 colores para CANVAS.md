@@ -7,6 +7,7 @@ estado: borrador
 area: IA para modelado 3D
 herramienta: Blender (Boolean, extensión 3MF Import/Export), ElegooSlicer, Elegoo Centauri 2 Combo con CANVAS
 tags: [ia-modelado-3d, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Separar un modelo generado en 4 colores para CANVAS
 

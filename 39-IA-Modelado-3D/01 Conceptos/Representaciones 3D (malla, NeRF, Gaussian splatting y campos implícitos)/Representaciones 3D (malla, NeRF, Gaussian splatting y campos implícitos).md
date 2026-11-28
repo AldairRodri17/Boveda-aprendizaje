@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: IA para modelado 3D
 tags: [ia-modelado-3d]
+contenido: completo
 ---
 # Representaciones 3D (malla, NeRF, Gaussian splatting y campos implícitos)
 

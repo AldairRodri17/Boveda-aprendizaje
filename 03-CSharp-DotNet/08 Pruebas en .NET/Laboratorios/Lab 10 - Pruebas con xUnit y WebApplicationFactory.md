@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: .NET 10 SDK, xUnit y Microsoft.AspNetCore.Mvc.Testing
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 10 - Pruebas con xUnit y WebApplicationFactory
 

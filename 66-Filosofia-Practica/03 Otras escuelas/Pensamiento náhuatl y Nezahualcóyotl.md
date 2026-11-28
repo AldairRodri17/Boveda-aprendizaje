@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, mesoamerica]
+contenido: completo
 ---
 # Pensamiento náhuatl y Nezahualcóyotl
 

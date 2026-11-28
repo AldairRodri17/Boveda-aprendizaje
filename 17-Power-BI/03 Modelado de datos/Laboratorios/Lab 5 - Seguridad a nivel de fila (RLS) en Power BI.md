@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Seguridad a nivel de fila (RLS) en Power BI
 

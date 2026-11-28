@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, patron, backend, datos, auditoria]
 progreso: pendiente
 area: SQL Server
+contenido: completo
 ---
 # Borrado lógico y auditoría
 

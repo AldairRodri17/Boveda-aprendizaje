@@ -14,6 +14,7 @@ tags:
   - componentes
 progreso: pendiente
 area: React
+contenido: completo
 ---
 # Componentes controlados
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, etica]
+contenido: completo
 ---
 # Aristóteles y la ética de la virtud
 

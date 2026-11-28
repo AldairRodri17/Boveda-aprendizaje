@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Salud y bienestar
 tags: [indice, salud]
+contenido: completo
 ---
 # Prevención
 

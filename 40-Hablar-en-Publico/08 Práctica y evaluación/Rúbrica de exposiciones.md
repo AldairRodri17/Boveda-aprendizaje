@@ -6,6 +6,7 @@ progreso: pendiente
 estado: revisada
 area: Hablar en público y exposiciones
 tags: [hablar-en-publico, rubrica, evaluacion]
+contenido: completo
 ---
 # Rúbrica de exposiciones
 

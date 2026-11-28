@@ -17,6 +17,7 @@ tags:
   - testing
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # xUnit
 

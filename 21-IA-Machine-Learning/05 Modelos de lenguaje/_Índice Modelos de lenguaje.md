@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: IA y Machine Learning
 tags: [indice, ia-machine-learning]
+contenido: completo
 ---
 # Modelos de lenguaje
 

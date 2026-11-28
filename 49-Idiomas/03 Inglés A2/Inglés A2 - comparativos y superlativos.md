@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, a2]
+contenido: completo
 ---
 # Inglés A2 - comparativos y superlativos
 

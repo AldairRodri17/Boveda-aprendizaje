@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, react, estado]
 progreso: pendiente
 area: React
+contenido: completo
 ---
 # zustand
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de video
 herramienta: DaVinci Resolve (Gyroflow si tu cámara es compatible)
 tags: [edicion-video, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Rampa de velocidad y estabilización
 

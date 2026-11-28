@@ -7,6 +7,7 @@ estado: borrador
 area: SQL Server
 herramienta: SQL Server Developer o Express, sqlcmd y PowerShell (módulo SqlServer opcional)
 tags: [sql-server, laboratorio]
+contenido: completo
 ---
 # Lab 9 - Script de migración idempotente con tabla de versiones
 

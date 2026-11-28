@@ -7,6 +7,7 @@ estado: borrador
 area: IA para modelado 3D
 herramienta: Space de Hugging Face (TRELLIS o TRELLIS.2, MIT) o Google Colab gratuito, Blender, ElegooSlicer
 tags: [ia-modelado-3d, laboratorio]
+contenido: completo
 ---
 # Lab 6 - Modelo pesado en la nube y acabado en local
 

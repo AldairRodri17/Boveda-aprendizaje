@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Gestión de personas
 tags: [indice, gestion-personas]
+contenido: completo
 ---
 # Equipo
 

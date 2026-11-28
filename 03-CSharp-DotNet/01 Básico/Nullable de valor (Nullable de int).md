@@ -7,6 +7,7 @@ estado: pendiente
 area: C# y .NET
 aliases: ["Nullable de valor (int?)"]
 tags: [csharp-dotnet]
+contenido: completo
 ---
 # Nullable de valor (Nullable de int)
 

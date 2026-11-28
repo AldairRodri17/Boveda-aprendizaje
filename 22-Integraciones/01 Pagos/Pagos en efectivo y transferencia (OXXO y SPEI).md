@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Integraciones
 tags: [integraciones]
+contenido: completo
 ---
 # Pagos en efectivo y transferencia (OXXO y SPEI)
 

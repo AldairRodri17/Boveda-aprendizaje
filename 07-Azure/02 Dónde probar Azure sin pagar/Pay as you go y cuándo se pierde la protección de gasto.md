@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Azure
 tags: [azure]
+contenido: completo
 ---
 # Pay as you go y cuándo se pierde la protección de gasto
 

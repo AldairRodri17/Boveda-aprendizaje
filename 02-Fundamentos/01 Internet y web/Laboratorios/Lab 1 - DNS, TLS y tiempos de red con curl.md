@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: curl, nslookup y openssl (incluidos en Windows 10+ y Git Bash)
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 1 - DNS, TLS y tiempos de red con curl
 

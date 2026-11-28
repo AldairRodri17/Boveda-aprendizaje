@@ -7,6 +7,7 @@ estado: borrador
 area: JavaScript y Web
 herramienta: VS Code, navegador y Lighthouse (DevTools)
 tags: [javascript-web, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Página de registro accesible y responsiva
 

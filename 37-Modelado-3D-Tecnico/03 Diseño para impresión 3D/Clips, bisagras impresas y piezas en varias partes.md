@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Modelado 3D técnico
 tags: [modelado-3d-tecnico]
+contenido: completo
 ---
 # Clips, bisagras impresas y piezas en varias partes
 

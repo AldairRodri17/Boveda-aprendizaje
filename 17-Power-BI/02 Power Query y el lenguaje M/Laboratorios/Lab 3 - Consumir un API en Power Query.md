@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop o Excel (Power Query) + JSONPlaceholder
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Consumir un API en Power Query
 

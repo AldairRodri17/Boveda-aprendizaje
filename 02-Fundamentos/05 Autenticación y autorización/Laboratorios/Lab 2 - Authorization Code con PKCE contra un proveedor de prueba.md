@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: Keycloak en Docker (local y gratuito), navegador, Python 3 y curl
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Authorization Code con PKCE contra un proveedor de prueba
 

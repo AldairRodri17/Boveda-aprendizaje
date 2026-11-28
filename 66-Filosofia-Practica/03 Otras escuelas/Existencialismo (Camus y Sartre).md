@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia]
+contenido: completo
 ---
 # Existencialismo (Camus y Sartre)
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro + ventana + cartulinas blanca y negra
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 09 - Producto y comida en casa
 

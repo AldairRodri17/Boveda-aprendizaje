@@ -3,6 +3,7 @@ proyecto: Conocimiento
 tipo: indice
 estado: en-progreso
 tags: [indice]
+contenido: completo
 ---
 # Proyectos
 

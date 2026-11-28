@@ -7,6 +7,7 @@ estado: borrador
 area: Video y audio
 herramienta: Papel o documento + iPhone 15 Pro
 tags: [video-audio, laboratorio]
+contenido: completo
 ---
 # Lab 8 - Preproducción de un video de 2 minutos
 

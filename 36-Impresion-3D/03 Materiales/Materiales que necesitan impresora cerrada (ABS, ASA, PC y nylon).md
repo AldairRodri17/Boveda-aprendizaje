@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Impresión 3D
 tags: [impresion-3d]
+contenido: completo
 ---
 # Materiales que necesitan impresora cerrada (ABS, ASA, PC y nylon)
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, b1, speaking]
+contenido: completo
 ---
 # Inglés B1 - contar experiencias y dar opiniones
 

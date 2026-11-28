@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, a1, speaking]
+contenido: completo
 ---
 # Inglés A1 - presentarte y hablar de tu rutina
 

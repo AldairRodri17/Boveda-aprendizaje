@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Viajes y fotografía de viaje
 tags: [indice, viajes]
+contenido: completo
 ---
 # Seguridad
 

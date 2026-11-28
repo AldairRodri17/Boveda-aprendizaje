@@ -7,6 +7,7 @@ estado: borrador
 area: Drones
 herramienta: DJI Mini 4K, DJI Fly, DaVinci Resolve (gratuito), editor de fotos gratuito
 tags: [drones, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Panorámica y hyperlapse con el Mini 4K
 

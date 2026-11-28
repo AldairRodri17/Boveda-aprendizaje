@@ -7,6 +7,7 @@ estado: borrador
 area: Testing y calidad
 herramienta: .NET SDK, OpenTelemetry y .NET Aspire dashboard (o consola)
 tags: [testing-calidad, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Logging estructurado con trazas en ASP.NET Core
 

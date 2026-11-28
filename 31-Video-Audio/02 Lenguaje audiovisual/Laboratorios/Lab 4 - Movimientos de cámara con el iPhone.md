@@ -7,6 +7,7 @@ estado: borrador
 area: Video y audio
 herramienta: iPhone 15 Pro (opcional: tripié)
 tags: [video-audio, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Movimientos de cámara con el iPhone
 

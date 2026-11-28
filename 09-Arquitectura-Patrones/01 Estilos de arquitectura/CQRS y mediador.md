@@ -16,6 +16,7 @@ tags:
   - cqrs
 progreso: pendiente
 area: Arquitectura y patrones
+contenido: completo
 ---
 # CQRS y mediador
 

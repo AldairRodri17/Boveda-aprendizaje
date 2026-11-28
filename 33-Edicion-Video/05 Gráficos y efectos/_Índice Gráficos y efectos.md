@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Edición de video
 tags: [indice, edicion-video]
+contenido: completo
 ---
 # Gráficos y efectos
 

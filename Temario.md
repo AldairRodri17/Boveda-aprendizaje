@@ -3,6 +3,7 @@ proyecto: Conocimiento
 tipo: indice
 estado: en-progreso
 tags: [temario, conocimiento, ruta-senior]
+contenido: completo
 ---
 
 # Temario

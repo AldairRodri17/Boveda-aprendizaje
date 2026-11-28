@@ -7,6 +7,7 @@ estado: pendiente
 area: C# y .NET
 aliases: ["Novedades recientes de C# (collection expressions, primary constructors y más)"]
 tags: [csharp-dotnet]
+contenido: completo
 ---
 # Novedades recientes de CSharp (collection expressions, primary constructors y más)
 

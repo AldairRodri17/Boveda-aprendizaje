@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Equipo
 tags: [indice, equipo]
+contenido: completo
 ---
 # Mi equipo actual
 

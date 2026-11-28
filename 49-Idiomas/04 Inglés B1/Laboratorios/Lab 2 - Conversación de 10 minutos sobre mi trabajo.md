@@ -7,6 +7,7 @@ estado: borrador
 area: Idiomas
 herramienta: Claude (modo voz) o un compañero de intercambio, grabadora del celular
 tags: [idiomas, ingles, b1, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Conversación de 10 minutos sobre mi trabajo
 

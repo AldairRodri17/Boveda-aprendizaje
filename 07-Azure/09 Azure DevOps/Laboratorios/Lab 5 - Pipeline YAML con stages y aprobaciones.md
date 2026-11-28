@@ -7,6 +7,7 @@ estado: borrador
 area: Azure
 herramienta: Azure DevOps (organización gratuita) y Azure Pipelines YAML
 tags: [azure, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Pipeline YAML con stages y aprobaciones
 

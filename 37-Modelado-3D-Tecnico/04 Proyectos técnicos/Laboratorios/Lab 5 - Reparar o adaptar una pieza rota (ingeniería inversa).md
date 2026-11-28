@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D técnico
 herramienta: Onshape o FreeCAD + Elegoo Centauri 2 Combo con ElegooSlicer; regla, foto con el iPhone
 tags: [modelado-3d-tecnico, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Reparar o adaptar una pieza rota (ingeniería inversa)
 

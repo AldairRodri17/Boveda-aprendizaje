@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: darktable (retouch) o GIMP vs app Fotos del iPhone (Limpiar, si está disponible)
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 10 - Quitar objetos, manual vs IA
 

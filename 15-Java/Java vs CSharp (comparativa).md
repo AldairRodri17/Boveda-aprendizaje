@@ -7,6 +7,7 @@ estado: pendiente
 area: Java
 aliases: ["Java vs C# (comparativa)"]
 tags: [java]
+contenido: completo
 ---
 # Java vs CSharp (comparativa)
 

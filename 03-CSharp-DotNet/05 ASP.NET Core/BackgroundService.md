@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, hosting]
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # BackgroundService
 

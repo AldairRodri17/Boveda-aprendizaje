@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Electrónica y robótica
 tags: [indice, electronica]
+contenido: completo
 ---
 # Drones armados por ti
 

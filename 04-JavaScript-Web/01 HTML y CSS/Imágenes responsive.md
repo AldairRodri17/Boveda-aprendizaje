@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, imagenes, rendimiento, accesibilidad]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # Imágenes responsive
 

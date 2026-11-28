@@ -7,6 +7,7 @@ estado: borrador
 area: IA para modelado 3D
 herramienta: TripoSR (MIT), Python + PyTorch del Lab 1, Git, Blender (gratuitos)
 tags: [ia-modelado-3d, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Primer modelo con TripoSR desde una foto propia
 

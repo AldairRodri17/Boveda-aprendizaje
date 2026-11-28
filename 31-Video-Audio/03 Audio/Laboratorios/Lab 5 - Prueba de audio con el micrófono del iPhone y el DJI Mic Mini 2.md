@@ -7,6 +7,7 @@ estado: borrador
 area: Video y audio
 herramienta: iPhone 15 Pro + Blackmagic Camera + DJI Mic Mini 2
 tags: [video-audio, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Prueba de audio con el micrófono del iPhone y el DJI Mic Mini 2
 

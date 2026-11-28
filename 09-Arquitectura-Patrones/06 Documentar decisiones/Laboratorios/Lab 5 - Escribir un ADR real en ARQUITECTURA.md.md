@@ -7,6 +7,7 @@ estado: borrador
 area: Arquitectura y patrones
 herramienta: VS Code, Markdown y Mermaid
 tags: [arquitectura-patrones, laboratorio]
+contenido: completo
 ---
 # Lab 5 - Escribir un ADR real en ARQUITECTURA.md
 

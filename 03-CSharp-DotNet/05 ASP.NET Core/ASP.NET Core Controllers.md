@@ -18,6 +18,7 @@ tags:
   - mvc
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # ASP.NET Core Controllers
 

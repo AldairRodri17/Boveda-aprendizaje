@@ -7,6 +7,7 @@ estado: borrador
 area: Arquitectura y patrones
 herramienta: Papel o Excalidraw, Mermaid, .NET SDK
 tags: [arquitectura-patrones, laboratorio]
+contenido: completo
 ---
 # Lab 4 - Diseño e implementación de un rate limiter
 

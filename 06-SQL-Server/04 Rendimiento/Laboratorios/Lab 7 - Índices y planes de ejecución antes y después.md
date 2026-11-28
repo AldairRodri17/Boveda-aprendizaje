@@ -7,6 +7,7 @@ estado: borrador
 area: SQL Server
 herramienta: SQL Server Developer o Express + SSMS (plan de ejecución real)
 tags: [sql-server, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Índices y planes de ejecución antes y después
 

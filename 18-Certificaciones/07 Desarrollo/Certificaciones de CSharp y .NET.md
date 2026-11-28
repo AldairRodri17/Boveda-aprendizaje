@@ -7,6 +7,7 @@ estado: pendiente
 area: Certificaciones
 aliases: ["Certificaciones de C# y .NET"]
 tags: [certificaciones]
+contenido: completo
 ---
 # Certificaciones de CSharp y .NET
 

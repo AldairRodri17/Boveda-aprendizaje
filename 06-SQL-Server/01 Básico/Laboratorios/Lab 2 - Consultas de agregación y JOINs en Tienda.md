@@ -7,6 +7,7 @@ estado: borrador
 area: SQL Server
 herramienta: SQL Server Developer o Express + SSMS (o VS Code con la extensión MSSQL)
 tags: [sql-server, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Consultas de agregación y JOINs en Tienda
 

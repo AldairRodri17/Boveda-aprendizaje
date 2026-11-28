@@ -7,6 +7,7 @@ estado: borrador
 area: IA y Machine Learning
 herramienta: Google Colab o Jupyter local con scikit-learn
 tags: [ia-machine-learning, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Regresión y clasificación con scikit-learn
 

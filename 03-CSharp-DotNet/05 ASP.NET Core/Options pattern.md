@@ -17,6 +17,7 @@ tags:
   - configuracion
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # Options pattern
 

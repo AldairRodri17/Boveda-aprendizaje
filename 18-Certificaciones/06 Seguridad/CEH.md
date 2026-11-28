@@ -14,6 +14,7 @@ vigencia: "Pendiente de confirmar (requiere créditos de educación continua)"
 verificado_el: 2026-11-09
 area: Seguridad
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # CEH
 

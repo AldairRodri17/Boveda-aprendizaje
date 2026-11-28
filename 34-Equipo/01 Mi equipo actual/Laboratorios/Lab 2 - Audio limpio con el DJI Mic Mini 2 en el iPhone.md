@@ -7,6 +7,7 @@ estado: borrador
 area: Equipo
 herramienta: DJI Mic Mini 2, iPhone 15 Pro, app Blackmagic Camera, app DJI Mimo, DaVinci Resolve (gratuito)
 tags: [equipo, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Audio limpio con el DJI Mic Mini 2 en el iPhone
 

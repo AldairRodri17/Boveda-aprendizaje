@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, lit-html]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # lit-html
 

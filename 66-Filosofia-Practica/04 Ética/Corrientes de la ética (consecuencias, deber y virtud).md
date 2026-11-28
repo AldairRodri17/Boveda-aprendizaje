@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Filosofía práctica
 tags: [filosofia, etica]
+contenido: completo
 ---
 # Corrientes de la ética (consecuencias, deber y virtud)
 

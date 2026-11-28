@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Homelab y self-hosting
 tags: [indice, homelab]
+contenido: completo
 ---
 # Red del homelab
 

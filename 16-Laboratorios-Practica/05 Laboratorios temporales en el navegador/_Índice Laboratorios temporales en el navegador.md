@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Laboratorios y práctica
 tags: [indice, laboratorios-practica]
+contenido: completo
 ---
 # Laboratorios temporales en el navegador
 

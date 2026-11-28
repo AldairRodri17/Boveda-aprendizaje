@@ -7,6 +7,7 @@ estado: borrador
 area: Java
 herramienta: JDK 21, Spring Initializr, Maven Wrapper, VS Code o IntelliJ IDEA Community
 tags: [java, laboratorio]
+contenido: completo
 ---
 # Lab 2 - API REST con Spring Boot, JPA y H2
 

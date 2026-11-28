@@ -7,6 +7,7 @@ estado: borrador
 area: Edición de fotografía
 herramienta: darktable/Ansel (y un laboratorio de impresión de tu ciudad)
 tags: [edicion-foto, laboratorio]
+contenido: completo
 ---
 # Práctica Edición 11 - Exportar para Instagram e impresión
 

@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: C# y .NET
 tags: [indice, csharp-dotnet]
+contenido: completo
 ---
 # Intermedio
 

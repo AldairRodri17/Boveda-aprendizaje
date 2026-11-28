@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro (macro con ultra gran angular) + cámara Profesional de Lightroom móvil para enfoque manual; Hugin (gratis) para apilar
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 04 - Enfoque manual, macro y apilado
 

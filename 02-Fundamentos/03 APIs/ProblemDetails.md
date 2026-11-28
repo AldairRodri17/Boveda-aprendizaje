@@ -21,6 +21,7 @@ tags:
   - errores
 progreso: pendiente
 area: Fundamentos
+contenido: completo
 ---
 # ProblemDetails
 

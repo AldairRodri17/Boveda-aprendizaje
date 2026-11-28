@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, habitos]
+contenido: completo
 ---
 # Rutina diaria de inglés (20 a 30 minutos)
 

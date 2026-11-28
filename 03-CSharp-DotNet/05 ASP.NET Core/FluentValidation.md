@@ -15,6 +15,7 @@ tags:
   - validacion
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # FluentValidation
 

@@ -14,6 +14,7 @@ vigencia: "5 años"
 verificado_el: 2026-11-09
 area: Seguridad
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # Burp Suite Certified Practitioner (PortSwigger)
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: Docker Desktop, ZAP (imagen de Docker), OWASP Juice Shop
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 10 - Escaneo pasivo con OWASP ZAP contra Juice Shop local
 

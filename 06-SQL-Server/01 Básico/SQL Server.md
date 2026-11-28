@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, datos, sql-server, azure]
 progreso: pendiente
 area: SQL Server
+contenido: completo
 ---
 # SQL Server
 

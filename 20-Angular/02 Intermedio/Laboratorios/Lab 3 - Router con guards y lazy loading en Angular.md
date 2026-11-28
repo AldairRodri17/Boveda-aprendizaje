@@ -7,6 +7,7 @@ estado: borrador
 area: Angular
 herramienta: Angular CLI y navegador (DevTools)
 tags: [angular, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Router con guards y lazy loading en Angular
 

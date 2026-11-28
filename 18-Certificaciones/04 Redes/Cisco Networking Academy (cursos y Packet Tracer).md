@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Redes
 tags: [redes, cisco, recurso]
+contenido: completo
 ---
 # Cisco Networking Academy (cursos y Packet Tracer)
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, speaking]
+contenido: completo
 ---
 # Conversación en inglés (speaking)
 

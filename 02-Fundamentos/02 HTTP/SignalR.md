@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, backend, signalr, tiempo-real]
 progreso: pendiente
 area: Fundamentos
+contenido: completo
 ---
 # SignalR
 

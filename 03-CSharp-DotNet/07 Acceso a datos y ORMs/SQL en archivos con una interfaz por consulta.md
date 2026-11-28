@@ -19,6 +19,7 @@ tags:
   - datos
 progreso: pendiente
 area: C# y .NET
+contenido: completo
 ---
 # SQL en archivos con una interfaz por consulta
 

@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, b2, vocabulario]
+contenido: completo
 ---
 # Inglés B2 - collocations
 

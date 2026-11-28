@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, b1, vocabulario]
+contenido: completo
 ---
 # Inglés B1 - phrasal verbs más usados
 

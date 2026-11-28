@@ -14,6 +14,7 @@ vigencia: "1 año (renovación gratuita en línea)"
 verificado_el: 2026-11-09
 area: Datos
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # DP-300 Azure Database Administrator
 

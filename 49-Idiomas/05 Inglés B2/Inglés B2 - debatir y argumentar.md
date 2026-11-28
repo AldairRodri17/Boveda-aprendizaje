@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, b2, speaking]
+contenido: completo
 ---
 # Inglés B2 - debatir y argumentar
 

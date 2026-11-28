@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: Obsidian o editor de texto, calculadora CVSS de FIRST
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 11 - Carta de autorización y reporte de vulnerabilidad
 

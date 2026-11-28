@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, frontend, monorepo, pnpm]
 progreso: pendiente
 area: JavaScript y Web
+contenido: completo
 ---
 # pnpm workspaces
 

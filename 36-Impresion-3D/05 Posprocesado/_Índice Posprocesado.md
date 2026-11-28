@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Impresión 3D
 tags: [indice, impresion-3d]
+contenido: completo
 ---
 # Posprocesado
 
@@ -21,7 +22,7 @@ Parte de: [[36-Impresion-3D/_Índice Impresión 3D|Impresión 3D]] · Avance gen
 
 ## Laboratorios
 
-- [[Lab 7 - Posprocesado: soportes, lijado, primer y pintura]]
+- [[Lab 7 - Posprocesado soportes, lijado, primer y pintura]]
 - [[Lab 8 - Inserto térmico con cautín]]
 
 ## Progreso

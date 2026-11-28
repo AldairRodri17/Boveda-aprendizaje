@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro + cámara de Lightroom móvil en modo Profesional (DNG); parte B: Sony a6700 (futuro)
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 02 - Velocidad, ISO y profundidad de campo
 

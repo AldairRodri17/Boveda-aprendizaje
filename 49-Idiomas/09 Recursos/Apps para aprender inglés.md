@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, recursos]
+contenido: completo
 ---
 # Apps para aprender inglés
 

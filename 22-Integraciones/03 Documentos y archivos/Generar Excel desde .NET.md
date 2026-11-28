@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Integraciones
 tags: [integraciones]
+contenido: completo
 ---
 # Generar Excel desde .NET
 

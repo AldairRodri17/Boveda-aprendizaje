@@ -14,6 +14,7 @@ vigencia: "1 año (renovación gratuita en línea)"
 verificado_el: 2026-11-09
 area: Power BI
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # PL-300 Power BI Data Analyst Associate
 

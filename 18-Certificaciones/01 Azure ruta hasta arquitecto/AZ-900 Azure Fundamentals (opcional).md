@@ -14,6 +14,7 @@ vigencia: "No vence (las Fundamentals no requieren renovación)"
 verificado_el: 2026-11-09
 area: Azure
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # AZ-900 Azure Fundamentals (opcional)
 

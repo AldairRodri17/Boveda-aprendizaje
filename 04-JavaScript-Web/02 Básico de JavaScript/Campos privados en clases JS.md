@@ -7,6 +7,7 @@ estado: pendiente
 area: JavaScript y Web
 aliases: ["Campos privados con #"]
 tags: [javascript-web]
+contenido: completo
 ---
 # Campos privados en clases JS
 

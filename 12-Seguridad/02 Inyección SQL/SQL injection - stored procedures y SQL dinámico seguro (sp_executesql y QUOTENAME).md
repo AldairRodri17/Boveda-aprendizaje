@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Seguridad
 tags: [seguridad]
+contenido: completo
 ---
 # SQL injection - stored procedures y SQL dinámico seguro (sp_executesql y QUOTENAME)
 

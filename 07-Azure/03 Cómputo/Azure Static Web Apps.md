@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, devops, azure, frontend, hosting]
 progreso: pendiente
 area: Azure
+contenido: completo
 ---
 # Azure Static Web Apps
 

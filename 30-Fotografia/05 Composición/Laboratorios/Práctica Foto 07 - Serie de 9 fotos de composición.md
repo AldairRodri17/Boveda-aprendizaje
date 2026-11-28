@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro (cámara nativa con cuadrícula)
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 07 - Serie de 9 fotos de composición
 

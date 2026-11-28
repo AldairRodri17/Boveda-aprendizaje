@@ -7,6 +7,7 @@ estado: borrador
 area: Fundamentos
 herramienta: Python 3 (local o Google Colab) con re y zoneinfo
 tags: [fundamentos, laboratorio]
+contenido: completo
 ---
 # Lab 1 - Expresiones regulares y fechas en Python
 

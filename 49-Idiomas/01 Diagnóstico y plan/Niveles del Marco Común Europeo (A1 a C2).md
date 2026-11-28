@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles]
+contenido: completo
 ---
 # Niveles del Marco Común Europeo (A1 a C2)
 

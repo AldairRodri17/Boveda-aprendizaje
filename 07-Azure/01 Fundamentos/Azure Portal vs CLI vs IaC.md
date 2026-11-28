@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Azure
 tags: [azure]
+contenido: completo
 ---
 # Azure Portal vs CLI vs IaC
 

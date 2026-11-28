@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: IA para modelado 3D
 tags: [indice, ia-modelado-3d]
+contenido: completo
 ---
 # Flujo completo
 

@@ -7,6 +7,7 @@ estado: borrador
 area: React
 herramienta: Vite + React y Vitest + Testing Library
 tags: [react, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Formulario controlado con validación
 

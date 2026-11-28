@@ -7,6 +7,7 @@ estado: borrador
 area: JavaScript y Web
 herramienta: TypeScript Playground (typescriptlang.org/play) o Node con `npx tsc`
 tags: [javascript-web, laboratorio]
+contenido: completo
 ---
 # Lab 7 - TypeScript básico con un módulo de carrito
 

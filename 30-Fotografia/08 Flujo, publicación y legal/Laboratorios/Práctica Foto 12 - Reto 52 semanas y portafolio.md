@@ -7,6 +7,7 @@ estado: borrador
 area: Fotografía
 herramienta: iPhone 15 Pro (y Sony a6700 cuando llegue) + Instagram, Flickr o un álbum compartido
 tags: [fotografia, laboratorio]
+contenido: completo
 ---
 # Práctica Foto 12 - Reto 52 semanas y portafolio
 

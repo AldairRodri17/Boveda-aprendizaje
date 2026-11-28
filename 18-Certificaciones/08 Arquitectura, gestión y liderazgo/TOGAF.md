@@ -14,6 +14,7 @@ vigencia: "Pendiente de confirmar"
 verificado_el: 2026-11-09
 area: Arquitectura
 tags: [certificacion, certificaciones]
+contenido: completo
 ---
 # TOGAF
 

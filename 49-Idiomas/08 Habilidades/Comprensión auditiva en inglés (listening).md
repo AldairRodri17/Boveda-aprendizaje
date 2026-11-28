@@ -6,6 +6,7 @@ progreso: pendiente
 estado: borrador
 area: Idiomas
 tags: [idiomas, ingles, listening]
+contenido: completo
 ---
 # Comprensión auditiva en inglés (listening)
 

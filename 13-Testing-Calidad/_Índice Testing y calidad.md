@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Testing y calidad
 tags: [indice, testing-calidad]
+contenido: completo
 ---
 # Testing y calidad
 

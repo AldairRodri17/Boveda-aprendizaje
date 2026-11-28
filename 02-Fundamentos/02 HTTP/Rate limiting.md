@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, backend, dotnet, seguridad, rendimiento]
 progreso: pendiente
 area: Fundamentos
+contenido: completo
 ---
 # Rate limiting
 

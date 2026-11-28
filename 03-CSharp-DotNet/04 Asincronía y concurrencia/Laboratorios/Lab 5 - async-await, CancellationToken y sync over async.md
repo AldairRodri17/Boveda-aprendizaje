@@ -7,6 +7,7 @@ estado: borrador
 area: C# y .NET
 herramienta: .NET 10 SDK, dotnet-counters y un generador de carga (bombardier o k6)
 tags: [csharp-dotnet, laboratorio]
+contenido: completo
 ---
 # Lab 5 - async-await, CancellationToken y sync over async
 

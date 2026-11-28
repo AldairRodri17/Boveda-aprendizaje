@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: PortSwigger Web Security Academy, Burp Suite Community
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 6 - PortSwigger - laboratorios de XSS nivel Apprentice
 

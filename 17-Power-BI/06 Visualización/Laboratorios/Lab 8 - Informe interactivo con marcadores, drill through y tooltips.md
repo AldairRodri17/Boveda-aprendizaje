@@ -7,6 +7,7 @@ estado: borrador
 area: Power BI
 herramienta: Power BI Desktop
 tags: [power-bi, laboratorio]
+contenido: completo
 ---
 # Lab 8 - Informe interactivo con marcadores, drill through y tooltips
 

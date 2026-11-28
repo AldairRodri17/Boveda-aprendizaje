@@ -6,6 +6,7 @@ progreso: pendiente
 estado: pendiente
 area: Laboratorios y práctica
 tags: [laboratorios-practica]
+contenido: completo
 ---
 # AWS Free Tier - plan gratuito, créditos y servicios siempre gratuitos
 

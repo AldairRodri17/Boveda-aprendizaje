@@ -7,6 +7,7 @@ estado: borrador
 area: Modelado 3D artístico
 herramienta: Blender 4.2+ con extensiones 3D Print Toolbox y 3MF Import/Export (gratuitas) + ElegooSlicer
 tags: [modelado-3d-artistico, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Inspeccionar con 3D Print Toolbox y exportar STL y 3MF
 

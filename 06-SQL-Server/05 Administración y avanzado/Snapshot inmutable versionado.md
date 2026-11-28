@@ -7,6 +7,7 @@ estado: completo
 tags: [conocimiento, patron, backend, publicacion, versionado]
 progreso: pendiente
 area: SQL Server
+contenido: completo
 ---
 # Snapshot inmutable versionado
 

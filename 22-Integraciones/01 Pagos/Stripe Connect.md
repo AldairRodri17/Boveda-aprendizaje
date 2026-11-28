@@ -14,6 +14,7 @@ tags:
   - marketplace
 progreso: pendiente
 area: Integraciones
+contenido: completo
 ---
 # Stripe Connect
 

@@ -13,6 +13,7 @@ tags:
   - diseno
 progreso: pendiente
 area: Arquitectura y patrones
+contenido: completo
 ---
 # Patrón Strategy
 

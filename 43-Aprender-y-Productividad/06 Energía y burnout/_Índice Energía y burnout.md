@@ -4,6 +4,7 @@ tipo: indice
 estado: en-progreso
 area: Aprender a aprender y productividad
 tags: [indice, productividad]
+contenido: completo
 ---
 # Energía y burnout
 

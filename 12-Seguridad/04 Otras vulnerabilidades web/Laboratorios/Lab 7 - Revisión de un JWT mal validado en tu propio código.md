@@ -7,6 +7,7 @@ estado: borrador
 area: Seguridad
 herramienta: .NET SDK, Microsoft.AspNetCore.Authentication.JwtBearer, archivo .http o curl
 tags: [seguridad, laboratorio]
+contenido: completo
 ---
 # Lab 7 - Revisión de un JWT mal validado en tu propio código
 

@@ -7,6 +7,7 @@ estado: borrador
 area: Equipo
 herramienta: Sony a6700, tarjeta SD V60/V90, DaVinci Resolve (gratuito)
 tags: [equipo, laboratorio]
+contenido: completo
 ---
 # Lab 3 - Primer día con la Sony a6700 (perfiles, LUT y tarjetas)
 

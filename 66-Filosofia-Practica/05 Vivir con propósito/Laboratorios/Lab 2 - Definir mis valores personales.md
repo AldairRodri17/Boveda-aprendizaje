@@ -7,6 +7,7 @@ estado: borrador
 area: Filosofía práctica
 herramienta: Papel, plumas y una lista de valores
 tags: [filosofia, proposito, laboratorio]
+contenido: completo
 ---
 # Lab 2 - Definir mis valores personales
 

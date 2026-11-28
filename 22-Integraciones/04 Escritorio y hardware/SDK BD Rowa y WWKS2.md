@@ -7,6 +7,7 @@ estado: borrador
 tags: [conocimiento, backend, dotnet, robot]
 progreso: pendiente
 area: Integraciones
+contenido: completo
 ---
 # SDK BD Rowa y WWKS2
 
