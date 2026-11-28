@@ -109,3 +109,6 @@ Contesta primero en voz alta o en papel; luego despliega la respuesta.
 > [!question]- ¿En qué se parece tu molde Service-View-Handlers-Events a React?
 > La View es una función del estado y los Handlers cambian el estado y repintan; React automatiza ese repintado, agrega estado local por componente y efectos con limpieza.
 
+
+## Bitácora
+- 2026-11-28 · viendo · Entiende la UI como función del estado y cómo los eventos cambian el estado (onClick, onChange, onBlur). Falta repasar la reconciliación y la comparación con el molde Service-View-Handlers-Events.
