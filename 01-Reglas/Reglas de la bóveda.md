@@ -5,7 +5,7 @@ estado: revisada
 area: Reglas
 tags: [reglas, mantenimiento]
 contenido: completo
-ultimo_commit_revisado: PENDIENTE
+ultimo_commit_revisado: d146c5c
 ultima_revision: 2026-11-28
 ---
 # Reglas de la bóveda
