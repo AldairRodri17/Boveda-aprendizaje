@@ -2,7 +2,7 @@
 proyecto: Conocimiento
 tipo: concepto
 nivel: intermedio
-progreso: pendiente
+progreso: viendo
 estado: pendiente
 area: React
 tags: [react]
