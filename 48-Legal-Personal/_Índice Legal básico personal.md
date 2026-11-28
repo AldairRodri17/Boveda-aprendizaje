@@ -7,7 +7,7 @@ tags: [indice, legal]
 ---
 # Legal básico personal
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Contenido educativo, no asesoría legal. Leyes, montos y plazos se verifican en la fuente oficial (DOF, STPS, PROFECO, INDAUTOR, IMPI) al escribir cada nota.

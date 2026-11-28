@@ -7,7 +7,7 @@ tags: [indice, ciberseguridad-personal]
 ---
 # Ciberseguridad personal y vida digital
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > La teoría a fondo está en 12 · Seguridad; aquí va lo práctico para tu vida diaria.

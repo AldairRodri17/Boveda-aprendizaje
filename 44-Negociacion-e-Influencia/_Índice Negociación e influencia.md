@@ -7,7 +7,7 @@ tags: [indice, negociacion]
 ---
 # Negociación e influencia
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 ## Secciones
 

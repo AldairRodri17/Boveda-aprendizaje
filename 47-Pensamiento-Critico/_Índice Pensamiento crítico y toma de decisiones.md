@@ -7,7 +7,7 @@ tags: [indice, pensamiento-critico]
 ---
 # Pensamiento crítico y toma de decisiones
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 ## Secciones
 

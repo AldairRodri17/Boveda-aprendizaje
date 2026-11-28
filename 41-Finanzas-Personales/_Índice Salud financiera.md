@@ -7,7 +7,7 @@ tags: [indice, finanzas]
 ---
 # Salud financiera
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Contenido educativo, no asesoría financiera. Cifras, topes y reglas (SAT, CONDUSEF, Banxico, CONSAR, IMSS) se verifican en la fuente oficial al escribir cada nota.

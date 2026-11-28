@@ -7,7 +7,7 @@ tags: [indice, salud]
 ---
 # Salud y bienestar
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Información general para quien trabaja sentado. Lo médico se consulta con un profesional de la salud.

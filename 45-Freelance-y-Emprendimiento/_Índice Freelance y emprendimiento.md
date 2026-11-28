@@ -7,7 +7,7 @@ tags: [indice, freelance]
 ---
 # Freelance y emprendimiento
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Reglas fiscales y permisos se verifican en la fuente oficial (SAT, AFAC) al escribir cada nota.

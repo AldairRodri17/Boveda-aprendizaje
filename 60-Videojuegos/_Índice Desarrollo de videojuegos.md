@@ -7,7 +7,7 @@ tags: [indice, videojuegos]
 ---
 # Desarrollo de videojuegos
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Unity y Godot usan C#: aprovecha lo que sabes de .NET. Licencias y precios de motores se verifican al escribir cada nota.

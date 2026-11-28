@@ -7,7 +7,7 @@ tags: [indice, homelab]
 ---
 # Homelab y self-hosting
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Tu propio servidor en casa: practicas Linux, redes, Docker y respaldos sin pagar nube.

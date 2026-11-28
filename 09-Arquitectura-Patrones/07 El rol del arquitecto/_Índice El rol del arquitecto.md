@@ -7,7 +7,7 @@ tags: [indice, arquitectura-patrones, rol-arquitecto]
 ---
 # El rol del arquitecto
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 - [[Qué hace un arquitecto de software (y qué no)]] ⭐
 - [[Tipos de arquitecto (solución, empresa, plataforma, datos y seguridad)]]

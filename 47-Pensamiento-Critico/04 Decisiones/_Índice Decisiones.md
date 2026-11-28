@@ -7,7 +7,7 @@ tags: [indice, pensamiento-critico]
 ---
 # Decisiones
 
-Parte de: [[47-Pensamiento-Critico/_Índice Pensamiento crítico y toma de decisiones|Pensamiento crítico y toma de decisiones]] · Avance general en [[Temario v2 - senior y arquitecto]].
+Parte de: [[47-Pensamiento-Critico/_Índice Pensamiento crítico y toma de decisiones|Pensamiento crítico y toma de decisiones]] · Avance general en [[Temario]].
 
 > [!info] Cómo avanzar
 > Cada nota tiene **Autoevaluación** (preguntas con la respuesta plegada). Márcala `visto` cuando la contestes sin abrir las respuestas. Los laboratorios llevan las notas a `dominado`.

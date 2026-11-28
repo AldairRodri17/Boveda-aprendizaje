@@ -7,7 +7,7 @@ tags: [indice, hablar-en-publico]
 ---
 # Hablar en público y exposiciones
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > La calificación usa la [[Rúbrica de exposiciones]]: teoría → visto; sesiones de práctica → practicado; presentación real o tres sesiones con 3.5+ → dominado.

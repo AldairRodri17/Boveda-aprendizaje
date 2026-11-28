@@ -7,7 +7,7 @@ tags: [indice, gestion-personas]
 ---
 # Gestión de personas
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Para cuando tengas gente a cargo. Complementa 14 · Carrera (influir sin autoridad).

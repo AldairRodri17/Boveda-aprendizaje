@@ -7,7 +7,7 @@ tags: [indice, viajes]
 ---
 # Viajes y fotografía de viaje
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Requisitos de pasaporte, visas y reglas para volar drones o grabar en zonas protegidas se verifican en la fuente oficial al escribir cada nota.

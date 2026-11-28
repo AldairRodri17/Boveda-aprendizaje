@@ -7,7 +7,7 @@ tags: [indice, filosofia]
 ---
 # Filosofía práctica
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 ## Secciones
 

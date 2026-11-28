@@ -7,7 +7,7 @@ tags: [indice, economia]
 ---
 # Economía básica
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Datos de inflación, tasas y tipo de cambio se consultan en Banxico e INEGI al escribir cada nota.

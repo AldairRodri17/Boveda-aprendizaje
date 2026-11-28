@@ -7,7 +7,7 @@ tags: [indice, escritura]
 ---
 # Escritura clara
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Empieza por ortografía y caligrafía. La caligrafía se califica con fotos de tus planas y la [[Rúbrica de caligrafía]].

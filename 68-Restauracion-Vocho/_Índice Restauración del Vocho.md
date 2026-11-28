@@ -7,7 +7,7 @@ tags: [indice, vocho]
 ---
 # Restauración del Vocho
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Meta: restaurar tu VW Sedán. Datos técnicos (según el año de tu vocho), trámites y verificación se confirman en manuales y fuentes oficiales de tu estado al escribir cada nota. La seguridad va primero: nunca trabajes bajo el auto sostenido solo con el gato.

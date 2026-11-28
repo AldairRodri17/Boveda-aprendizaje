@@ -7,7 +7,7 @@ tags: [indice, astronomia]
 ---
 # Astronomía y astrofotografía
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Se apoya en 30 · Fotografía, 32 · Edición de foto y tu equipo (34).

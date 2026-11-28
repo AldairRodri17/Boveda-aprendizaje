@@ -7,7 +7,7 @@ tags: [indice, domotica]
 ---
 # Domótica y casa inteligente
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Junta homelab (61), electrónica (63) e impresión 3D (36).

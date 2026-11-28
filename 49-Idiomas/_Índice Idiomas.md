@@ -7,7 +7,7 @@ tags: [indice, idiomas]
 ---
 # Idiomas
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Empezamos por inglés, por niveles del Marco Común Europeo. Calificación con la [[Rúbrica de inglés]]. Para el inglés del trabajo, ver 14 · Inglés técnico.

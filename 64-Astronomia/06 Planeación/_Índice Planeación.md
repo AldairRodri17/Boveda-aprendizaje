@@ -7,7 +7,7 @@ tags: [indice, astronomia]
 ---
 # Planeación
 
-Parte de: [[64-Astronomia/_Índice Astronomía y astrofotografía|Astronomía y astrofotografía]] · Avance general en [[Temario v2 - senior y arquitecto]].
+Parte de: [[64-Astronomia/_Índice Astronomía y astrofotografía|Astronomía y astrofotografía]] · Avance general en [[Temario]].
 
 > [!info] Cómo avanzar
 > Cada nota tiene **Autoevaluación** (preguntas con la respuesta plegada). Márcala `visto` cuando la contestes sin abrir las respuestas. Los laboratorios llevan las notas a `dominado`.

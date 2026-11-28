@@ -7,7 +7,7 @@ tags: [indice, mitologia]
 ---
 # Mitología e historia mesoamericana y griega
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Incluye la historia detrás de los nombres de tus proyectos (marcados con 🛠).

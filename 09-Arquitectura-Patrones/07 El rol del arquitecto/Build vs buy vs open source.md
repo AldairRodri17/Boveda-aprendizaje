@@ -10,7 +10,7 @@ tags: [arquitectura-patrones, rol-arquitecto, decisiones]
 ---
 # Build vs buy vs open source
 
-Parte de: [[09-Arquitectura-Patrones/07 El rol del arquitecto/_Índice El rol del arquitecto|El rol del arquitecto]] · [[Temario v2 - senior y arquitecto]]
+Parte de: [[09-Arquitectura-Patrones/07 El rol del arquitecto/_Índice El rol del arquitecto|El rol del arquitecto]] · [[Temario]]
 
 > [!info] Cómo avanzar
 > `progreso`: **pendiente** → **viendo** (estudiando) → **visto** (contestaste la autoevaluación sin abrir las respuestas) → **dominado** (hiciste el laboratorio o lo aplicaste de verdad).

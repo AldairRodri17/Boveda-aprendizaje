@@ -7,7 +7,7 @@ tags: [indice, productividad]
 ---
 # Aprender a aprender y productividad
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 ## Secciones
 

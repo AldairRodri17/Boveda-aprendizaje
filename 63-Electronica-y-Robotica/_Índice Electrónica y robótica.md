@@ -7,7 +7,7 @@ tags: [indice, electronica]
 ---
 # Electrónica y robótica
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > La sección de electrónica básica del área 37 enlaza aquí.

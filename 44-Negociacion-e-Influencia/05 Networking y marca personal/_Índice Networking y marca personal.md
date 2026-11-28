@@ -7,7 +7,7 @@ tags: [indice, negociacion]
 ---
 # Networking y marca personal
 
-Parte de: [[44-Negociacion-e-Influencia/_Índice Negociación e influencia|Negociación e influencia]] · Avance general en [[Temario v2 - senior y arquitecto]].
+Parte de: [[44-Negociacion-e-Influencia/_Índice Negociación e influencia|Negociación e influencia]] · Avance general en [[Temario]].
 
 > [!info] Cómo avanzar
 > Cada nota tiene **Autoevaluación** (preguntas con la respuesta plegada). Márcala `visto` cuando la contestes sin abrir las respuestas. Los laboratorios llevan las notas a `dominado`.

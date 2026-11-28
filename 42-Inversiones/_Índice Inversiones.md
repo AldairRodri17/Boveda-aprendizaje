@@ -7,7 +7,7 @@ tags: [indice, inversiones]
 ---
 # Inversiones
 
-Avance y prioridades en [[Temario v2 - senior y arquitecto]].
+Avance y prioridades en [[Temario]].
 
 > [!note]
 > Contenido educativo, no asesoría de inversión. Tasas, comisiones y reglas fiscales se verifican en la fuente oficial al escribir cada nota.

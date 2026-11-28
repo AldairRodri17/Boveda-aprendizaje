@@ -5,7 +5,20 @@ estado: en-progreso
 tags: [temario, conocimiento, ruta-senior]
 ---
 
-# Temario de la biblioteca de conocimiento
+# Temario
+
+> [!tip] Temario unificado (28 nov 2026)
+> Índice único de la bóveda. Junta el temario original y la versión 2; lo agregado para **senior → arquitecto** está marcado con 🆕.
+> **Áreas nuevas:** 23 · Sistemas distribuidos y datos intensivos, 24 · Plataforma, nube y costos.
+> **Secciones nuevas** en 02, 03, 09, 11, 12, 13, 14, 21, 37, 39 y Recursos.
+> **Prioridad sugerida:**
+> 1. Núcleo arquitecto: 09, 23, 24, 08 (SRE), 12, 14 + proyecto integrador (11).
+> 2. Tu stack diario: 03, 06, 07, 05, 13.
+> 3. Bajar a oleada 3 salvo que el trabajo lo pida: 15 · Java, 20 · Angular, 19 · Redes (nivel CCNA), 17 · Power BI avanzado, 21 · matemáticas y deep learning.
+> 4. Hobbies: en paralelo, con tiempo fijo por semana.
+> 5. Habilidades para la vida (40–53): empezar por 50 · Escritura (ortografía y caligrafía), 41 · Salud financiera y 49 · Idiomas.
+> 6. Temas de interés (60–68): a tu ritmo; la meta grande es restaurar el vocho (68).
+
 
 > Cada línea con `[[ ]]` es una nota independiente. Los enlaces a notas que aún no existen aparecen como pendientes, así que este archivo es índice y lista de avance.
 > Cada área va de lo más básico a lo más completo. Marca `[x]` cuando la nota esté escrita y revisada.
@@ -71,6 +84,29 @@ tags: []
 37-Modelado-3D-Tecnico/       ← hobby
 38-Modelado-3D-Artistico/     ← hobby
 39-IA-Modelado-3D/            ← hobby
+40-Hablar-en-Publico/         ← habilidades 🆕
+41-Finanzas-Personales/
+42-Inversiones/
+43-Aprender-y-Productividad/
+44-Negociacion-e-Influencia/
+45-Freelance-y-Emprendimiento/
+46-Salud-y-Bienestar/
+47-Pensamiento-Critico/
+48-Legal-Personal/
+49-Idiomas/
+50-Escritura/
+51-Ciberseguridad-Personal/
+52-Economia-Basica/
+53-Gestion-de-Personas/
+60-Videojuegos/               ← temas de interés 🆕
+61-Homelab/
+62-Domotica/
+63-Electronica-y-Robotica/
+64-Astronomia/
+65-Viajes/
+66-Filosofia-Practica/
+67-Mitologia/
+68-Restauracion-Vocho/
 Plantillas/
 ```
 
@@ -230,6 +266,14 @@ Plantillas/
 - [ ] [[Code smells y refactorización]]
 - [ ] [[Clean code]]
 - [ ] [[Markdown]]
+
+### Fundamentos que pide un arquitecto 🆕
+- [ ] [[Sistemas operativos para desarrolladores (memoria, procesos, E-S y planificador)]] 🆕
+- [ ] [[Números de latencia que todo ingeniero debe conocer]] 🆕 ⭐
+- [ ] [[Ley de Little y teoría de colas básica]] 🆕 ⭐
+- [ ] [[Ley de Amdahl y límites del paralelismo]] 🆕
+- [ ] [[Ley de Conway]] 🆕 ⭐
+- [ ] [[Ley de Hyrum y contratos implícitos]] 🆕
 
 ---
 
@@ -407,6 +451,15 @@ Plantillas/
 - [ ] [[TimeProvider para probar fechas]]
 - [ ] [[Pruebas de reglas de arquitectura (NetArchTest)]] 🛠 (como SentenciasSqlTests)
 
+### .NET a escala 🆕
+- [ ] [[.NET Aspire para orquestar sistemas distribuidos en local]] 🆕
+- [ ] [[OpenTelemetry en .NET (trazas, métricas y logs)]] 🆕 ⭐
+- [ ] [[gRPC en .NET]] 🆕
+- [ ] [[Durable Functions (orquestación con estado)]] 🆕
+- [ ] [[YARP (proxy inverso en .NET)]] 🆕
+- [ ] [[Mensajería en .NET (MassTransit, Wolverine y alternativas)]] 🆕 (verificar licencias al escribir)
+- [ ] [[Plantillas propias de proyecto (dotnet new)]] 🆕 🛠
+
 ---
 
 ## 04 · JavaScript y Web
@@ -516,6 +569,10 @@ Plantillas/
 - [ ] [[Librería de componentes propia en JS plano]]
 - [ ] [[Design systems]]
 - [ ] [[Micro-frontends (conceptos)]]
+
+### Arquitectura móvil (opcional) 🆕
+- [ ] [[Opciones para apps móviles (nativo, React Native, .NET MAUI y PWA)]] 🆕
+- [ ] [[Backend para apps móviles (notificaciones push, versiones y offline)]] 🆕
 
 ---
 
@@ -901,6 +958,54 @@ Cada nota de servicio lleva: qué es, cuándo usarlo, alternativas, costo y free
 - [ ] [[Modernizar código legado]] ⭐
 - [ ] [[Cómo elegir una arquitectura]]
 
+### El rol del arquitecto 🆕
+- [ ] [[Qué hace un arquitecto de software (y qué no)]] 🆕 ⭐
+- [ ] [[Tipos de arquitecto (solución, empresa, plataforma, datos y seguridad)]] 🆕
+- [ ] [[Características de arquitectura (las -ilities) y cómo elegirlas]] 🆕 ⭐
+- [ ] [[Escenarios de atributos de calidad]] 🆕 ⭐
+- [ ] [[Decisiones reversibles e irreversibles]] 🆕 ⭐
+- [ ] [[Arquitectura suficiente (just enough architecture)]] 🆕
+- [x] [[Build vs buy vs open source]] 🆕 ⭐ _(existe)_
+- [ ] [[Licencias de software open source (MIT, Apache, GPL y AGPL)]] 🆕 ⭐
+- [ ] [[Costo total de propiedad (TCO) de una solución]] 🆕 ⭐
+- [ ] [[Evaluar proveedores y tecnologías (matriz de decisión)]] 🆕
+- [ ] [[Architecture katas (práctica de diseño en equipo)]] 🆕 ⭐
+
+### Evaluar y gobernar arquitecturas 🆕
+- [ ] [[ATAM (evaluación de arquitecturas)]] 🆕
+- [ ] [[Fitness functions]] 🆕 ⭐
+- [ ] [[Revisiones de arquitectura (architecture review board)]] 🆕
+- [ ] [[arc42]] 🆕
+- [ ] [[Gobierno técnico ligero (principios, guardrails y golden paths)]] 🆕 ⭐
+- [ ] [[Riesgos técnicos (registro y mitigación)]] 🆕 ⭐
+
+### DDD estratégico 🆕
+- [ ] [[Lenguaje ubicuo]] 🆕
+- [ ] [[Subdominios (core, supporting y generic)]] 🆕 ⭐
+- [ ] [[Context mapping (patrones de relación entre contextos)]] 🆕 ⭐
+- [ ] [[Event Storming]] 🆕 ⭐
+- [ ] [[Domain Storytelling]] 🆕
+- [ ] [[Cómo dividir un sistema en servicios o módulos]] 🆕 ⭐
+
+### Integración entre sistemas 🆕
+- [ ] [[Orquestación vs coreografía]] 🆕 ⭐
+- [ ] [[API Gateway]] 🆕 ⭐
+- [ ] [[Service discovery]] 🆕
+- [ ] [[Service mesh (conceptos)]] 🆕
+- [ ] [[Patrón Inbox]] 🆕 (complementa [[Patrón Outbox]])
+- [ ] [[Change Data Capture (Debezium y CDC de SQL Server)]] 🆕
+- [ ] [[Evolución de esquemas de eventos y schema registry]] 🆕 ⭐
+- [ ] [[AsyncAPI y CloudEvents]] 🆕
+- [ ] [[Motores de workflow (Temporal, Durable Functions y Logic Apps)]] 🆕
+- [ ] [[Integración con sistemas legados (archivos, FTP, bases compartidas)]] 🆕 🛠
+- [ ] [[Estrategia de APIs (API-first y APIs como producto)]] 🆕
+- [ ] [[Portal para desarrolladores y experiencia de quien consume tu API]] 🆕
+
+### Arquitectura socio-técnica 🆕
+- [ ] [[Team Topologies]] 🆕 ⭐
+- [ ] [[Carga cognitiva de los equipos]] 🆕
+- [ ] [[Maniobra inversa de Conway]] 🆕
+
 ---
 
 ## 10 · Radar de herramientas
@@ -929,6 +1034,14 @@ Cada herramienta lleva estado (probar, evaluar, adoptar o descartar), motivo y f
 - Una nota por proyecto, enlazada con su `ARQUITECTURA.md`:
   - [x] [[Ocelotl.Hermes]] · [x] [[Ocelotl.Iris]] · [x] [[Itzamna.Dionisio]] · [x] [[Itzamna.Clio]] · [x] [[ReporteriaAzure]] · [x] [[Pochteca.Nomisma]]
   - [ ] [[Hecate]] · [ ] [[Argo]] (cuando se pidan)
+
+### Proyecto integrador para demostrar nivel 🆕
+- [ ] [[Proyecto integrador - visión y requisitos]] 🆕 ⭐ (un sistema propio que junte lo aprendido)
+- [ ] [[Proyecto integrador - ADRs y diagramas C4]] 🆕 ⭐
+- [ ] [[Proyecto integrador - despliegue, observabilidad y SLOs]] 🆕 ⭐
+- [ ] [[Proyecto integrador - pruebas de carga y postmortem simulado]] 🆕
+- [ ] [[Proyecto integrador - caso de estudio publicado]] 🆕 ⭐ (portafolio)
+- [ ] Llenar la nota de cada proyecto existente (hoy la carpeta solo tiene el índice y `Itzamna.Dionisio.md` está vacío) 🆕
 
 ---
 
@@ -1034,6 +1147,16 @@ Cada herramienta lleva estado (probar, evaluar, adoptar o descartar), motivo y f
 - [ ] [[Metodología de pruebas web (OWASP WSTG)]]
 - [ ] [[Pentesting vs red team]]
 
+### Arquitectura de seguridad 🆕
+- [ ] [[STRIDE y modelado de amenazas en la práctica]] 🆕 ⭐
+- [ ] [[Arquitectura de identidad (usuarios, servicios y federación)]] 🆕 ⭐
+- [ ] [[Workload identity federation (sin secretos en pipelines)]] 🆕
+- [ ] [[Zero Trust en aplicaciones]] 🆕
+- [ ] [[Gestión de llaves y certificados (PKI básica)]] 🆕
+- [ ] [[Cumplimiento (ISO 27001, SOC 2 y PCI) para arquitectos]] 🆕
+- [ ] [[Auditoría y trazabilidad de acciones]] 🆕 🛠
+- [ ] [[Seguridad de sistemas con IA (datos, prompts y herramientas)]] 🆕 (enlaza con 21)
+
 ---
 
 ## 13 · Testing y calidad
@@ -1054,6 +1177,20 @@ Cada herramienta lleva estado (probar, evaluar, adoptar o descartar), motivo y f
 - [ ] [[Sentry]] 🛠 (incluye plan gratuito; 16 enlaza aquí)
 - [ ] [[Perfilado de rendimiento]]
 - [ ] [[Documentación técnica]]
+
+### Pruebas en sistemas distribuidos 🆕
+- [ ] [[Pruebas de contrato (Pact)]] 🆕 ⭐
+- [ ] [[Pruebas de mutación (Stryker)]] 🆕
+- [ ] [[Pruebas basadas en propiedades]] 🆕
+- [ ] [[Pruebas de arquitectura (reglas automáticas)]] 🆕 (enlaza [[Fitness functions]])
+- [ ] [[Datos de prueba y entornos efímeros]] 🆕
+- [ ] [[Pruebas en producción (canary, feature flags y synthetic monitoring)]] 🆕
+
+### Observabilidad a fondo 🆕
+- [ ] [[Trazas distribuidas y propagación de contexto]] 🆕 ⭐
+- [ ] [[Diseñar dashboards y alertas útiles]] 🆕 ⭐
+- [ ] [[Métodos RED y USE]] 🆕
+- [ ] [[Grafana, Prometheus y Loki]] 🆕
 
 ---
 
@@ -1106,6 +1243,21 @@ Cada herramienta lleva estado (probar, evaluar, adoptar o descartar), motivo y f
 - [ ] [[Práctica deliberada (katas de código y de diseño)]]
 - [ ] [[Leer código de otros]]
 - [ ] [[Contribuir a open source]]
+
+### De senior a arquitecto o staff 🆕
+- [ ] [[Arquetipos de staff (tech lead, arquitecto, solver y mano derecha)]] 🆕 ⭐
+- [ ] [[Tech lead - responsabilidades]] 🆕 ⭐
+- [ ] [[Mapa de stakeholders]] 🆕 ⭐
+- [ ] [[Caso de negocio para una decisión técnica]] 🆕 ⭐
+- [ ] [[Roadmap técnico]] 🆕
+- [ ] [[Presentar a directivos (resumen ejecutivo)]] 🆕 ⭐
+- [ ] [[Facilitar talleres técnicos]] 🆕
+- [ ] [[OKRs y métricas de impacto]] 🆕
+- [ ] [[Entrevistar candidatos (ser el entrevistador)]] 🆕
+- [ ] [[Documento de logros (brag document)]] 🆕 ⭐
+- [ ] [[Delegar sin perder calidad]] 🆕
+- [ ] [[Conocer el dominio del negocio (cómo aprender la industria donde trabajas)]] 🆕 ⭐
+- [ ] [[Glosario del negocio por proyecto]] 🆕 🛠
 
 ---
 
@@ -1676,6 +1828,13 @@ Cada herramienta lleva estado (probar, evaluar, adoptar o descartar), motivo y f
 - [ ] [[Cursos recomendados de ML y deep learning]]
 - [ ] [[Proyectos prácticos de IA]]
 
+### Arquitectura de aplicaciones con IA 🆕
+- [ ] [[Patrones de arquitectura con LLMs (gateway, caché semántica y fallback)]] 🆕 ⭐
+- [ ] [[Elegir modelo (calidad, costo, latencia y privacidad)]] 🆕 ⭐
+- [ ] [[Evaluaciones en producción y observabilidad de LLMs]] 🆕
+- [ ] [[Control de costos de IA (tokens, caché y límites)]] 🆕
+- [ ] [[Diseñar servidores MCP propios]] 🆕 🛠
+
 ---
 
 ## 22 · Integraciones (nuevo)
@@ -1704,6 +1863,82 @@ Cada herramienta lleva estado (probar, evaluar, adoptar o descartar), motivo y f
 - [x] [[Electron]] _(existe)_ 🛠
 - [x] [[Preload y contextBridge]] _(existe)_ 🛠
 - [x] [[SDK BD Rowa y WWKS2]] _(existe)_ 🛠
+
+---
+
+## 23 · Sistemas distribuidos y datos intensivos 🆕
+
+> El "cómo funciona por dentro" que distingue a un arquitecto. Base: *Designing Data-Intensive Applications*.
+
+### Almacenamiento
+- [ ] [[Motores de almacenamiento (B-tree vs LSM-tree)]] 🆕 ⭐
+- [ ] [[Write-ahead log]] 🆕
+- [ ] [[OLTP vs OLAP]] 🆕 ⭐
+- [ ] [[Persistencia políglota (elegir base por caso de uso)]] 🆕 ⭐
+
+### Replicación y consenso
+- [ ] [[Replicación líder-seguidor, multi-líder y sin líder]] 🆕 ⭐
+- [ ] [[Quórums]] 🆕
+- [ ] [[Consenso (Raft y Paxos en conceptos)]] 🆕
+- [ ] [[Relojes lógicos y vectoriales]] 🆕
+- [ ] [[Transacciones distribuidas y 2PC (y por qué evitarlas)]] 🆕 ⭐
+- [ ] [[PACELC (más allá de CAP)]] 🆕
+
+### Fallas y resiliencia
+- [ ] [[Falacias de la computación distribuida]] 🆕 ⭐
+- [ ] [[Timeouts, deadlines y presupuestos de reintento]] 🆕 ⭐
+- [ ] [[Degradación elegante y load shedding]] 🆕
+- [ ] [[Thundering herd y cache stampede]] 🆕
+
+### Datos a escala
+- [ ] [[Arquitectura de datos (data warehouse, data lake y lakehouse)]] 🆕
+- [ ] [[Data mesh (conceptos)]] 🆕
+- [ ] [[Streaming vs batch]] 🆕
+- [ ] [[Búsqueda (Elasticsearch, OpenSearch y Azure AI Search)]] 🆕
+- [ ] [[Planeación de capacidad]] 🆕 ⭐
+- [ ] [[Gobierno de datos (dueños, catálogo, calidad y retención)]] 🆕
+
+### Sincronización y edge 🆕
+- [ ] [[Offline-first y sincronización de datos]] 🆕
+- [ ] [[Resolución de conflictos al sincronizar (last-write-wins y CRDTs)]] 🆕
+- [ ] [[Edge computing (procesar cerca del usuario)]] 🆕
+
+---
+
+## 24 · Plataforma, nube y costos 🆕
+
+### Arquitectura en Azure (nivel AZ-305)
+- [ ] [[Azure Architecture Center y arquitecturas de referencia]] 🆕 ⭐
+- [ ] [[Cloud Adoption Framework y landing zones]] 🆕 ⭐
+- [ ] [[Red hub-spoke en Azure]] 🆕
+- [ ] [[Elegir servicio de cómputo en Azure (árbol de decisión)]] 🆕 ⭐
+- [ ] [[Elegir almacén de datos en Azure (árbol de decisión)]] 🆕 ⭐
+- [ ] [[Alta disponibilidad en Azure (zonas, regiones y SLA compuesto)]] 🆕 ⭐
+
+### Multinube
+- [ ] [[Equivalencias de servicios entre Azure, AWS y Google Cloud]] 🆕 ⭐
+- [ ] [[Lock-in de proveedor (cuándo importa y cuándo no)]] 🆕
+
+### Migración a la nube 🆕
+- [ ] [[Estrategias de migración a la nube (las 6R)]] 🆕 ⭐
+- [ ] [[Plan de migración por oleadas]] 🆕
+- [ ] [[Azure Migrate (conceptos)]] 🆕
+
+### Contenedores a nivel intermedio
+- [ ] [[Kubernetes - deployments, services e ingress]] 🆕
+- [ ] [[Helm]] 🆕
+- [ ] [[Autoescalado (HPA y KEDA)]] 🆕
+
+### Platform engineering
+- [ ] [[Platform engineering y plataforma interna (IDP)]] 🆕
+- [ ] [[Golden paths y plantillas de servicio]] 🆕 🛠
+- [ ] [[Backstage (conceptos)]] 🆕
+
+### FinOps
+- [ ] [[FinOps - principios]] 🆕 ⭐
+- [ ] [[Estimar el costo de una arquitectura antes de construirla]] 🆕 ⭐
+- [ ] [[Reservas, savings plans y spot]] 🆕
+- [ ] [[Costo por cliente o por transacción (unit economics)]] 🆕
 
 ---
 
@@ -2092,6 +2327,11 @@ Cada herramienta lleva estado (probar, evaluar, adoptar o descartar), motivo y f
 - [ ] [[Cajas para electrónica]]
 - [ ] [[Accesorios impresos para foto, video y dron]] 🛠
 
+### Electrónica básica para proyectos impresos 🆕
+- [ ] [[Electrónica básica (voltaje, corriente, resistencias y LEDs)]] 🆕
+- [ ] [[Arduino y ESP32 para proyectos caseros]] 🆕
+- [ ] [[Proyecto - lámpara o litofanía con LEDs controlados]] 🆕
+
 ---
 
 ## 38 · Modelado 3D artístico (hobby)
@@ -2165,9 +2405,1253 @@ Cada herramienta lleva estado (probar, evaluar, adoptar o descartar), motivo y f
 - [ ] [[Licencias de modelos de IA 3D]]
 - [ ] [[Propiedad y uso comercial de modelos generados por IA]]
 
+### Puentes entre hobbies y software 🆕
+- [ ] [[Automatizar el flujo de fotos con scripts (renombrar, respaldar y EXIF)]] 🆕 (practica Python o PowerShell)
+- [ ] [[Portafolio fotográfico propio como proyecto web]] 🆕 (practica front, CDN e imágenes responsive)
+- [ ] [[Monitoreo remoto de la impresora 3D (si el firmware lo permite)]] 🆕
+- [ ] [[Bitácora de impresiones y costos en una base de datos propia]] 🆕 (practica SQL y Power BI)
+- [ ] [[Balance de tiempo entre carrera y hobbies]] 🆕
+
+---
+
+---
+
+# Habilidades para la vida 🆕
+
+> Áreas 40 a 53. Mismo método: notas con autoevaluación y laboratorios. Hablar en público, inglés y caligrafía se califican con rúbrica (ver cada área).
+
+## 40 · Hablar en público y exposiciones 🆕
+
+> La calificación usa la [[Rúbrica de exposiciones]]: teoría → visto; sesiones de práctica → practicado; presentación real o tres sesiones con 3.5+ → dominado.
+
+### Fundamentos
+- [ ] [[Por qué cuesta hablar en público]] ⭐
+- [ ] [[Miedo escénico y manejo de nervios]] ⭐
+- [ ] [[Conocer a tu público]] ⭐
+- [ ] [[Preparar una exposición paso a paso]] ⭐
+- [ ] [[Ensayar con método]]
+
+### Estructura del mensaje
+- [ ] [[Mensaje central en una frase]] ⭐
+- [ ] [[Aperturas que enganchan]] ⭐
+- [ ] [[Estructuras de charla (problema-solución, pasado-presente-futuro y regla de tres)]]
+- [ ] [[Storytelling para exposiciones]] ⭐
+- [ ] [[Cierres y llamada a la acción]] ⭐
+- [ ] [[Transiciones entre ideas]]
+- [ ] [[Lab 1 - Pitch de 2 minutos de un proyecto propio]] (laboratorio)
+
+### Voz y lenguaje corporal
+- [ ] [[Ritmo, pausas y volumen]] ⭐
+- [ ] [[Muletillas y cómo reducirlas]] ⭐
+- [ ] [[Postura, gestos y manos]]
+- [ ] [[Mirada y conexión con el público]]
+- [ ] [[Uso del espacio en el escenario]]
+
+### Apoyos visuales
+- [ ] [[Diapositivas efectivas (una idea por lámina)]] ⭐
+- [ ] [[Mostrar datos y gráficas en una exposición]]
+- [ ] [[Demos en vivo sin desastres]]
+- [ ] [[Cuándo no usar diapositivas]]
+- [ ] [[Notas del orador y control del tiempo]]
+
+### Formatos
+- [ ] [[Exposición técnica a desarrolladores]] ⭐
+- [ ] [[Presentar a directivos (resumen ejecutivo)]] (vive en 14 · Carrera)
+- [ ] [[Pitch de 2 minutos]] ⭐
+- [ ] [[Charla en meetup o conferencia]]
+- [ ] [[Lightning talk]]
+- [ ] [[Hablar en juntas y reuniones]]
+- [ ] [[Improvisar (hablar sin preparación)]] ⭐
+- [ ] [[Lab 2 - Exposición técnica de 5 minutos con ronda de preguntas]] (laboratorio)
+- [ ] [[Lab 3 - Improvisación de 1 minuto con tema al azar]] (laboratorio)
+
+### Presentar en línea
+- [ ] [[Cámara, luz y audio para presentar en línea]] (enlaza con 31 y 34)
+- [ ] [[Presentar en Teams y Zoom]]
+- [ ] [[Mantener la atención en reuniones virtuales]]
+
+### Preguntas y respuestas
+- [ ] [[Manejar la ronda de preguntas]] ⭐
+- [ ] [[Preguntas difíciles o agresivas]]
+- [ ] [[Decir no sé con seguridad]]
+- [ ] [[Interrupciones y público difícil]]
+
+### Práctica y evaluación
+- [x] [[Rúbrica de exposiciones]] ⭐ _(existe)_
+- [ ] [[Grabarte y revisarte]] ⭐
+- [ ] [[Toastmasters y clubes de oratoria]]
+- [ ] [[Bitácora de presentaciones]]
+- [ ] [[Lab 4 - Video grabado y revisión con la rúbrica]] (laboratorio)
+
+---
+
+## 41 · Salud financiera 🆕
+
+> Contenido educativo, no asesoría financiera. Cifras, topes y reglas (SAT, CONDUSEF, Banxico, CONSAR, IMSS) se verifican en la fuente oficial al escribir cada nota.
+
+### Fundamentos
+- [ ] [[Qué es la salud financiera]] ⭐
+- [ ] [[Ingreso, gasto, ahorro e inversión]]
+- [ ] [[Metas financieras (corto, mediano y largo plazo)]] ⭐
+- [ ] [[Patrimonio neto (cómo calcularlo)]]
+
+### Presupuesto
+- [ ] [[Presupuesto personal paso a paso]] ⭐
+- [ ] [[Regla 50-30-20 y alternativas]]
+- [ ] [[Gastos hormiga]]
+- [ ] [[Herramientas para llevar tus finanzas (hoja de cálculo y apps)]]
+- [ ] [[Finanzas en pareja o en familia]]
+- [ ] [[Lab 1 - Mi presupuesto real de un mes]] (laboratorio)
+
+### Fondo de emergencia
+- [ ] [[Fondo de emergencia (cuánto y dónde tenerlo)]] ⭐
+- [ ] [[Lab 2 - Plan para mi fondo de emergencia]] (laboratorio)
+
+### Crédito y deudas
+- [ ] [[Cómo funciona una tarjeta de crédito (fecha de corte, fecha límite y pago)]] ⭐
+- [ ] [[Pago mínimo vs pago para no generar intereses]] ⭐
+- [ ] [[CAT, tasa de interés y comisiones]] ⭐
+- [ ] [[Buró de Crédito y Círculo de Crédito]]
+- [ ] [[Estrategias para salir de deudas (bola de nieve y avalancha)]]
+- [ ] [[Créditos personales, de nómina y meses sin intereses]]
+- [ ] [[Deuda buena y deuda mala]]
+- [ ] [[Lab 3 - Revisar mi estado de cuenta y mi reporte de crédito]] (laboratorio)
+
+### Seguros
+- [ ] [[Seguro de gastos médicos mayores]] ⭐
+- [ ] [[Seguro de vida]]
+- [ ] [[Seguro de auto]]
+- [ ] [[Seguro de hogar y de equipo (fotografía y dron)]]
+- [ ] [[Cómo leer una póliza (suma asegurada, deducible y coaseguro)]]
+
+### Retiro
+- [ ] [[Afore - cómo funciona y cómo elegirla]] ⭐
+- [ ] [[Aportaciones voluntarias a la Afore]] ⭐
+- [ ] [[Plan Personal de Retiro (PPR)]]
+- [ ] [[Cuánto necesitas para retirarte]]
+- [ ] [[Semanas cotizadas y pensión del IMSS]]
+- [ ] [[Lab 4 - Revisar mi Afore y simular mi retiro]] (laboratorio)
+
+### Vivienda
+- [ ] [[Rentar vs comprar]] ⭐
+- [ ] [[Crédito Infonavit]]
+- [ ] [[Créditos hipotecarios bancarios]]
+- [ ] [[Gastos al comprar una casa (escrituración, avalúo e impuestos)]]
+
+### Impuestos
+- [ ] [[Impuestos para asalariados (ISR y retenciones)]]
+- [ ] [[Declaración anual de personas físicas]] ⭐
+- [ ] [[Deducciones personales]]
+- [ ] [[RFC, e.firma y Buzón Tributario]]
+- [ ] [[Facturación (CFDI) para personas físicas]]
+- [ ] [[Impuestos como freelance]] (enlaza con 45)
+- [ ] [[Lab 5 - Mi declaración anual con deducciones]] (laboratorio)
+
+### Protección
+- [ ] [[Fraudes financieros comunes en México]] ⭐
+- [ ] [[Esquemas piramidales e inversiones milagro]] ⭐
+- [ ] [[Seguridad en banca digital]] (enlaza con 51)
+- [ ] [[CONDUSEF - cómo presentar una queja]]
+
+---
+
+## 42 · Inversiones 🆕
+
+> Contenido educativo, no asesoría de inversión. Tasas, comisiones y reglas fiscales se verifican en la fuente oficial al escribir cada nota.
+
+### Conceptos
+- [ ] [[Interés compuesto]] ⭐
+- [ ] [[Inflación y rendimiento real]] ⭐
+- [ ] [[Riesgo, rendimiento y liquidez]] ⭐
+- [ ] [[Diversificación]] ⭐
+- [ ] [[Perfil de inversionista]]
+- [ ] [[Horizonte de inversión]]
+- [ ] [[Lab 1 - Interés compuesto en una hoja de cálculo]] (laboratorio)
+
+### Instrumentos de deuda
+- [ ] [[Cetes]] ⭐
+- [ ] [[Bonos gubernamentales (Bondes, Udibonos y Mbonos)]]
+- [ ] [[Pagarés bancarios y cuentas con rendimiento]]
+- [ ] [[Sofipos y protección de depósitos (IPAB y Prosofipo)]] ⭐
+- [ ] [[Lab 2 - Comparar Cetes, pagaré y Sofipo con rendimiento real]] (laboratorio)
+
+### Renta variable
+- [ ] [[Qué es una acción y cómo funciona la bolsa]]
+- [ ] [[Fondos de inversión]]
+- [ ] [[ETFs y fondos indexados]] ⭐
+- [ ] [[SIC (Sistema Internacional de Cotizaciones)]]
+- [ ] [[Dividendos]]
+
+### Otros activos
+- [ ] [[FIBRAs]]
+- [ ] [[Bienes raíces como inversión]]
+- [ ] [[Oro y materias primas]]
+- [ ] [[Criptomonedas (riesgos y realidad)]]
+
+### Estrategia
+- [ ] [[Asignación de activos por edad y metas]] ⭐
+- [ ] [[Inversión periódica (DCA)]] ⭐
+- [ ] [[Rebalanceo de portafolio]]
+- [ ] [[Largo plazo vs especulación]]
+- [ ] [[Invertir en dólares y riesgo cambiario]]
+- [ ] [[Lab 3 - Diseñar mi asignación de activos en papel]] (laboratorio)
+
+### Práctica
+- [ ] [[Cómo elegir casa de bolsa o app de inversión]] ⭐
+- [ ] [[Comisiones y su efecto en el rendimiento]]
+- [ ] [[Impuestos de las inversiones en México]]
+- [ ] [[Leer un estado de cuenta de inversión]]
+- [ ] [[Practicar con simulador antes de usar dinero real]]
+- [ ] [[Lab 4 - Analizar las comisiones de una plataforma]] (laboratorio)
+
+### Psicología y errores
+- [ ] [[Sesgos al invertir]]
+- [ ] [[Qué hacer cuando el mercado cae]] ⭐
+- [ ] [[Consejos de redes sociales y finfluencers]]
+- [ ] [[Errores comunes al empezar a invertir]]
+
+---
+
+## 43 · Aprender a aprender y productividad 🆕
+
+### Aprender a aprender
+- [ ] [[Cómo funciona la memoria]]
+- [ ] [[Recuperación activa]] ⭐
+- [ ] [[Repaso espaciado]] ⭐
+- [ ] [[Técnica Feynman]] ⭐
+- [ ] [[Práctica deliberada en cualquier habilidad]]
+- [ ] [[Intercalar temas (interleaving)]]
+- [ ] [[Aprender haciendo proyectos]]
+- [ ] [[Lab 1 - Explicar un tema técnico con la técnica Feynman]] (laboratorio)
+
+### Gestión del tiempo
+- [ ] [[Priorizar con la matriz de Eisenhower]] ⭐
+- [ ] [[Bloques de tiempo (time blocking)]] ⭐
+- [ ] [[Técnica Pomodoro]]
+- [ ] [[Planeación semanal]] ⭐
+- [ ] [[Decir que no a compromisos]]
+- [ ] [[Lab 2 - Una semana con bloques de tiempo]] (laboratorio)
+
+### Enfoque
+- [ ] [[Trabajo profundo (deep work)]] ⭐
+- [ ] [[Manejar distracciones y notificaciones]]
+- [ ] [[El costo de la multitarea]]
+
+### Hábitos
+- [ ] [[Cómo se forma un hábito]] ⭐
+- [ ] [[Rutinas de mañana y noche]]
+- [ ] [[Seguimiento de hábitos]]
+
+### Segundo cerebro
+- [ ] [[Métodos PARA y CODE]]
+- [ ] [[Notas atómicas y enlaces]]
+- [ ] [[Revisión semanal]] ⭐
+- [ ] [[Obsidian (frontmatter, Dataview y plugins útiles)]] (vive en 10 · Radar)
+- [ ] [[Lab 3 - Mi primera revisión semanal]] (laboratorio)
+
+### Energía y burnout
+- [ ] [[Señales de burnout]] ⭐
+- [ ] [[Descanso y recuperación]]
+- [ ] [[Balance de tiempo entre carrera y hobbies]] (vive en 39)
+
+---
+
+## 44 · Negociación e influencia 🆕
+
+### Negociación
+- [ ] [[Principios de negociación (posiciones vs intereses)]] ⭐
+- [ ] [[BATNA (tu mejor alternativa)]] ⭐
+- [ ] [[Anclaje y primeras ofertas]]
+- [ ] [[Negociación salarial]] (vive en 14 · Carrera)
+- [ ] [[Negociar precios y contratos]]
+- [ ] [[Negociar en el día a día (renta, compras y familia)]]
+- [ ] [[Lab 1 - Preparar una negociación real con BATNA]] (laboratorio)
+
+### Inteligencia emocional
+- [ ] [[Qué es la inteligencia emocional]]
+- [ ] [[Autoconciencia y manejo de emociones]] ⭐
+- [ ] [[Empatía y escucha activa]] ⭐
+
+### Comunicación asertiva
+- [ ] [[Comunicación asertiva]] ⭐
+- [ ] [[Conversaciones difíciles]] ⭐
+- [ ] [[Poner límites]]
+- [ ] [[Pedir y dar disculpas]]
+- [ ] [[Lab 2 - Ensayar una conversación difícil]] (laboratorio)
+
+### Persuasión
+- [ ] [[Principios de persuasión con ética]]
+- [ ] [[Argumentar con datos e historias]]
+
+### Networking y marca personal
+- [ ] [[Networking sin incomodidad]] ⭐
+- [ ] [[LinkedIn para desarrolladores]] ⭐
+- [ ] [[Crear contenido técnico (blog, videos y charlas)]]
+- [ ] [[Comunidades y meetups]]
+- [ ] [[Lab 3 - Mejorar mi perfil de LinkedIn]] (laboratorio)
+
+---
+
+## 45 · Freelance y emprendimiento 🆕
+
+> Reglas fiscales y permisos se verifican en la fuente oficial (SAT, AFAC) al escribir cada nota.
+
+### Fundamentos
+- [ ] [[Freelance vs empleo vs empresa propia]] ⭐
+- [ ] [[Validar una idea de negocio]] ⭐
+- [ ] [[Modelo de negocio en una página (Lean Canvas)]]
+
+### Software como freelance
+- [ ] [[Cotizar un proyecto de software]] ⭐
+- [ ] [[Precio por hora vs por proyecto vs por valor]] ⭐
+- [ ] [[Contratos, anticipos y alcance]] ⭐
+- [ ] [[Manejar cambios de alcance]]
+- [ ] [[Mantenimiento y soporte como ingreso recurrente]]
+- [ ] [[Conseguir clientes]]
+- [ ] [[Lab 1 - Cotización de un proyecto real]] (laboratorio)
+
+### Monetizar hobbies
+- [ ] [[Vender fotografías (bancos de imágenes y clientes directos)]]
+- [ ] [[Servicios de foto y video para eventos y negocios]]
+- [ ] [[Servicios con dron (uso comercial y permisos)]] ⭐
+- [ ] [[Vender impresiones 3D (costeo y licencias)]] ⭐
+- [ ] [[Productos digitales (presets, LUTs y modelos 3D)]]
+- [ ] [[Lab 2 - Precio de venta de una impresión 3D]] (laboratorio)
+- [ ] [[Lab 3 - Lean Canvas de un servicio con mis hobbies]] (laboratorio)
+
+### Legal y fiscal
+- [ ] [[Alta en el SAT para trabajar por tu cuenta]]
+- [ ] [[RESICO para personas físicas]] ⭐
+- [ ] [[Facturar como freelance]]
+- [ ] [[Contratos y propiedad intelectual]] (enlaza con 48)
+
+### Marketing y ventas
+- [ ] [[Marketing básico para independientes]]
+- [ ] [[Portafolio que vende]]
+- [ ] [[Redes sociales para un negocio pequeño]]
+- [ ] [[Atención al cliente y reseñas]]
+
+### Finanzas del negocio
+- [ ] [[Separar finanzas personales y del negocio]] ⭐
+- [ ] [[Flujo de efectivo]]
+- [ ] [[Apartar para impuestos y meses flojos]]
+
+---
+
+## 46 · Salud y bienestar 🆕
+
+> Información general para quien trabaja sentado. Lo médico se consulta con un profesional de la salud.
+
+### Ergonomía
+- [ ] [[Escritorio, silla y monitor ergonómicos]] ⭐
+- [ ] [[Pausas activas]]
+- [ ] [[Prevenir dolor de espalda, cuello y muñecas]]
+- [ ] [[Lab 1 - Ajustar mi espacio de trabajo]] (laboratorio)
+
+### Salud visual
+- [ ] [[Regla 20-20-20 y fatiga visual]] ⭐
+- [ ] [[Luz de pantalla y del ambiente]]
+
+### Sueño
+- [ ] [[Higiene del sueño]] ⭐
+- [ ] [[Sueño y rendimiento mental]]
+- [ ] [[Lab 2 - Dos semanas de registro de sueño y pausas]] (laboratorio)
+
+### Actividad física
+- [ ] [[Ejercicio básico para quien trabaja sentado]] ⭐
+- [ ] [[Moverse durante el día]]
+- [ ] [[Fuerza y movilidad en casa]]
+
+### Alimentación
+- [ ] [[Alimentación y energía durante el día]]
+- [ ] [[Hidratación]]
+- [ ] [[Cafeína con criterio]]
+
+### Salud mental
+- [ ] [[Manejo del estrés]] ⭐
+- [ ] [[Ansiedad (información general)]]
+- [ ] [[Cuándo buscar ayuda profesional]] ⭐
+
+### Prevención
+- [ ] [[Chequeos médicos preventivos]]
+- [ ] [[Primeros auxilios básicos]]
+
+---
+
+## 47 · Pensamiento crítico y toma de decisiones 🆕
+
+### Pensamiento crítico
+- [ ] [[Qué es pensar críticamente]] ⭐
+- [ ] [[Argumentos, premisas y conclusiones]]
+- [ ] [[Falacias lógicas comunes]] ⭐
+- [ ] [[Evaluar fuentes e información en internet]] ⭐
+
+### Sesgos cognitivos
+- [ ] [[Sesgos cognitivos]] ⭐ (nota índice)
+- [ ] [[Sesgo de confirmación]]
+- [ ] [[Sesgo de anclaje]]
+- [ ] [[Falacia del costo hundido]] ⭐
+- [ ] [[Exceso de confianza y efecto Dunning-Kruger]]
+
+### Modelos mentales
+- [ ] [[Pensar desde primeros principios]] ⭐
+- [ ] [[Pensamiento de segundo orden]] ⭐
+- [ ] [[Inversión (pensar al revés)]]
+- [ ] [[Costo de oportunidad]] ⭐
+- [ ] [[Navaja de Occam y navaja de Hanlon]]
+- [ ] [[Círculo de competencia]]
+
+### Decisiones
+- [ ] [[Decidir con información incompleta]] ⭐
+- [ ] [[Matriz de decisión ponderada]]
+- [ ] [[Premortem]] ⭐
+- [ ] [[Diario de decisiones]]
+- [ ] [[Probabilidades y valor esperado]]
+- [ ] [[Lab 1 - Premortem de un proyecto propio]] (laboratorio)
+- [ ] [[Lab 2 - Diario de decisiones de un mes]] (laboratorio)
+
+---
+
+## 48 · Legal básico personal 🆕
+
+> Contenido educativo, no asesoría legal. Leyes, montos y plazos se verifican en la fuente oficial (DOF, STPS, PROFECO, INDAUTOR, IMPI) al escribir cada nota.
+
+### Derechos laborales
+- [ ] [[Ley Federal del Trabajo - lo esencial]] ⭐
+- [ ] [[Contrato laboral (tipos y qué revisar)]] ⭐
+- [ ] [[Aguinaldo, vacaciones y prima vacacional]] ⭐
+- [ ] [[PTU (reparto de utilidades)]]
+- [ ] [[Finiquito vs liquidación]] ⭐
+- [ ] [[Subcontratación y outsourcing]]
+- [ ] [[Teletrabajo (derechos y obligaciones)]]
+- [ ] [[Renuncia y despido]]
+- [ ] [[Lab 1 - Revisar mi contrato laboral con checklist]] (laboratorio)
+- [ ] [[Lab 2 - Calcular aguinaldo, vacaciones y finiquito]] (laboratorio)
+
+### Contratos
+- [ ] [[Cómo leer un contrato antes de firmar]] ⭐
+- [ ] [[Contrato de arrendamiento]]
+- [ ] [[Contrato de servicios profesionales]]
+- [ ] [[NDA y cláusulas de no competencia]]
+
+### Propiedad intelectual
+- [ ] [[Derechos de autor en México (INDAUTOR)]] ⭐
+- [ ] [[Quién es dueño del código que escribes en tu trabajo]] ⭐
+- [ ] [[Registro de marca (IMPI)]]
+- [ ] [[Licencias de lo que creas]] (enlaza con 09 y 36)
+
+### Consumidor y patrimonio
+- [ ] [[PROFECO y tus derechos como consumidor]]
+- [ ] [[Garantías y devoluciones]]
+- [ ] [[Testamento y beneficiarios (Afore, seguros y cuentas)]]
+
+---
+
+## 49 · Idiomas 🆕
+
+> Empezamos por inglés, por niveles del Marco Común Europeo. Calificación con la [[Rúbrica de inglés]]. Para el inglés del trabajo, ver 14 · Inglés técnico.
+
+### Diagnóstico y plan
+- [ ] [[Niveles del Marco Común Europeo (A1 a C2)]] ⭐
+- [ ] [[Examen de colocación de inglés]] ⭐
+- [ ] [[Rutina diaria de inglés (20 a 30 minutos)]] ⭐
+- [x] [[Rúbrica de inglés]] ⭐ _(existe)_
+- [ ] [[Inglés técnico - plan de estudio]] (vive en 14 · Carrera)
+- [ ] [[Lab 1 - Examen de colocación con Claude y EF SET]] (laboratorio)
+
+### Inglés A1
+- [ ] [[Inglés A1 - pronombres y verbo to be]]
+- [ ] [[Inglés A1 - presente simple]] ⭐
+- [ ] [[Inglés A1 - artículos y sustantivos]]
+- [ ] [[Inglés A1 - there is y there are]]
+- [ ] [[Inglés A1 - preguntas con wh]]
+- [ ] [[Inglés A1 - vocabulario básico (números, fechas, familia y rutina)]]
+- [ ] [[Inglés A1 - presentarte y hablar de tu rutina]] ⭐
+
+### Inglés A2
+- [ ] [[Inglés A2 - pasado simple (regulares e irregulares)]] ⭐
+- [ ] [[Inglés A2 - presente continuo]]
+- [ ] [[Inglés A2 - futuro con will y going to]]
+- [ ] [[Inglés A2 - comparativos y superlativos]]
+- [ ] [[Inglés A2 - preposiciones de tiempo y lugar]]
+- [ ] [[Inglés A2 - can, could y should]]
+- [ ] [[Inglés A2 - vocabulario de trabajo, viajes y compras]]
+
+### Inglés B1
+- [ ] [[Inglés B1 - presente perfecto]] ⭐
+- [ ] [[Inglés B1 - pasado continuo]]
+- [ ] [[Inglés B1 - condicionales cero, primero y segundo]] ⭐
+- [ ] [[Inglés B1 - voz pasiva]]
+- [ ] [[Inglés B1 - modales (must, have to y might)]]
+- [ ] [[Inglés B1 - phrasal verbs más usados]] ⭐
+- [ ] [[Inglés B1 - contar experiencias y dar opiniones]]
+- [ ] [[Lab 2 - Conversación de 10 minutos sobre mi trabajo]] (laboratorio)
+
+### Inglés B2
+- [ ] [[Inglés B2 - presente perfecto continuo y pasado perfecto]]
+- [ ] [[Inglés B2 - tercer condicional y condicionales mixtos]]
+- [ ] [[Inglés B2 - estilo indirecto (reported speech)]]
+- [ ] [[Inglés B2 - cláusulas relativas]]
+- [ ] [[Inglés B2 - conectores para hablar y escribir]] ⭐
+- [ ] [[Inglés B2 - collocations]]
+- [ ] [[Inglés B2 - debatir y argumentar]] ⭐
+
+### Inglés C1
+- [ ] [[Inglés C1 - inversión y énfasis]]
+- [ ] [[Inglés C1 - expresiones idiomáticas]]
+- [ ] [[Inglés C1 - registro formal e informal]] ⭐
+- [ ] [[Inglés C1 - matices y lenguaje diplomático]]
+
+### Pronunciación
+- [ ] [[Sonidos del inglés que no existen en español]] ⭐
+- [ ] [[Vocales cortas y largas en inglés]]
+- [ ] [[Terminaciones -ed y -s]]
+- [ ] [[Acento y ritmo de la oración en inglés]]
+- [ ] [[Linking (unir palabras al hablar)]]
+- [ ] [[Lab 3 - Shadowing de un video de 2 minutos]] (laboratorio)
+
+### Habilidades
+- [ ] [[Comprensión auditiva en inglés (listening)]] ⭐
+- [ ] [[Lectura en inglés]]
+- [ ] [[Escritura en inglés]] ⭐
+- [ ] [[Conversación en inglés (speaking)]] ⭐
+- [ ] [[Pensar en inglés]]
+- [ ] [[Lab 4 - Escribir un correo profesional en inglés y corregirlo]] (laboratorio)
+
+### Recursos
+- [ ] [[Series, podcasts y YouTube para aprender inglés por nivel]]
+- [ ] [[Apps para aprender inglés]]
+- [ ] [[Diario en inglés]]
+- [ ] [[Intercambio de idiomas]]
+- [ ] [[Certificaciones de inglés (TOEFL, IELTS, Cambridge y EF SET)]] (vive en 18)
+
+---
+
+## 50 · Escritura clara 🆕
+
+> Empieza por ortografía y caligrafía. La caligrafía se califica con fotos de tus planas y la [[Rúbrica de caligrafía]].
+
+### Ortografía
+- [ ] [[Reglas de acentuación (agudas, graves y esdrújulas)]] ⭐
+- [ ] [[Acento diacrítico (tú y tu, más y mas, sé y se)]] ⭐
+- [ ] [[Diptongos, triptongos e hiatos]]
+- [ ] [[Uso de b y v]]
+- [ ] [[Uso de c, s y z]]
+- [ ] [[Uso de g y j]]
+- [ ] [[Uso de h]]
+- [ ] [[Uso de ll e y]]
+- [ ] [[Uso de r y rr]]
+- [ ] [[Uso de mayúsculas]] ⭐
+- [ ] [[Porque, porqué, por qué y por que]] ⭐
+- [ ] [[Haber, a ver y a haber]]
+- [ ] [[Hay, ahí y ay]]
+- [ ] [[Errores ortográficos más comunes]] ⭐
+- [ ] [[Abreviaturas, siglas y escritura de números]]
+- [ ] [[Lab 1 - Dictado y examen de ortografía]] (laboratorio)
+
+### Puntuación
+- [ ] [[La coma]] ⭐
+- [ ] [[Punto y seguido, punto y aparte y punto final]]
+- [ ] [[Punto y coma y dos puntos]]
+- [ ] [[Signos de interrogación y exclamación]]
+- [ ] [[Comillas, paréntesis y rayas]]
+
+### Gramática para escribir bien
+- [ ] [[Concordancia de género y número]] ⭐
+- [ ] [[Dequeísmo y queísmo]]
+- [ ] [[Uso correcto del gerundio]]
+- [ ] [[Voz activa y voz pasiva en español]]
+- [ ] [[Leísmo, laísmo y loísmo]]
+
+### Caligrafía
+- [ ] [[Postura, agarre del lápiz y materiales]] ⭐
+- [ ] [[Letra de molde legible]] ⭐
+- [ ] [[Letra cursiva]] ⭐
+- [ ] [[Ritmo, inclinación y espaciado de la letra]]
+- [ ] [[Rutina diaria de caligrafía]] ⭐
+- [x] [[Rúbrica de caligrafía]] ⭐ _(existe)_
+- [ ] [[Tomar notas a mano]]
+- [ ] [[Lettering y caligrafía creativa (opcional)]]
+- [ ] [[Lab 2 - Plana de caligrafía de 15 minutos con foto]] (laboratorio)
+
+### Redacción clara
+- [ ] [[Escribir claro (frases cortas y una idea por párrafo)]] ⭐
+- [ ] [[Pirámide invertida (lo importante primero)]] ⭐
+- [ ] [[Quitar palabras de relleno]]
+- [ ] [[Revisar y corregir tus propios textos]] ⭐
+- [ ] [[Escribir para leer en pantalla]]
+
+### Escritura profesional
+- [ ] [[Correos profesionales]] ⭐
+- [ ] [[Mensajes de trabajo en chat (Teams y Slack)]]
+- [ ] [[Resumen ejecutivo por escrito]] ⭐
+- [ ] [[Propuestas y cotizaciones por escrito]]
+- [ ] [[Minutas y seguimiento de reuniones]]
+- [ ] [[Documentación técnica]] (vive en 13)
+- [ ] [[Lab 3 - Reescribir un correo real para que sea claro]] (laboratorio)
+- [ ] [[Lab 4 - Resumen ejecutivo de una página]] (laboratorio)
+
+### Escritura creativa (opcional)
+- [ ] [[Contar una historia por escrito]]
+- [ ] [[Guiones cortos para redes y video]]
+
+### Herramientas
+- [ ] [[Diccionario de la RAE y Fundéu]] ⭐
+- [ ] [[Correctores ortográficos y de estilo]]
+- [ ] [[Usar IA para corregir sin perder tu voz]]
+
+---
+
+## 51 · Ciberseguridad personal y vida digital 🆕
+
+> La teoría a fondo está en 12 · Seguridad; aquí va lo práctico para tu vida diaria.
+
+### Contraseñas y cuentas
+- [ ] [[Gestor de contraseñas]] ⭐
+- [ ] [[Contraseñas fuertes y frases de paso]]
+- [ ] [[Verificación en dos pasos (2FA) y llaves de seguridad]] ⭐
+- [ ] [[Passkeys]]
+- [ ] [[Recuperación de cuentas]]
+- [ ] [[Lab 1 - Auditoría de mis cuentas y activar 2FA]] (laboratorio)
+
+### Fraudes y engaños
+- [ ] [[Phishing, smishing y vishing]] ⭐
+- [ ] [[Fraudes por WhatsApp y llamadas en México]] ⭐
+- [ ] [[Compras en línea seguras]]
+- [ ] [[Fraudes con IA (voces y videos falsos)]]
+
+### Dispositivos
+- [ ] [[Actualizaciones y antivirus]]
+- [ ] [[Seguridad del iPhone]] ⭐
+- [ ] [[Wi-Fi público y VPN personal]]
+- [ ] [[Seguridad del router de casa]]
+
+### Respaldo y vida digital
+- [ ] [[Respaldo 3-2-1 de fotos y videos]] (vive en 30 · Fotografía)
+- [ ] [[Respaldo de toda tu vida digital]] ⭐
+- [ ] [[Nube vs disco externo]]
+- [ ] [[Herencia digital (qué pasa con tus cuentas)]]
+- [ ] [[Lab 2 - Plan de respaldo de mi vida digital]] (laboratorio)
+
+### Privacidad
+- [ ] [[Privacidad en redes sociales]]
+- [ ] [[Huella digital y datos personales]]
+- [ ] [[Permisos de las apps]]
+- [ ] [[Derechos ARCO sobre tus datos personales]]
+
+### Si te hackean
+- [ ] [[Qué hacer si te roban una cuenta]] ⭐
+- [ ] [[Qué hacer si pierdes o te roban el celular]] ⭐
+- [ ] [[Robo de identidad]]
+
+---
+
+## 52 · Economía básica 🆕
+
+> Datos de inflación, tasas y tipo de cambio se consultan en Banxico e INEGI al escribir cada nota.
+
+### Conceptos
+- [ ] [[Qué es la economía (micro y macro)]]
+- [ ] [[Oferta y demanda]] ⭐
+- [ ] [[El dinero y para qué sirve]]
+- [ ] [[PIB y crecimiento económico]]
+
+### Inflación y tasas
+- [ ] [[Inflación e INPC]] ⭐
+- [ ] [[Tasa de interés de Banxico]] ⭐
+- [ ] [[Cómo afecta la tasa a créditos e inversiones]] ⭐
+- [ ] [[Banco de México y su función]]
+- [ ] [[Lab 1 - Cómo afecta la tasa de Banxico a mis Cetes (con datos reales)]] (laboratorio)
+
+### Tipo de cambio y comercio
+- [ ] [[Tipo de cambio peso-dólar]] ⭐
+- [ ] [[Remesas, exportaciones e importaciones]]
+- [ ] [[T-MEC y comercio internacional]]
+
+### Ciclos y mercados
+- [ ] [[Ciclos económicos y recesiones]] ⭐
+- [ ] [[Mercados financieros y economía real]]
+- [ ] [[Deuda pública y calificación crediticia]]
+
+### Leer noticias económicas
+- [ ] [[Cómo leer una noticia económica]] ⭐
+- [ ] [[Indicadores para seguir (inflación, tasa, empleo y tipo de cambio)]]
+
+---
+
+## 53 · Gestión de personas 🆕
+
+> Para cuando tengas gente a cargo. Complementa 14 · Carrera (influir sin autoridad).
+
+### El rol de líder
+- [ ] [[De desarrollador a líder]] ⭐
+- [ ] [[Tech lead - responsabilidades]] (vive en 14 · Carrera)
+- [ ] [[Estilos de liderazgo]]
+
+### Reuniones uno a uno
+- [ ] [[Reuniones 1:1]] ⭐
+- [ ] [[Preguntas para reuniones 1:1]]
+- [ ] [[Lab 1 - Simular un 1:1 con Claude]] (laboratorio)
+
+### Delegar y desarrollar
+- [ ] [[Delegar por niveles de autonomía]]
+- [ ] [[Planes de desarrollo profesional]]
+- [ ] [[Mentoría y coaching]] ⭐
+
+### Desempeño
+- [ ] [[Definir expectativas claras]] ⭐
+- [ ] [[Feedback continuo (modelo SBI)]] ⭐
+- [ ] [[Evaluaciones de desempeño]]
+- [ ] [[Manejar bajo rendimiento]] ⭐
+- [ ] [[Reconocimiento]]
+- [ ] [[Lab 2 - Dar feedback SBI a un caso]] (laboratorio)
+
+### Equipo
+- [ ] [[Seguridad psicológica]] ⭐
+- [ ] [[Rituales de equipo (retros, planning y demos)]]
+- [ ] [[Conflictos en el equipo]]
+- [ ] [[Onboarding de nuevos integrantes]]
+
+### Contratación
+- [ ] [[Definir el perfil del puesto]]
+- [ ] [[Entrevistar candidatos (ser el entrevistador)]] (vive en 14 · Carrera)
+- [ ] [[Decidir y dar respuesta a candidatos]]
+
+### Gestión hacia arriba
+- [ ] [[Gestionar a tu jefe (managing up)]]
+- [ ] [[Reportar avance y riesgos]]
+
+---
+
+# Temas de interés 🆕
+
+> Áreas 60 a 68: tecnología en casa, cielo, viajes, filosofía, mitología y la restauración del vocho.
+
+## 60 · Desarrollo de videojuegos 🆕
+
+> Unity y Godot usan C#: aprovecha lo que sabes de .NET. Licencias y precios de motores se verifican al escribir cada nota.
+
+### Fundamentos
+- [ ] [[Qué es un motor de videojuegos]] ⭐
+- [ ] [[Godot vs Unity vs Unreal]] ⭐
+- [ ] [[El game loop]] ⭐
+- [ ] [[Escenas, nodos y entidades]]
+- [ ] [[Matemáticas para videojuegos (vectores y trigonometría)]]
+
+### Godot
+- [ ] [[Godot - interfaz y escenas]] ⭐
+- [ ] [[GDScript básico]]
+- [ ] [[C# en Godot]] ⭐
+- [ ] [[Señales en Godot]]
+- [ ] [[Física 2D en Godot]]
+- [ ] [[Exportar un juego de Godot]]
+- [ ] [[Lab 1 - Pong en Godot]] (laboratorio)
+
+### Unity
+- [ ] [[Unity - interfaz, escenas y GameObjects]]
+- [ ] [[C# en Unity (MonoBehaviour y ciclo de vida)]] ⭐
+- [ ] [[Física en Unity]]
+- [ ] [[Prefabs en Unity]]
+- [ ] [[Licencia de Unity]]
+
+### Game design
+- [ ] [[Mecánicas, dinámicas y estética (MDA)]] ⭐
+- [ ] [[Diseño de niveles]]
+- [ ] [[Curva de dificultad]]
+- [ ] [[Game feel (que el juego se sienta bien)]]
+- [ ] [[Prototipar rápido un juego]] ⭐
+
+### Arte y sonido
+- [ ] [[Sprites y pixel art]]
+- [ ] [[Usar modelos de Blender en un juego]] (enlaza con 38)
+- [ ] [[Animación de personajes]]
+- [ ] [[Sonido y música para videojuegos]]
+- [ ] [[Assets gratuitos y sus licencias]]
+- [ ] [[Lab 4 - Juego 3D con un modelo propio de Blender]] (laboratorio)
+
+### Programación de juegos
+- [ ] [[Máquinas de estado para personajes]] ⭐
+- [ ] [[Patrones de diseño en videojuegos (componentes, observer y object pool)]]
+- [ ] [[Colisiones]]
+- [ ] [[Inteligencia artificial básica en juegos (pathfinding A*)]]
+- [ ] [[Guardar partidas]]
+- [ ] [[Interfaz de usuario en videojuegos]]
+- [ ] [[Lab 2 - Plataformero 2D con C#]] (laboratorio)
+
+### Publicar
+- [ ] [[Game jams]] ⭐
+- [ ] [[Publicar en itch.io]]
+- [ ] [[Publicar en Steam (conceptos)]]
+- [ ] [[Pruebas con jugadores (playtesting)]]
+- [ ] [[Lab 3 - Participar en una game jam]] (laboratorio)
+
+---
+
+## 61 · Homelab y self-hosting 🆕
+
+> Tu propio servidor en casa: practicas Linux, redes, Docker y respaldos sin pagar nube.
+
+### Fundamentos
+- [ ] [[Qué es un homelab y para qué sirve]] ⭐
+- [ ] [[Hardware para un homelab (mini PC, PC vieja y Raspberry Pi)]] ⭐
+- [ ] [[Consumo eléctrico y ruido del homelab]]
+- [ ] [[Planear tu homelab]]
+
+### Sistema y virtualización
+- [ ] [[Proxmox]] ⭐
+- [ ] [[Máquinas virtuales vs contenedores]]
+- [ ] [[Linux para desarrolladores (SSH, permisos, procesos y systemd)]] (vive en 02 · Fundamentos)
+- [ ] [[Docker]] (vive en 08)
+- [ ] [[Portainer y Dockge]]
+- [ ] [[Lab 1 - Proxmox en una PC vieja]] (laboratorio)
+
+### Almacenamiento
+- [ ] [[NAS (conceptos y opciones)]] ⭐
+- [ ] [[TrueNAS y Unraid]]
+- [ ] [[RAID y ZFS]] ⭐
+- [ ] [[Discos para NAS]]
+
+### Red del homelab
+- [ ] [[IP fija y reservas DHCP en casa]]
+- [ ] [[VLANs en casa]]
+- [ ] [[DNS local y bloqueo de anuncios (Pi-hole y AdGuard Home)]]
+- [ ] [[Proxy inverso en el homelab (Nginx Proxy Manager, Caddy y Traefik)]] ⭐
+- [ ] [[Certificados HTTPS en el homelab]]
+- [ ] [[Lab 4 - Proxy inverso con HTTPS]] (laboratorio)
+
+### Acceso remoto
+- [ ] [[VPN con WireGuard]] ⭐
+- [ ] [[Tailscale]]
+- [ ] [[Cloudflare Tunnel]]
+- [ ] [[Riesgos de exponer servicios a internet]] ⭐
+- [ ] [[Lab 3 - Acceso remoto seguro con WireGuard o Tailscale]] (laboratorio)
+
+### Servicios
+- [ ] [[Nextcloud (nube propia)]]
+- [ ] [[Immich (fotos propias)]] ⭐
+- [ ] [[Respaldar fotos y videos en el homelab]]
+- [ ] [[Jellyfin (servidor de medios)]]
+- [ ] [[Vaultwarden (gestor de contraseñas propio)]]
+- [ ] [[Monitoreo del homelab (Uptime Kuma y Grafana)]]
+- [ ] [[Gitea (Git propio)]]
+- [ ] [[Modelos locales con Ollama]] (vive en 16)
+- [ ] [[Lab 2 - Immich con respaldo de fotos del iPhone]] (laboratorio)
+
+### Respaldo y mantenimiento
+- [ ] [[Respaldo 3-2-1 del homelab]] ⭐
+- [ ] [[Actualizaciones y mantenimiento del homelab]]
+- [ ] [[Documentar tu homelab]]
+- [ ] [[UPS y cortes de luz]]
+
+---
+
+## 62 · Domótica y casa inteligente 🆕
+
+> Junta homelab (61), electrónica (63) e impresión 3D (36).
+
+### Fundamentos
+- [ ] [[Qué es la domótica]] ⭐
+- [ ] [[Protocolos de domótica (Wi-Fi, Zigbee, Z-Wave, Thread y Matter)]] ⭐
+- [ ] [[Control en la nube vs control local]]
+- [ ] [[Seguridad y privacidad en la casa inteligente]]
+
+### Home Assistant
+- [ ] [[Instalar Home Assistant]] ⭐
+- [ ] [[Integraciones y dispositivos en Home Assistant]]
+- [ ] [[Automatizaciones en Home Assistant]] ⭐
+- [ ] [[Escenas y scripts en Home Assistant]]
+- [ ] [[Dashboards de Home Assistant]]
+- [ ] [[Complementos de Home Assistant]]
+- [ ] [[Lab 1 - Home Assistant y primera automatización]] (laboratorio)
+
+### Dispositivos
+- [ ] [[Enchufes y focos inteligentes]]
+- [ ] [[Sensores de movimiento, puerta, temperatura y humedad]] ⭐
+- [ ] [[Cámaras de seguridad con grabación local]]
+- [ ] [[Cerraduras y timbres inteligentes]]
+- [ ] [[Asistentes de voz]]
+
+### Hazlo tú mismo
+- [ ] [[ESPHome]] ⭐
+- [ ] [[Sensores propios con ESP32]]
+- [ ] [[Cajas impresas en 3D para sensores]]
+- [ ] [[MQTT]]
+- [ ] [[Lab 2 - Sensor de temperatura con ESP32 y ESPHome]] (laboratorio)
+
+### Proyectos
+- [ ] [[Monitoreo de la impresora 3D desde Home Assistant]]
+- [ ] [[Control de humedad para el filamento]]
+- [ ] [[Alertas de consumo eléctrico]]
+- [ ] [[Automatizar las luces del área de trabajo]]
+
+---
+
+## 63 · Electrónica y robótica 🆕
+
+> La sección de electrónica básica del área 37 enlaza aquí.
+
+### Fundamentos
+- [ ] [[Voltaje, corriente y resistencia (ley de Ohm)]] ⭐
+- [ ] [[Circuitos en serie y en paralelo]]
+- [ ] [[Componentes básicos (resistencias, capacitores, diodos y transistores)]] ⭐
+- [ ] [[Leer diagramas electrónicos]]
+- [ ] [[Seguridad eléctrica]] ⭐
+
+### Herramientas
+- [ ] [[Multímetro]] ⭐
+- [ ] [[Protoboard]]
+- [ ] [[Soldadura con cautín]] ⭐
+- [ ] [[Fuente de alimentación de laboratorio]]
+- [ ] [[Osciloscopio (conceptos)]]
+- [ ] [[Lab 2 - Mi primera soldadura]] (laboratorio)
+
+### Microcontroladores
+- [ ] [[Arduino]] ⭐
+- [ ] [[ESP32]] ⭐
+- [ ] [[Raspberry Pi vs microcontroladores]]
+- [ ] [[Programar Arduino en C++]]
+- [ ] [[MicroPython]]
+- [ ] [[Lab 1 - LED y botón con Arduino]] (laboratorio)
+
+### Sensores y actuadores
+- [ ] [[Sensores comunes (temperatura, distancia y movimiento)]]
+- [ ] [[Motores DC, servos y motores a pasos]] ⭐
+- [ ] [[Drivers de motor]]
+- [ ] [[LEDs y tiras de LED direccionables]]
+
+### Comunicación
+- [ ] [[I2C, SPI y UART]]
+- [ ] [[Wi-Fi y Bluetooth en el ESP32]]
+- [ ] [[Conectar un ESP32 a un API .NET]] ⭐
+- [ ] [[Lab 4 - ESP32 enviando datos a un API propio]] (laboratorio)
+
+### Energía
+- [ ] [[Baterías para proyectos electrónicos]]
+- [ ] [[Reguladores de voltaje]]
+- [ ] [[Paneles solares pequeños]]
+
+### Robótica
+- [ ] [[Robot móvil básico]] ⭐
+- [ ] [[Control PID (conceptos)]]
+- [ ] [[Robot seguidor de línea]]
+- [ ] [[Brazo robótico sencillo]]
+- [ ] [[Lab 3 - Robot móvil con sensor de distancia]] (laboratorio)
+
+### Drones armados por ti
+- [ ] [[Partes de un dron armado (frame, motores, ESC y controladora)]]
+- [ ] [[Betaflight y ArduPilot (conceptos)]]
+- [ ] [[FPV (conceptos y normativa)]] (enlaza con 35)
+
+### Diseño de circuitos
+- [ ] [[KiCad]]
+- [ ] [[Mandar a fabricar una PCB]]
+
+---
+
+## 64 · Astronomía y astrofotografía 🆕
+
+> Se apoya en 30 · Fotografía, 32 · Edición de foto y tu equipo (34).
+
+### Fundamentos
+- [ ] [[El cielo nocturno (constelaciones, planetas y estrellas)]] ⭐
+- [ ] [[Movimiento del cielo (rotación, estaciones y fases de la Luna)]] ⭐
+- [ ] [[Apps y mapas del cielo (Stellarium y similares)]] ⭐
+- [ ] [[Contaminación lumínica y escala de Bortle]] ⭐
+- [ ] [[Cielos oscuros en México]]
+- [ ] [[Lab 1 - Identificar 5 constelaciones con Stellarium]] (laboratorio)
+
+### Observación
+- [ ] [[Observar el cielo a simple vista]]
+- [ ] [[Binoculares para astronomía]]
+- [ ] [[Telescopios (tipos y monturas)]]
+- [ ] [[Calendario astronómico (lluvias de meteoros y eclipses)]] ⭐
+- [ ] [[Observar la Luna y los planetas]]
+
+### Astrofotografía básica
+- [ ] [[Vía Láctea con cámara fija]] ⭐
+- [ ] [[Regla de los 500 y regla NPF]] ⭐
+- [ ] [[Enfocar las estrellas]]
+- [ ] [[Astrofotografía con iPhone]]
+- [ ] [[Astrofotografía con la Sony a6700]]
+- [ ] [[Star trails (rastros de estrellas)]]
+- [ ] [[Timelapse nocturno]]
+- [ ] [[Lab 2 - Mi primera Vía Láctea]] (laboratorio)
+- [ ] [[Lab 4 - Star trails]] (laboratorio)
+
+### Astrofotografía avanzada
+- [ ] [[Montura con seguimiento (star tracker)]]
+- [ ] [[Apilado de imágenes (Sequator, Siril y DeepSkyStacker)]] ⭐
+- [ ] [[Tomas de calibración (darks, flats y bias)]]
+- [ ] [[Fotografía lunar y planetaria]]
+- [ ] [[Cielo profundo (nebulosas y galaxias)]]
+- [ ] [[Lab 3 - Apilar 20 fotos en Sequator o Siril]] (laboratorio)
+
+### Edición
+- [ ] [[Procesar astrofotografía]]
+- [ ] [[Reducción de ruido en astrofotografía]]
+
+### Planeación
+- [ ] [[Planear una salida de astrofotografía (Luna, clima y lugar)]] ⭐
+- [ ] [[Seguridad y equipo para salir de noche]]
+- [ ] [[Astrofotografía con dron (qué sí y qué no se puede)]]
+
+---
+
+## 65 · Viajes y fotografía de viaje 🆕
+
+> Requisitos de pasaporte, visas y reglas para volar drones o grabar en zonas protegidas se verifican en la fuente oficial al escribir cada nota.
+
+### Planeación
+- [ ] [[Planear un viaje paso a paso]] ⭐
+- [ ] [[Presupuesto de viaje]]
+- [ ] [[Vuelos y hospedaje (cómo encontrar mejores precios)]]
+- [ ] [[Itinerario flexible]]
+- [ ] [[Lab 1 - Plan completo de un viaje fotográfico de fin de semana]] (laboratorio)
+
+### Documentos y salud
+- [ ] [[Pasaporte mexicano]] ⭐
+- [ ] [[Visas (cómo saber si necesitas una)]] ⭐
+- [ ] [[Seguro de viaje]]
+- [ ] [[Salud en viaje (vacunas y botiquín)]]
+
+### Dinero en viaje
+- [ ] [[Tarjetas, efectivo y comisiones en el extranjero]]
+- [ ] [[Tipo de cambio al viajar]]
+- [ ] [[Cuidar tu dinero en viaje]]
+
+### Viajar con equipo
+- [ ] [[Viajar con cámara, lentes y dron]] ⭐
+- [ ] [[Baterías en el avión]]
+- [ ] [[Volar dron en otros países]] ⭐
+- [ ] [[Respaldar fotos durante el viaje]] ⭐
+
+### Fotografía de viaje
+- [ ] [[Fotografía de viaje]] (vive en 30 · Fotografía)
+- [ ] [[Contar la historia de un viaje (fotos y video)]]
+- [ ] [[Fotografiar personas con respeto]]
+- [ ] [[Planear tomas (hora dorada, clima y lugares)]]
+- [ ] [[Lab 2 - Mini documental de un viaje]] (laboratorio)
+
+### Destinos fotográficos
+- [ ] [[Rutas fotográficas en México]] ⭐
+- [ ] [[Pueblos Mágicos para fotografiar]]
+- [ ] [[Zonas arqueológicas (reglas para foto, video y dron)]] ⭐
+- [ ] [[Parques nacionales y naturaleza en México]]
+
+### Seguridad
+- [ ] [[Seguridad al viajar]] ⭐
+- [ ] [[Viajar solo]]
+- [ ] [[Ciberseguridad en viaje]] (enlaza con 51)
+
+---
+
+## 66 · Filosofía práctica 🆕
+
+### Fundamentos
+- [ ] [[Qué es la filosofía práctica]] ⭐
+- [ ] [[Las grandes preguntas de la filosofía]]
+- [ ] [[Pensar con filosofía]] (enlaza con 47)
+
+### Estoicismo
+- [ ] [[Estoicismo - qué es]] ⭐
+- [ ] [[Dicotomía del control]] ⭐
+- [ ] [[Marco Aurelio, Séneca y Epicteto]]
+- [ ] [[Ejercicios estoicos (visualización negativa, visión desde arriba y diario)]] ⭐
+- [ ] [[Estoicismo y manejo del estrés]]
+- [ ] [[Lab 1 - Dos semanas de diario estoico]] (laboratorio)
+
+### Otras escuelas
+- [ ] [[Epicureísmo]]
+- [ ] [[Aristóteles y la ética de la virtud]]
+- [ ] [[Budismo como filosofía práctica]]
+- [ ] [[Existencialismo (Camus y Sartre)]]
+- [ ] [[Pensamiento náhuatl y Nezahualcóyotl]] (enlaza con 67)
+
+### Ética
+- [ ] [[Corrientes de la ética (consecuencias, deber y virtud)]]
+- [ ] [[Ética en la tecnología y la IA]]
+
+### Vivir con propósito
+- [ ] [[Valores personales]] ⭐
+- [ ] [[Propósito y sentido]]
+- [ ] [[Gratitud]]
+- [ ] [[Minimalismo]]
+- [ ] [[Lab 2 - Definir mis valores personales]] (laboratorio)
+
+### Práctica
+- [ ] [[Diario filosófico]] ⭐
+- [ ] [[Lecturas recomendadas de filosofía práctica]]
+- [ ] [[Aplicar la filosofía en el trabajo]]
+
+---
+
+## 67 · Mitología e historia mesoamericana y griega 🆕
+
+> Incluye la historia detrás de los nombres de tus proyectos (marcados con 🛠).
+
+### Mesoamérica
+- [ ] [[Mesoamérica - qué es y sus culturas]] ⭐
+- [ ] [[Línea de tiempo de Mesoamérica]] ⭐
+- [ ] [[Calendarios mesoamericanos (tonalpohualli, xiuhpohualli y cuenta larga)]]
+- [ ] [[Cosmovisión mesoamericana (rumbos y niveles del universo)]]
+- [ ] [[Lab 1 - Línea de tiempo de Mesoamérica]] (laboratorio)
+
+### Mexicas
+- [ ] [[Los mexicas - historia y Tenochtitlan]] ⭐
+- [ ] [[Dioses mexicas principales]] ⭐
+- [ ] [[Quetzalcóatl]]
+- [ ] [[Huitzilopochtli]]
+- [ ] [[Tezcatlipoca]]
+- [ ] [[Tláloc]]
+- [ ] [[Mito de los cinco soles]] ⭐
+- [ ] [[Los pochtecas (comerciantes mexicas)]] ⭐ 🛠 (Pochteca.Nomisma)
+- [ ] [[Ocelotl y los guerreros jaguar]] 🛠 (Ocelotl)
+
+### Mayas
+- [ ] [[Los mayas - historia y ciudades]] ⭐
+- [ ] [[Dioses mayas principales]]
+- [ ] [[Itzamná]] 🛠 (Itzamna)
+- [ ] [[El Popol Vuh]] ⭐
+- [ ] [[Escritura y matemáticas mayas]]
+
+### Otras culturas mesoamericanas
+- [ ] [[Olmecas]]
+- [ ] [[Teotihuacan]]
+- [ ] [[Zapotecas y mixtecos]]
+- [ ] [[Toltecas]]
+
+### Grecia
+- [ ] [[Mitología griega - origen y fuentes]] ⭐
+- [ ] [[Los dioses del Olimpo]] ⭐
+- [ ] [[Hermes]] 🛠 (Ocelotl.Hermes)
+- [ ] [[Iris (mensajera de los dioses)]] 🛠 (Ocelotl.Iris)
+- [ ] [[Hécate]] 🛠 (Hecate)
+- [ ] [[Dionisio]] 🛠 (Itzamna.Dionisio)
+- [ ] [[Las musas y Clío]] 🛠 (Itzamna.Clio)
+- [ ] [[Argo y los argonautas]] 🛠 (Argo)
+- [ ] [[Nomisma (la moneda griega)]] 🛠 (Pochteca.Nomisma)
+- [ ] [[Héroes griegos (Heracles, Perseo y Teseo)]]
+- [ ] [[La Ilíada y la Odisea]] ⭐
+
+### Comparaciones
+- [ ] [[Mitología mesoamericana vs griega]] ⭐
+- [ ] [[Mitos de creación comparados]]
+
+### Visitar y aprender más
+- [ ] [[Museo Nacional de Antropología]] ⭐
+- [ ] [[Zonas arqueológicas para visitar]] ⭐
+- [ ] [[Libros y documentales de mitología e historia]]
+- [ ] [[Lab 2 - Visita al Museo de Antropología con fotos]] (laboratorio)
+
+### Para tus proyectos
+- [ ] [[La historia detrás del nombre de mis proyectos]] ⭐ 🛠
+- [ ] [[Ideas de nombres para proyectos futuros]]
+- [ ] [[Lab 3 - Escribir la historia del nombre de cada proyecto]] (laboratorio)
+
+---
+
+## 68 · Restauración del Vocho 🆕
+
+> Meta: restaurar tu VW Sedán. Datos técnicos (según el año de tu vocho), trámites y verificación se confirman en manuales y fuentes oficiales de tu estado al escribir cada nota. La seguridad va primero: nunca trabajes bajo el auto sostenido solo con el gato.
+
+### Conocer tu vocho
+- [ ] [[Historia del Volkswagen Sedán en México]]
+- [ ] [[Identificar año y versión de tu vocho (número de serie)]] ⭐
+- [ ] [[Partes principales del vocho]] ⭐
+- [ ] [[Evaluar el estado del vocho antes de restaurar]] ⭐
+- [ ] [[Plan y presupuesto de restauración]] ⭐
+- [ ] [[Restauración original vs personalizada]]
+- [ ] [[Lab 1 - Inspección completa y lista de trabajos]] (laboratorio)
+
+### Taller y seguridad
+- [ ] [[Herramientas básicas de mecánica]] ⭐
+- [ ] [[Seguridad al trabajar bajo un auto (gato y torres)]] ⭐
+- [ ] [[Organizar el espacio y las piezas al desarmar]]
+- [ ] [[Manuales de taller del vocho]]
+- [ ] [[Documentar la restauración con fotos y bitácora]]
+
+### Motor
+- [ ] [[Cómo funciona un motor bóxer enfriado por aire]] ⭐
+- [ ] [[Cambio de aceite y filtro del vocho]] ⭐
+- [ ] [[Afinación del vocho (bujías, encendido y tiempo)]] ⭐
+- [ ] [[Carburador o inyección (según el año)]]
+- [ ] [[Enfriamiento por aire (turbina y termostato)]]
+- [ ] [[Fallas comunes del motor y diagnóstico]]
+- [ ] [[Reparar o reconstruir el motor (cuándo y con quién)]]
+- [ ] [[Lab 2 - Cambio de aceite]] (laboratorio)
+- [ ] [[Lab 3 - Afinación básica]] (laboratorio)
+
+### Transmisión y frenos
+- [ ] [[Clutch y su ajuste]]
+- [ ] [[Transeje y cambios]]
+- [ ] [[Frenos de tambor y de disco]] ⭐
+- [ ] [[Líquido de frenos y purgado]]
+
+### Suspensión y dirección
+- [ ] [[Suspensión de barras de torsión]]
+- [ ] [[Amortiguadores]]
+- [ ] [[Dirección y alineación]]
+- [ ] [[Llantas y rines]]
+
+### Sistema eléctrico
+- [ ] [[Sistema eléctrico del vocho]] ⭐
+- [ ] [[Batería, generador o alternador]]
+- [ ] [[Luces, fusibles y arnés]]
+- [ ] [[Leer el diagrama eléctrico del vocho]] (enlaza con 63)
+
+### Carrocería y pintura
+- [ ] [[Óxido y corrosión (detectar y tratar)]] ⭐
+- [ ] [[Lámina, soldadura y reparación de pisos]]
+- [ ] [[Preparar la carrocería para pintura]]
+- [ ] [[Pintura (hacerla tú o mandarla hacer)]]
+- [ ] [[Hules, empaques y cromados]]
+- [ ] [[Lab 4 - Tratar un punto de óxido]] (laboratorio)
+
+### Interiores
+- [ ] [[Vestiduras y asientos]]
+- [ ] [[Tablero e instrumentos]]
+- [ ] [[Aislamiento térmico y acústico]]
+- [ ] [[Piezas de interior impresas en 3D]] (enlaza con 37)
+- [ ] [[Lab 5 - Imprimir en 3D una pieza para el vocho]] (laboratorio)
+
+### Piezas y costos
+- [ ] [[Dónde conseguir refacciones del vocho en México]] ⭐
+- [ ] [[Piezas originales, réplica y usadas]]
+- [ ] [[Controlar el costo de la restauración]] ⭐
+- [ ] [[Clubes y comunidades de vocho]]
+
+### Mejoras
+- [ ] [[Mejoras de seguridad (frenos de disco y cinturones)]]
+- [ ] [[Encendido electrónico]]
+- [ ] [[Conversión a eléctrico (conceptos)]]
+
+### Trámites
+- [ ] [[Verificación vehicular y placas]]
+- [ ] [[Placas de auto antiguo (según el estado)]]
+- [ ] [[Seguro para el vocho]]
+
 ---
 
 ## Recursos transversales
+
+### Biblioteca de lectura para senior y arquitecto 🆕
+- [ ] [[Libro - Designing Data-Intensive Applications]] 🆕 ⭐
+- [ ] [[Libro - Fundamentals of Software Architecture]] 🆕 ⭐
+- [ ] [[Libro - Software Architecture - The Hard Parts]] 🆕 ⭐
+- [ ] [[Libro - Building Evolutionary Architectures]] 🆕
+- [ ] [[Libro - Domain-Driven Design Distilled]] 🆕
+- [ ] [[Libro - Learning Domain-Driven Design]] 🆕
+- [ ] [[Libro - Release It!]] 🆕 ⭐
+- [ ] [[Libro - Team Topologies]] 🆕
+- [ ] [[Libro - Staff Engineer]] 🆕
+- [ ] [[Libro - The Software Architect Elevator]] 🆕
+- [ ] [[Libro - System Design Interview (vol. 1 y 2)]] 🆕
+
+### Sistema de estudio 🆕
+- [ ] [[Repaso espaciado de notas (plugin Spaced Repetition)]] 🆕 ⭐
+- [ ] [[Tablero de avance con Dataview (progreso por área)]] 🆕 ⭐
+- [ ] [[Revisión semanal y mensual de aprendizaje]] 🆕
+
 
 - [ ] [[Glosario]]
 - [ ] [[Errores y soluciones]]
